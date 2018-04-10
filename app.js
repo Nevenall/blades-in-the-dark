@@ -1,5 +1,10 @@
-var readYaml = require('read-yaml');
-readYaml('pages.yml', function(err, data) {
-   if (err) throw err;
-   console.log(data);
+var font = require('fontkit');
+
+
+font.open("C:\\Users\\neven\\Downloads\\Plex\\IBM-Plex-Serif\\IBMPlexSerif-Regular.ttf", (err, font) => {
+
+   font.availableFeatures.forEach(element => {
+      console.log(element);
+   });
+
 });

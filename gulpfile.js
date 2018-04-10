@@ -39,12 +39,13 @@ md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
 };
 
 
+const source = ['**/*.md', '!node_modules/**', '!tools/**'];
 gulp.task('clean', function() {
    return del('html/**');
 });
 
 gulp.task('build', ['clean'], function() {
-   return gulp.src(['**/*.md', '!node_modules/**'])
+   return gulp.src(source)
       .pipe(tap((file) => {
          var result = md.render(file.contents.toString());
          file.contents = new Buffer(result);
@@ -55,18 +56,18 @@ gulp.task('build', ['clean'], function() {
 });
 
 gulp.task('spelling', function() {
-   return gulp.src(['**/*.md', '!node_modules/**'])
+   return gulp.src(source)
       .pipe(shell(['echo "<%= file.path %>"', 'OddSpell "<%= file.path %>"']));
 });
 
 gulp.task('count', function() {
-   return gulp.src(['**/*.md', '!node_modules/**'])
+   return gulp.src(source)
       .pipe(count());
 });
 
 // vale and markdown lint will probably need different problem matchers.
 gulp.task('lint', function() {
-   return gulp.src(['**/*.md', '!node_modules/**'])
+   return gulp.src(source)
       .pipe(tap((file) => {
          markdownLint({files: [file]}, function(err, result) {
             var resultString = (result || "").toString();
