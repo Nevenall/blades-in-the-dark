@@ -1327,15 +1327,13 @@ When you send a cohort to achieve a goal, roll their **quality** to see how it g
 
 > The next day, the crew boss goes back and leads a group action, rolling her 3d in <span class="game-term">Skirmish</span> alongside the Thugs’ 2d. The boss gets a <span class="game-term">6</span> this time—they beat the tar out of the other gang and send them packing (at least for now).
 
-## Cohort harm &amp; Healing
+## Cohort harm & Healing
 
 Cohorts suffer harm similarly to PCs. A cohort can suffer four levels of harm:
-<ol>
-	<li>**Weakened.** The cohort has reduced effect.
-	<li>**Impaired.** The cohort operates with reduced quality (-1d).
-	<li>**Broken.** The cohort can’t do anything until they recover.
-	<li>**Dead.** The cohort is destroyed.
-</ol>
+  - **Weakened.** The cohort has reduced effect.
+  - **Impaired.** The cohort operates with reduced quality (-1d).
+  - **Broken.** The cohort can’t do anything until they recover.
+  - **Dead.** The cohort is destroyed.
 
 All of your cohorts heal during downtime. If circumstances are amenable for recovery, each cohort removes one level of harm (or two levels of harm instead, if a PC spends a downtime activity helping them recuperate).
 
