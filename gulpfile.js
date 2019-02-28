@@ -68,9 +68,14 @@ function render(callback) {
                if (parsed.data.metadata) {
                   // record the original .md file path
                   vinyl.pageData = parsed.data.metadata
-                  vinyl.pageData.sourcePath = parsed.path
-
+               } else {
+                  //todo - if there is no frontmatter, we stil need to include this page
+                  vinyl.pageData = {
+                     name: vinyl.stem,
+                     order: book.allPages.length + 1
+                  }
                }
+               vinyl.pageData.sourcePath = parsed.path
 
                callback(null, vinyl)
             })
@@ -97,9 +102,9 @@ function render(callback) {
    }
 }
 
-function makeBook(callback) {
+function writeBook(callback) {
    // todo - write out a list of pages in order so that consuming apps can construct a book object?
-   fs.writeFile("html/book.js", `module.exports = ${JSON.stringify(book)}`, err => {
+   fs.writeFile("html/book.js", `module.exports = ${JSON.stringify(book,null,3)}`, err => {
       if (err) throw err
       log.info(`wrote book.js`)
    })
@@ -165,7 +170,7 @@ function prose(callback) {
       }))
 }
 
-const build = series(clean, render, makeBook, assets)
+const build = series(clean, render, writeBook, assets)
 
 exports.build = build
 exports.publish = series(build, publish)
