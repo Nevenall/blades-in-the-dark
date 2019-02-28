@@ -33,7 +33,7 @@ var book = null
 
 // todo - what if we run all the linters when we build and make one generic problem output? 
 function render(callback) {
-   book = new Book('Temporary Title', path.resolve(destination))
+   book = new Book('Blades in the Dark', path.resolve(destination))
 
    return src(sourceGlob)
       .pipe(through2.obj(function(vinyl, _, callback) {
