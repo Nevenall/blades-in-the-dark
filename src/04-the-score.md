@@ -3,7 +3,7 @@ title: The Score
 order: 04
 ---
 
-# The Score
+## The Score
 
 *Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.*
 
@@ -21,7 +21,7 @@ The PCs can set up a new score by choosing a target (from their claims or the fa
 
 A score consists of a few key elements, detailed in this chapter: **planning &amp; engagement**, **flashbacks**, and **teamwork**.
 
-# Planning &amp; engagement
+## Planning &amp; engagement
 
 Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about the best approach, lamenting the dangers ahead, and lusting after stacks of coin.
 
@@ -31,21 +31,21 @@ There are six different plans, each with a missing **detail** you need to provid
 
 @TODO Add table p79
 
-## The Detail
+### The Detail
 
 When you choose a plan, you provide a missing **detail**, like the point of attack, social connection, etc. If you don’t know the detail, you can **gather information** in some way to discover it.
 
-## Item Loadouts
+### Item Loadouts
 
 After the plan and detail are in place, each player chooses their character’s **load**. This indicates how much stuff they’re carrying on the operation. They don’t have to select individual items—just the maximum amount they’ll have access to during the action.
 
-## Engagement Roll
+### Engagement Roll
 
 Once the players choose a plan and provide its detail, the GM cuts to the action—describing the scene as the crew starts the operation and encounters their first obstacle. But how is this established? The way the GM describes the starting situation can have a huge impact on how simple or troublesome the operation turns out to be. Rather than expecting the GM to simply “get it right” each time, we use a dice roll instead. This is the **engagement roll**.
 
 The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. Modify the dice pool for any major advantages or disadvantages that apply.
 
-### Major Advantages / Disadvantages
+#### Major Advantages / Disadvantages
 
 - Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
 - Does the **plan’s detail** expose a vulnerability of the target or hit them where they’re weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
@@ -66,7 +66,7 @@ Don’t make the engagement roll and then describe the PCs *approaching_ the tar
 
 If the players want to include a special preparation or clever setup, they can do so with **flashbacks** during the score. This takes some getting used to. Players may balk at first, worried that you’re skipping over important things that they want to do. But jumping straight into the action of the score is much more effective once you get used to it. When they see the situation they’re in, their “planning” in flashbacks will be focused and useful, rather than merely speculations on circumstances and events that might not even happen.
 
-### Outcomes
+#### Outcomes
 
 The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A <span class="game-term">1-3</span> means a desperate position. A <span class="game-term">4/5</span> is a risky position. A <span class="game-term">6</span> yields a controlled position. And a <span class="game-term">critical</span> carries the action beyond the initial obstacle, deeper into the action of the score.
 
@@ -74,11 +74,11 @@ No matter how low-Tier or outmatched you are, a desperate position is the worst 
 
 When you describe the situation after the roll, use the details of the target to paint a picture of the PCs’ position. How might the strange, occult gang present a desperate position for burglars? How might the violent and ruthless butchers present a risky threat to assaulting thugs? How might the vain and pompous Lord present a controlled opportunity for a manipulative scoundrel? Use this opportunity to show how the PCs’ enemies are dangerous and capable—don’t characterize a bad engagement roll as a failure by the PCs, or they won’t trust the technique in the future. Sure, things are starting out desperate here against the creepy occultists, but you’re just the type of characters who are daring enough to take them on. Let’s get to it.
 
-### How long does it last?
+#### How long does it last?
 
 The engagement roll determines the starting position for the PCs’ actions. How long does that hold? Does the situation stay desperate? No. Once the initial actions have been resolved, you follow the normal process for establishing position for the rest of the rolls during the score. The engagement roll is a quick short-hand to kick things off and get the action started—it doesn’t have any impact after that.
 
-## Linked Plans
+### Linked Plans
 
 Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the tavern, and when they send thugs over there, we’ll break into their lair.” There are two ways to handle this.
 
@@ -89,7 +89,7 @@ Sometimes an operation seems to call for a couple of plans linked together. A co
 
 Either approach is fine. It’s usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
 
-## Flashbacks
+### Flashbacks
 
 The rules don’t distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a <span class="game-term">Sway</span> roll to see how that went.
 
@@ -105,11 +105,11 @@ If a flashback involves a **downtime** activity, pay 1 <span class="game-term">c
 
 One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you’re in, you can call for a flashback to a special preparation you made, “just in case” something like this happened. This way, your “flashback planning” will be focused on the problems that *do _happen, not the problems that _might* happen.
 
-### Limits of flashbacks
+#### Limits of flashbacks
 
 A flashback isn’t time travel. It can’t “undo” something that just occurred in the present moment. For instance, if an Inspector confronts you about recent thefts of occult artifacts when you’re at the Lady’s party, you can’t call for a flashback to assassinate the Inspector the night before. She’s here now, questioning you—that’s established in the fiction. You *can* call for a flashback to show that you intentionally tipped off the inspector so she would confront you at the party—so you could use that opportunity to impress the Lady with your aplomb and daring.
 
-#### flashback examples
+##### flashback examples
 
 > “I want to have a flashback to earlier that night, where I sneak into the stables and feed fireweed to all their goats so they’ll go berserk and create a distraction for our infiltration.”
 
@@ -141,13 +141,13 @@ A flashback isn’t time travel. It can’t “undo” something that just occur
 
 > “I did it. I’ll roll Tinker to set the fuse just right. Hopefully.”
 
-## Giving up on a score
+### Giving up on a score
 
 When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You’ll usually have zero **payoff**, since you didn’t accomplish anything. You’ll still face <span class="game-term">heat</span> and **entanglements** as usual.
 
-# Teamwork
-
 ## Teamwork
+
+### Teamwork
 
 When the team of PCs works together, the characters have access to four special **teamwork maneuvers**. They’re listed at the bottom of the character playbook sheets to help remind the players of them. The four maneuvers are:
 
@@ -156,13 +156,13 @@ When the team of PCs works together, the characters have access to four special 
 - **Protect** a teammate.
 - **Set up** a character who will follow through on your action.
 
-### Assist
+#### Assist
 
 When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll.* If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
 
 A character may assist a group action, but only if they aren’t taking part in it directly. You decide which character in the group action gets the bonus die.
 
-### Lead a group action
+#### Lead a group action
 
 When you lead a group action, you coordinate multiple members of the team to tackle a problem together. Describe how your character leads the team in a coordinated effort. Do you bark orders, give subtle hand signals, or provide charismatic inspiration?
 
@@ -174,13 +174,13 @@ Each PC who’s involved makes an **action roll** (using the same action) and **
 
 Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll <span class="game-term">Command</span> if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
 
-### Protect
+#### Protect
 
 You step in to face a consequence that one of your teammates would otherwise face. **You suffer it instead of them. You may roll to resist it as normal.** Describe how you intervene.
 
 > This is how you do the “I’ll dive in front of the bullet” You cover for a teammate, suffering any harm or consequences that still linger after you’ve rolled to resist. It hurts, cost stress, and may leave you in a bad spot. But hey, you’re a hero.
 
-### Set up
+#### Set up
 
 When you perform a setup action, you have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1 effect level** or **improved position** for their roll. You choose the benefit, based on the nature of your setup action.
 
@@ -192,6 +192,6 @@ Since a setup action can increase the effect of follow-up actions, it’s also u
 
 > The PCs are facing a heavily armored carriage that’s immune to their weapons. Aldo uses <span class="game-term">Wreck</span> as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
 
-## Do We Have to Use Teamwork?
+### Do We Have to Use Teamwork?
 
 Teamwork maneuvers are options, not requirements. Each character can still perform solo actions as normal during an operation. If your character can’t communicate or somehow coordinate with the rest of the team, you can’t use or benefit from any teamwork maneuvers.
