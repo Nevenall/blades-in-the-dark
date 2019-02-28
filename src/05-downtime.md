@@ -1,3 +1,7 @@
+---
+title: Downtime
+order: 05
+---
 
 # Downtime
 
@@ -5,20 +9,18 @@ After the crew finishes a score (succeed or fail), they take time to recover, re
 
 Downtime fulfills two purposes in the game:
 
-* First, it’s a break for the players. During the action of the score, the PCs are always under threat, charging from obstacle to obstacle in a high-energy sequence. Downtime gives them a reprieve so they can catch their breath and relax a bit—focus on lower-energy, quieter elements of the game, as well as explore personal aspects of their characters.
-* Second, the shift into a new phase of the game signals a shift in which mechanics are needed. There are special rules that are only used during the downtime phase, so they’re kept “out of the way” during the other parts of play. When we shift into downtime, we take out a different toolbox and resolve downtime on its own terms, then shift back into the more action-focused phases of the game afterwards.
+- First, it’s a break for the players. During the action of the score, the PCs are always under threat, charging from obstacle to obstacle in a high-energy sequence. Downtime gives them a reprieve so they can catch their breath and relax a bit—focus on lower-energy, quieter elements of the game, as well as explore personal aspects of their characters.
+- Second, the shift into a new phase of the game signals a shift in which mechanics are needed. There are special rules that are only used during the downtime phase, so they’re kept “out of the way” during the other parts of play. When we shift into downtime, we take out a different toolbox and resolve downtime on its own terms, then shift back into the more action-focused phases of the game afterwards.
 
 Downtime is divided into four parts, which are resolved in order:
-	<ol>
-		<li><span class="game-term">Payoff. </span>The crew receives their rewards from a successfully completed score.
-		<li><span class="game-term">Heat. </span>The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
-		<li><span class="game-term">Entanglements.</span> The crew faces trouble from the rival factions, the law, and the haunted city itself.
-		<li><span class="game-term">Downtime Activities.</span> The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
-	</ol>
+- <span class="game-term">Payoff. </span>The crew receives their rewards from a successfully completed score.
+- <span class="game-term">Heat. </span>The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
+- <span class="game-term">Entanglements.</span> The crew faces trouble from the rival factions, the law, and the haunted city itself.
+- <span class="game-term">Downtime Activities.</span> The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
 
 After the downtime activities are resolved, the game returns to free play, and the group can move toward their next score.
 
-# Payoff
+## Payoff
 
 After a score, the PCs take stock of their income from the operation. A successful score generates both <span class="game-term">rep</span> and <span class="game-term">coin</span>.
 
@@ -30,29 +32,28 @@ If you keep the operation completely quiet so no one knows about it, you earn ze
 
 The crew earns <span class="game-term">coin</span> based on the nature of the operation and/or any loot they seized:
 
-* <span class="game-term">2 coin:</span> A minor job; several full purses.
-* <span class="game-term">4 coin:</span> A small job; a strongbox.
-* <span class="game-term">6 coin:</span> A standard score; decent loot.
-* <span class="game-term">8 coin:</span> A big score; serious loot.
-* <span class="game-term">10+ coin:</span> A major score; impressive loot.
-
+- <span class="game-term">2 coin:</span> A minor job; several full purses.
+- <span class="game-term">4 coin:</span> A small job; a strongbox.
+- <span class="game-term">6 coin:</span> A standard score; decent loot.
+- <span class="game-term">8 coin:</span> A big score; serious loot.
+- <span class="game-term">10+ coin:</span> A major score; impressive loot.
 
 Record the <span class="game-term">coin</span> on the crew sheet, or divvy it up among the crew members as you see fit.
 
-Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there’s a boss that you should be paying. **Subtract <span class="game-term">coin</span> equal to your crew Tier +1** when you pay a tithe to a boss or larger organization. _If you’re supposed to be paying off a boss, but you don’t, start a clock for that boss’s patience running out. Tick it whenever you don’t pay. Every time it fills up, lose 1 faction status with them._
+Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there’s a boss that you should be paying. **Subtract <span class="game-term">coin</span> equal to your crew Tier +1** when you pay a tithe to a boss or larger organization. *If you’re supposed to be paying off a boss, but you don’t, start a clock for that boss’s patience running out. Tick it whenever you don’t pay. Every time it fills up, lose 1 faction status with them.*
 
 You can set the scene and play out a meeting with a client or patron who’s paying the crew if there’s something interesting to explore there. If not, just gloss over it and move on to the next part of downtime.
 
-GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in _Blades_, the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
+GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in *Blades*, the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
 
-# Heat
+## Heat
 
 The city is full of prying eyes and informants. Anything you do might be witnessed, and there’s always evidence left behind. To reflect this, your crew acquires <span class="game-term">heat</span> as they commit crimes. After a score or conflict with an opponent, your crew takes <span class="game-term">heat</span> according to the nature of the operation:
 
-* <span class="game-term">0 heat:</span> Smooth &amp; quiet; low exposure.
-* <span class="game-term">2 heat:</span> Contained; standard exposure.
-* <span class="game-term">4 heat: </span>Loud &amp; chaotic; high exposure.
-* <span class="game-term">6 heat:</span> Wild; devastating exposure.
+- <span class="game-term">0 heat:</span> Smooth &amp; quiet; low exposure.
+- <span class="game-term">2 heat:</span> Contained; standard exposure.
+- <span class="game-term">4 heat: </span>Loud &amp; chaotic; high exposure.
+- <span class="game-term">6 heat:</span> Wild; devastating exposure.
 
 Add +1 <span class="game-term">heat</span> for a high-profile or well-connected target. Add +1 <span class="game-term">heat</span> if the situation happened on hostile turf. Add +1 <span class="game-term">heat</span> if you’re at war with another faction. Add +2 <span class="game-term">heat</span> if killing was involved (whether the crew did the killing or not—bodies draw attention).
 
@@ -74,11 +75,11 @@ Incarceration may result from investigation and arrest by the officers, or becau
 
 The severity of the prison sentence depends on your <span class="game-term">wanted level</span>:
 
-* <span class="game-term">Wanted Level 4: </span>Life or execution.
-* <span class="game-term">Wanted Level 3:</span> A year or two.
-* <span class="game-term">Wanted Level 2:</span> Several months.
-* <span class="game-term">Wanted Level 1:</span> A month or two.
-* <span class="game-term">Wanted Level 0:</span> A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
+- <span class="game-term">Wanted Level 4: </span>Life or execution.
+- <span class="game-term">Wanted Level 3:</span> A year or two.
+- <span class="game-term">Wanted Level 2:</span> Several months.
+- <span class="game-term">Wanted Level 1:</span> A month or two.
+- <span class="game-term">Wanted Level 0:</span> A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
 
 Incarceration is dehumanizing and brutal. The renown of your crew is your only real defense inside. When you serve your time, make an **incarceration roll** using your crew’s Tier as the dice pool.
 
@@ -112,15 +113,15 @@ Political pressures of various sorts can be applied to the magistrates and warde
 
 You arrange smuggling channels inside. You have **+**2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry <span class="game-term">coin</span> in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
 
-# Entanglements
+## Entanglements
 
 Your crew didn’t just spring into existence tonight. You have a complex history of favors, commitments, debts, and promises that got you where you are today. To reflect this, after each score, you roll dice to find out which **entanglement** comes calling. An entanglement might be a rival crew looking to throw their weight around (and demand some <span class="game-term">coin</span>), an Investigator of the City Watch making a case against your crew (but ready for a bribe), or even the attention of a vengeful ghost.
 
-After payoff and <span class="game-term">heat</span> are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current <span class="game-term">heat</span> level. Then roll a number of dice equal to their <span class="game-term">wanted level</span>, and use the result of the roll to select which sort of entanglement manifests. _If <span class="game-term">wanted level</span> is zero, roll two dice and keep the lowest result._
+After payoff and <span class="game-term">heat</span> are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current <span class="game-term">heat</span> level. Then roll a number of dice equal to their <span class="game-term">wanted level</span>, and use the result of the roll to select which sort of entanglement manifests. *If <span class="game-term">wanted level</span> is zero, roll two dice and keep the lowest result.*
 
 @TODO add table p94
 
-Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the _Interrogation_ entanglement, you might wait until a PC indulges their vice, then say the costables picked them up when they were distracted by its pleasures.
+Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the *Interrogation* entanglement, you might wait until a PC indulges their vice, then say the costables picked them up when they were distracted by its pleasures.
 
 Entanglements manifest fully before the PCs have a chance to avoid them. When an entanglement comes into play, describe the situation after the entanglement has manifested. The PCs deal with it from that point—they can’t intercept it and defuse it before it happens. The purpose of the mechanic is to abstract a lot of the complex stuff happening in the backgrounds of the characters’ lives in order to generate trouble for them. Entanglements are the cost of doing business in the underworld—a good crew learns to roll with the punches and pick their battles.
 
@@ -150,15 +151,15 @@ One of your gangs (or other cohorts) causes trouble due to their flaw(s). You ca
 
 ### Interrogation
 
-The officers round up one of the PCs to question them about the crew’s crimes. _How did they manage to capture you?_ Either pay them off with 3 <span class="game-term">coin</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** <span class="game-term">heat</span>). You can **resist** each of those consequences separately.
+The officers round up one of the PCs to question them about the crew’s crimes. *How did they manage to capture you?* Either pay them off with 3 <span class="game-term">coin</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** <span class="game-term">heat</span>). You can **resist** each of those consequences separately.
 
 > Some players really hate it when their character gets captured! Just tell them that this is completely normal for a scoundrel of the underworld. You spend time in and out of jail, getting questioned and harassed by the law. It’s not the end of the world. But now that you’re here in the interrogation room, what kind of person are you? Do you talk? Do you stand up to them? Do you make a deal?
 
 ### Questioning
 
-The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. _Who do they think is most vulnerable?_ Make a **fortune roll** to see how much they talk (<span class="game-term">1-3:</span> **+2** <span class="game-term">heat</span>, <span class="game-term">4/5:</span> **+1** <span class="game-term">heat</span>), or pay the constables off with 2 <span class="game-term">coin</span>.
+The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. *Who do they think is most vulnerable?* Make a **fortune roll** to see how much they talk (<span class="game-term">1-3:</span> **+2** <span class="game-term">heat</span>, <span class="game-term">4/5:</span> **+1** <span class="game-term">heat</span>), or pay the constables off with 2 <span class="game-term">coin</span>.
 
->Roll 2d for a normal person to see how well they keep quiet. If they’re an experienced underworld type or some kind of tough, give them 3d or 4d instead. If they’re soft or if they have some loyalty to the law, give them 1d or 0d.
+> Roll 2d for a normal person to see how well they keep quiet. If they’re an experienced underworld type or some kind of tough, give them 3d or 4d instead. If they’re soft or if they have some loyalty to the law, give them 1d or 0d.
 
 ### Reprisals
 
@@ -166,7 +167,7 @@ An enemy faction makes a move against you (or a friend, contact, or vice purveyo
 
 ### Rivals
 
-A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 <span class="game-term">rep</span> or 1 <span class="game-term">coin</span>) per Tier of the rival, or stand up to them and lose** 1 status**<span class="game-term"> </span>with them.
+A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 <span class="game-term">rep</span> or 1 <span class="game-term">coin</span>) per Tier of the rival, or stand up to them and lose 1 <span class="game-term">status</span> with them.
 
 ### Show of force
 
@@ -182,22 +183,22 @@ A rogue spirit is drawn to you—perhaps it’s a past victim? Acquire the servi
 
 The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (<span class="game-term">1-3</span>: **+2 **<span class="game-term">heat</span>**, **4/5:** level 2 harm**), or pay them off with 1 <span class="game-term">coin</span>.
 
-# Downtime activities
+## Downtime activities
 
-Between scores, your crew spends time at their liberty, attending to personal needs and side projects. These are called **downtime activities** (see the list below). During a downtime phase, each PC has time for **two downtime activities**. _When you’re at war, each PC has time for only one._
+Between scores, your crew spends time at their liberty, attending to personal needs and side projects. These are called **downtime activities** (see the list below). During a downtime phase, each PC has time for **two downtime activities**. *When you’re at war, each PC has time for only one.*
 
-* Acquire Asset
-* Long-Term Project
-* Recover
-* Reduce Heat
-* Train
-* Indulge Vice
+- Acquire Asset
+- Long-Term Project
+- Recover
+- Reduce Heat
+- Train
+- Indulge Vice
 
 You may choose the same activity more than once. You can only attempt actions that you’re in a position to accomplish. If an activity is contingent on another action, resolve that action first.
 
 A PC can make time for more than two activities, at a cost. **Each additional activity from the list costs** **1** <span class="game-term">coin</span> or **1** <span class="game-term">rep</span>. This reflects the time and resulting resource drain while you’re “off the clock” and not earning from a score. When you complete a new score, you reset and get two “free” activities again.
 
-Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are _on the list_ are limited.
+Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are *on the list* are limited.
 
 For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend <span class="game-term">coin</span> after the roll to improve the result level. **Increase the result level by one for each **<span class="game-term">coin</span>** spent.** So, a <span class="game-term">1-3</span> result becomes a <span class="game-term">4</span> or a <span class="game-term">5</span>, a <span class="game-term">4/5</span> result becomes a <span class="game-term">6</span>, and a <span class="game-term">6</span> becomes a <span class="game-term">critical</span>.
 
@@ -209,10 +210,10 @@ For any downtime activity, take **+1d** to the roll if a **friend** or **contact
 
 Gain temporary use of an **asset**:
 
-* One special **item** or set of common items (enough for a gang of your Tier scale).
-* A **cohort** (an expert or gang).
-* A **vehicle**.
-* A **service**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
+- One special **item** or set of common items (enough for a gang of your Tier scale).
+- A **cohort** (an expert or gang).
+- A **vehicle**.
+- A **service**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
 
 “Temporary use” constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
@@ -264,13 +265,13 @@ Reduce <span class="game-term">heat</span> according to the result: <span class=
 
 ### Train
 
-When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**<span class="game-term"> </span>**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. _You can train a given xp track only once per downtime._
+When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**<span class="game-term"> </span>**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. *You can train a given xp track only once per downtime.*
 
 ### Indulge vice
 
 Visit your **vice purveyor** to relieve **stress**. See the next section for details.
 
-# Vice
+## Vice
 
 @TODO add table p101
 
@@ -294,10 +295,10 @@ If your vice roll clears more stress levels than you had marked, you overindulge
 
 When you overindulge, you make a bad call because of your vice—in acquiring it or while under its influence. To bring the effect of this bad decision into the game, select an overindulgence from the list:
 
-* <span class="game-term">Attract Trouble.</span> Select or roll an additional **entanglement**.
-* <span class="game-term">Brag</span> about your exploits. **+2** <span class="game-term">heat</span>.
-* <span class="game-term">Lost.</span> Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
-* <span class="game-term">Tapped.</span> Your current purveyor cuts you off. Find a new source for your vice.
+- <span class="game-term">Attract Trouble.</span> Select or roll an additional **entanglement**.
+- <span class="game-term">Brag</span> about your exploits. **+2** <span class="game-term">heat</span>.
+- <span class="game-term">Lost.</span> Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
+- <span class="game-term">Tapped.</span> Your current purveyor cuts you off. Find a new source for your vice.
 
 ### Ignoring your vice
 
@@ -311,12 +312,12 @@ Along with your character’s heritage and background, their vice tells us what 
 
 NPCs and factions also do things when the PCs have downtime. The GM **advances their project clocks** and chooses a downtime maneuver or two for each faction that they’re interested in at the moment. Choose any maneuver that makes sense for that faction to pursue. For example:
 
-* Seize a claim or increase hold, make an enemy vulnerable, or reduce the hold of a vulnerable enemy.
-* Gather information on the PCs (may be opposed by a PC roll) or another subject.
-* Achieve a short-term goal they’re in position to accomplish.
-* Acquire a new asset.
-* Call in a favor from another faction.
-* Employ political pressure or threats to force someone’s hand.
+- Seize a claim or increase hold, make an enemy vulnerable, or reduce the hold of a vulnerable enemy.
+- Gather information on the PCs (may be opposed by a PC roll) or another subject.
+- Achieve a short-term goal they’re in position to accomplish.
+- Acquire a new asset.
+- Call in a favor from another faction.
+- Employ political pressure or threats to force someone’s hand.
 
 **GM:** Choose downtime maneuvers and advance clocks for the factions you’re interested in right now. Don’t worry about the rest. Later, when you turn your attention to a faction you’ve ignored for a while, go ahead and give them several downtime phases and project clock ticks to “catch up” to current events.
 
@@ -328,7 +329,7 @@ When factions do things that are known in the criminal underworld, **tell the pl
 
 @TODO add tables p102
 
-# Magnitude
+## Magnitude
 
 Supernatural entities and energies have a wide variety of effects and power levels. To help the GM judge these forces consistently, the **magnitude** scale is provided. See the master table of magnitude at right. Magnitude measures the quality level of a ghost or demon or different aspects of an arcane force: its area, scale, duration, range, and force. Whenever you need to assess an entity or power, use the magnitude scale as a guideline to judge how it compares relative to the examples given on the table.
 
@@ -336,19 +337,19 @@ You can use the magnitude of an entity or power as a dice pool for a **fortune r
 
 > A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a <span class="game-term">1-3</span>, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a <span class="game-term">4-5</span>, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a <span class="game-term">6</span>, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a <span class="game-term">critical</span>, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
 
-You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not _always_ additive.
+You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not *always* additive.
 
 > In the example above, the demon generated magnitude 6 force and the GM included its area of effect “for free” as part of the power. A huge wave at a dock should affect the boats and the crews there, in their judgment.
 
-> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _force 6_ and _range 5_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
+> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: *force 6_ and _range 5_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits.*
 
-The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a _guideline_ for setting a magnitude number that seem appropriate to you.
+The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a *guideline* for setting a magnitude number that seem appropriate to you.
 
 This table can also be used as a guide to **quality level** when a PC **acquires an asset **or crafts an **alchemical** or **gadget**.
 
 @TODO add tables from 105
 
-# Rituals
+## Rituals
 
 To enact a ritual is to come into contact with these abyssal forces and entreat them to do your will. It is a practice not without considerable risk.
 
@@ -379,7 +380,7 @@ Once the source of a ritual is found, you may undertake a long-term project to l
 
 To perform a ritual, you must have the <span class="game-term">Ritual</span> special ability, then follow the method outlined by the answers to the ritual questions. Most rituals will take **one downtime activity** to complete, though the GM may call for two (or more) downtime activities for very powerful or far-reaching rituals. Some rituals may be partially performed during downtime and then fully manifested at-will later by completing the last incantation or ritual action. In this case, simply make a note that the ritual has been “primed” and may be unleashed at a later time.
 
-When you perform a ritual, you take an amount of **stress** as established by the ritual questions, according to the **magnitude** of the forces brought to bear. The GM uses magnitude as a _guideline_ for setting the stress cost—it may be higher or lower at their discretion to better describe the nature of the ritual. Some claims and special abilities also reduce the stress cost for ritual casting (like the Cult’s **Ancient Obelisk** claim).
+When you perform a ritual, you take an amount of **stress** as established by the ritual questions, according to the **magnitude** of the forces brought to bear. The GM uses magnitude as a *guideline* for setting the stress cost—it may be higher or lower at their discretion to better describe the nature of the ritual. Some claims and special abilities also reduce the stress cost for ritual casting (like the Cult’s **Ancient Obelisk** claim).
 
 **Rituals take time to cast.** Use the duration examples on the magnitude table to reduce the stress cost based on the time needed, generally no less than an hour.
 
@@ -389,7 +390,7 @@ If a ritual is dangerous or troublesome to perform, make an **action roll** (usu
 
 Each performance of a ritual is a unique event, and may not always work the same way each time. The GM or players may call for a round of questions to establish a ritual anew. Rituals are a way to bring in a wide variety of arcane effects into the game. Use with caution! If you ever go overboard, address the questions again to establish new weirdness and costs if things have gotten out of hand. The abyssal forces are not playthings and cannot be considered a reliable or safe source of power.
 
-# Crafting
+## Crafting
 
 During downtime, a PC can <span class="game-term">Tinker</span> with special materials and tools to produce strange** alchemicals**, **build** (or **modify) items**,** **create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
@@ -417,9 +418,9 @@ Common alchemicals (see **Sample Creations** on page 226) and ordinary items don
 
 To craft something, spend one **downtime activity** to make a <span class="game-term">Tinker</span> roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s Tier, modified by the result of the roll (see the results on the next page).
 
-The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. _If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll._
+The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. *If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll.*
 
-The GM sets a **minimum quality** level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a _guideline_ for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at _higher_ quality if the player wishes to attempt it.
+The GM sets a **minimum quality** level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a *guideline_ for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at _higher* quality if the player wishes to attempt it.
 
 You may spend <span class="game-term">coin</span> 1-for-1 to increase the final quality level result of your roll (this can raise quality level beyond Tier +2).
 
@@ -427,9 +428,9 @@ You may spend <span class="game-term">coin</span> 1-for-1 to increase the final 
 
 Adding a feature or additional function to an item is simpler than creating something new. You don’t need to invent a special formula or plan. Make a crafting roll to modify an item (the baseline quality of an item that you modify is equal to your crew’s Tier, as usual).
 
-* A simple, useful modification requires Tier +1 quality. _A rifle that breaks down into two sections to be more easily concealed._
-* A significant modification requires Tier +2 quality. _Strengthening the barrel and powder load of a gun to fire further._
-* An arcane, spark-craft, or alchemical modification requires Tier +3 quality. _A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators._
+- A simple, useful modification requires Tier +1 quality. *A rifle that breaks down into two sections to be more easily concealed.*
+- A significant modification requires Tier +2 quality. *Strengthening the barrel and powder load of a gun to fire further.*
+- An arcane, spark-craft, or alchemical modification requires Tier +3 quality. *A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators.*
 
 Modified items, like special creations, may have **drawbacks**.
 
@@ -437,9 +438,9 @@ Modified items, like special creations, may have **drawbacks**.
 
 A creation or modification may have one or more drawbacks, chosen by the GM.
 
-* <span class="game-term">Complex. </span>You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
-* <span class="game-term">Conspicuous. </span>This creation doesn’t go unnoticed. Take **+1** <span class="game-term">heat</span> if it’s used any number of times on an operation.
-* <span class="game-term">Consumable.</span> This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
-* <span class="game-term">Rare. </span>This creation requires a rare item or material when it is crafted.
-* <span class="game-term">Unreliable. </span>When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
-* <span class="game-term">Volatile. </span>The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
+- <span class="game-term">Complex. </span>You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
+- <span class="game-term">Conspicuous. </span>This creation doesn’t go unnoticed. Take **+1** <span class="game-term">heat</span> if it’s used any number of times on an operation.
+- <span class="game-term">Consumable.</span> This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
+- <span class="game-term">Rare. </span>This creation requires a rare item or material when it is crafted.
+- <span class="game-term">Unreliable. </span>When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
+- <span class="game-term">Volatile. </span>The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
