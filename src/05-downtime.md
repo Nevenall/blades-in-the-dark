@@ -26,7 +26,7 @@ For any downtime activity, take **+1d** to the roll if a **friend** or **contact
 
 > “Remember how you had that weird vision at the altar to the forgotten gods? Yeah, do you want to get to the bottom of that? Okay, start a long-term project—six segments—called... ‘Weird God Vibes.’ What do you do to work on that?”
 
-### Acquire asset
+#### Acquire asset
 
 Gain temporary use of an **asset**:
 
@@ -49,7 +49,7 @@ If you want to acquire an asset permanently, you can either gain it as a crew up
 
 > Zamira the Whisper is a duelist in the Iruvian style, and would like a fine sword to add to her permanent items. Her player starts a long-term project: “Get My Family Sword Back from the Pawn Shop.” The GM says this is an 8-clock (she can work on it by <span class="game-term">Consorting</span> or <span class="game-term">Swaying</span> the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
 
-### Long-term project
+#### Long-term project
 
 When you work on a long-term project (either a brand new one, or an already existing one), describe what your character does to advance the project clock, and roll one of your actions. Mark segments on the clock according to your result: <span class="game-term">1-3:</span> one segment, <span class="game-term">4/5:</span> two segments, <span class="game-term">6:</span> three segments, <span class="game-term">critical:</span> five segments.
 
@@ -59,7 +59,7 @@ Based on the goal of the project, the GM will tell you the clock(s) to create an
 
 In order to work on a project, you might first have to achieve the means to pursue it—which can be a project in itself. For example, you might want to make friends with a member of the City Council, but you have no connection to them. You could first work on a project to <span class="game-term">Consort</span> in their circles so you have the opportunity to meet one of them. Once that’s accomplished, you could start a new project to form a friendly relationship.
 
-### Recover
+#### Recover
 
 When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don’t have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide service for the whole crew.
 
@@ -77,31 +77,31 @@ Note that it’s the recovering character that takes the recovery action. Healin
 
 Whenever you suffer new harm, clear any ticks on your healing clock.
 
-### Reduce heat
+#### Reduce heat
 
 Say what your character does to reduce the <span class="game-term">heat</span> level of the crew and make an action roll. Maybe you <span class="game-term">Consort</span> with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you <span class="game-term">Command</span> the fear of the local citizens so they’re afraid to snitch.
 
 Reduce <span class="game-term">heat</span> according to the result: <span class="game-term">1-3:</span> one, <span class="game-term">4/5:</span> two, <span class="game-term">6:</span> three, <span class="game-term">critical:</span> five.
 
-### Train
+#### Train
 
 When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**<span class="game-term"> </span>**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. _You can train a given xp track only once per downtime._
 
-### Indulge vice
+#### Indulge vice
 
 Visit your **vice purveyor** to relieve **stress**. See the next section for details.
 
-# Vice
+## Vice
 
 @TODO add table p101
 
-## Stress Relief
+### Stress Relief
 
 Your characters are a special lot. They defy the powers-that-be and dare to prey on those who are considered to be their betters. They push themselves further than ordinary people are willing to go. But this comes at a cost. Their life is one of constant stress. Inevitably, each turns to the seduction of a **vice** in order to cope.
 
 A character’s vice is their obsession. But with this indulgence comes relief from stress and the ability to once again face the overwhelming challenge of their daring life.
 
-## Indulging Your Vice
+### Indulging Your Vice
 
 When you indulge your vice, you clear some stress from your character’s stress track. Say how your character indulges their vice, including which **purveyor of vice** they use to satisfy their needs.  This indulgence takes time, so it can only be done when the crew has **downtime**. Alternately, you may choose to release your character to be “lost in their vice” during a game session, allowing them to indulge off-camera while you play a different PC. A gang member, friend, or contact of the crew might be created as an alternate character to play, thus fleshing out the landscape of PCs.
 
@@ -109,7 +109,7 @@ You roll to find out how much stress relief your character receives. A vice roll
 
 Make an **attribute roll** using your character’s lowest attribute rating (if there’s a tie, that’s fine—simply use that rating). **Clear stress equal to the highest die result.**
 
-### Overindulgence
+#### Overindulgence
 
 If your vice roll clears more stress levels than you had marked, you overindulge. A vice is not a reliable, controllable habit. It’s a risk—and one that can drive your character to act against their own best interests.
 
@@ -120,15 +120,15 @@ When you overindulge, you make a bad call because of your vice—in acquiring it
 * <span class="game-term">Lost.</span> Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
 * <span class="game-term">Tapped.</span> Your current purveyor cuts you off. Find a new source for your vice.
 
-### Ignoring your vice
+#### Ignoring your vice
 
 If you do not or cannot indulge your vice during a downtime phase, you take stress equal to your <span class="game-term">trauma</span>. If you don’t have any <span class="game-term">trauma</span>, you’re free to ignore your vice. It doesn’t have a hold over you (yet).
 
-### Roleplaying &amp; XP
+#### Roleplaying &amp; XP
 
 Along with your character’s heritage and background, their vice tells us what kind of person they are. This obsession impacts their motivations, goals, and behavior. When you ponder what your character might do or say next, you can always consider their vice to help you think of something. As an added benefit, by playing to the nature of your character’s vice, you earn xp at the end of the session.
 
-## NPC &amp; faction downtime
+### NPC &amp; faction downtime
 
 NPCs and factions also do things when the PCs have downtime. The GM **advances their project clocks** and chooses a downtime maneuver or two for each faction that they’re interested in at the moment. Choose any maneuver that makes sense for that faction to pursue. For example:
 
@@ -145,11 +145,11 @@ If you’re not sure how far to progress a faction’s clock, make a fortune rol
 
 When factions do things that are known in the criminal underworld, **tell the players about it** through one of their **friends** or **contacts** or **vice purveyors**. These rumors and bits of gossip can lead to future scores and opportunities for the PCs.
 
-## Downtime Activities Summary
+### Downtime Activities Summary
 
 @TODO add tables p102
 
-# Magnitude
+## Magnitude
 
 Supernatural entities and energies have a wide variety of effects and power levels. To help the GM judge these forces consistently, the **magnitude** scale is provided. See the master table of magnitude at right. Magnitude measures the quality level of a ghost or demon or different aspects of an arcane force: its area, scale, duration, range, and force. Whenever you need to assess an entity or power, use the magnitude scale as a guideline to judge how it compares relative to the examples given on the table.
 
@@ -169,26 +169,26 @@ This table can also be used as a guide to **quality level** when a PC **acquires
 
 @TODO add tables from 105
 
-# Rituals
+## Rituals
 
 To enact a ritual is to come into contact with these abyssal forces and entreat them to do your will. It is a practice not without considerable risk.
 
-## Finding a ritual source
+### Finding a ritual source
 
 A PC with the <span class="game-term">Ritual</span> special ability begins with one known ritual, already learned (answer the questions below to create it). To learn a new ritual, a PC must first find a **source**. A source may be secured as payoff from a score—perhaps you steal a ritual book when your crew robs the Museum of Antiquities. You might also secure a source as the goal of a long-term project—by consorting with cultist friends, studying ancient texts, or some other method you devise.
 
-## Learning a ritual
+### Learning a ritual
 
 Once the source of a ritual is found, you may undertake a long-term project to learn the ritual. Most rituals will require an 8-segment progress clock to learn. The player and the GM answer questions about the ritual to define what it will do in play and what is required to perform it (see below). The player records these answers in their notes for future reference.
 
-### Ritual Questions
+#### Ritual Questions
 <ol>
 	<li>GM asks: **“What does the ritual do and how is it weird?”** Player answers.
 	<li>Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually <span class="game-term">Attune</span>). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
 	<li>GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
 </ol>
 
-### Example Ritual Answers
+#### Example Ritual Answers
 
 > Player: “The ritual wards a person so that the ghosts of their victims cannot find them. It’s weird because... as long as the ward is in place, the person sometimes weeps tears of black blood.”
 
@@ -196,7 +196,7 @@ Once the source of a ritual is found, you may undertake a long-term project to l
 
 > Player: “Gotcha. My new fear is what will happen if the spirits figure out where the ward came from and turn their vengeance on me, instead.”
 
-## Performing a Ritual
+### Performing a Ritual
 
 To perform a ritual, you must have the <span class="game-term">Ritual</span> special ability, then follow the method outlined by the answers to the ritual questions. Most rituals will take **one downtime activity** to complete, though the GM may call for two (or more) downtime activities for very powerful or far-reaching rituals. Some rituals may be partially performed during downtime and then fully manifested at-will later by completing the last incantation or ritual action. In this case, simply make a note that the ritual has been “primed” and may be unleashed at a later time.
 
@@ -210,15 +210,15 @@ If a ritual is dangerous or troublesome to perform, make an **action roll** (usu
 
 Each performance of a ritual is a unique event, and may not always work the same way each time. The GM or players may call for a round of questions to establish a ritual anew. Rituals are a way to bring in a wide variety of arcane effects into the game. Use with caution! If you ever go overboard, address the questions again to establish new weirdness and costs if things have gotten out of hand. The abyssal forces are not playthings and cannot be considered a reliable or safe source of power.
 
-# Crafting
+## Crafting
 
 During downtime, a PC can <span class="game-term">Tinker</span> with special materials and tools to produce strange** alchemicals**, **build** (or **modify) items**,** **create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
-## Inventing
+### Inventing
 
 To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to <span class="game-term">Study</span> it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
 
-### Creation Questions
+#### Creation Questions
 <ol>
 	<li>GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
 	<li>Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
@@ -232,7 +232,7 @@ Once you’ve invented a formula or design, you can **craft** it by using a down
 
 Common alchemicals (see **Sample Creations** on page 226) and ordinary items don’t require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
 
-## Crafting
+### Crafting
 
 @TODO add table p109
 
@@ -244,7 +244,7 @@ The GM sets a **minimum quality** level that must be achieved to craft the item,
 
 You may spend <span class="game-term">coin</span> 1-for-1 to increase the final quality level result of your roll (this can raise quality level beyond Tier +2).
 
-### Modifying an item
+#### Modifying an item
 
 Adding a feature or additional function to an item is simpler than creating something new. You don’t need to invent a special formula or plan. Make a crafting roll to modify an item (the baseline quality of an item that you modify is equal to your crew’s Tier, as usual).
 
@@ -254,7 +254,7 @@ Adding a feature or additional function to an item is simpler than creating some
 
 Modified items, like special creations, may have **drawbacks**.
 
-### Drawbacks
+#### Drawbacks
 
 A creation or modification may have one or more drawbacks, chosen by the GM.
 
