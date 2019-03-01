@@ -219,7 +219,7 @@ After the downtime activities are resolved, the game returns to free play, and t
 
 After a score, the PCs take stock of their income from the operation. A successful score generates both /rep/ and /coin/.
 
-The crew earns 2 /rep/ per score by default. If the target of the score is higher Tier than you, take **+1 /rep/ per Tier higher**. If the target of the score is lower Tier, you get **-1 **/rep/** per Tier lower** (minimum zero).
+The crew earns 2 /rep/ per score by default. If the target of the score is higher Tier than you, take **+1 /rep/ per Tier higher**. If the target of the score is lower Tier, you get **-1*/rep/ per Tier lower** (minimum zero).
 
 > If your crew is Tier I and you pull off a successful score against a Tier III target, you earn 4 /rep/ (2 /rep/, +2 /rep/ for a target two tiers above you). If your crew is Tier III and you complete a score against a Tier I target, you earn 0 /rep/ (2 rep, -2 rep for the lower Tier target).
 
@@ -377,5 +377,4 @@ A rogue spirit is drawn to you—perhaps it’s a past victim? Acquire the servi
 
 #### The usual suspects
 
-The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (/1-3/: **+2 **/heat/**, **4/5:** level 2 harm**), or pay them off with 1 /coin/.
-
+The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (/1-3/: **+2 /heat/, 4/5: level 2 harm**), or pay them off with 1 /coin/.

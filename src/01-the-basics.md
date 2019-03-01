@@ -663,7 +663,7 @@ On the faction ladder next to the Tier numbers is a letter indicating the streng
 
 To move up the ladder and develop your crew, you need /rep/. /Rep/ is a measure of clout and renown. When you accrue enough /rep/, the other factions take you more seriously and you attract the support needed to develop and grow.
 
-When you complete a score, your crew earns **2 **/rep/. If the target of the score is higher Tier than your crew, you get **+1 /rep/ per Tier higher**. If the target of the score is lower Tier, you get **-1 /rep/** per Tier lower** (minimum zero).
+When you complete a score, your crew earns **2 **/rep/. If the target of the score is higher Tier than your crew, you get **+1 /rep/ per Tier higher**. If the target of the score is lower Tier, you get **-1 /rep/ per Tier lower** (minimum zero).
 
 You need **12 /rep/** to fill the /rep/ tracker on your crew sheet. When you fill the tracker, do one of the following:
 

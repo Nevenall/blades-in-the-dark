@@ -20,7 +20,7 @@ A PC can make time for more than two activities, at a cost. **Each additional ac
 
 Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are *on the list* are limited.
 
-For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend /coin/ after the roll to improve the result level. **Increase the result level by one for each **/coin/** spent.** So, a /1-3/ result becomes a /4/ or a /5/, a /4/5/ result becomes a /6/, and a /6/ becomes a /critical/.
+For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend /coin/ after the roll to improve the result level. **Increase the result level by one for each /coin/ spent.** So, a /1-3/ result becomes a /4/ or a /5/, a /4/5/ result becomes a /6/, and a /6/ becomes a /critical/.
 
 **GM:** If a player can’t decide which downtime activity to pick, offer them a long-term project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.
 
@@ -165,7 +165,7 @@ You can add levels of magnitude together to describe a combination of effects, o
 
 The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a *guideline* for setting a magnitude number that seem appropriate to you.
 
-This table can also be used as a guide to **quality level** when a PC **acquires an asset **or crafts an **alchemical** or **gadget**.
+This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
 
 @TODO add tables from 105
 
@@ -183,9 +183,9 @@ Once the source of a ritual is found, you may undertake a long-term project to l
 
 #### Ritual Questions
 <ol>
-	<li>GM asks: **“What does the ritual do and how is it weird?”** Player answers.
-	<li>Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually /Attune/). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
-	<li>GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
+	- GM asks: **“What does the ritual do and how is it weird?”** Player answers.
+	- Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually /Attune/). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+	- GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
 </ol>
 
 #### Example Ritual Answers
@@ -212,19 +212,17 @@ Each performance of a ritual is a unique event, and may not always work the same
 
 ## Crafting
 
-During downtime, a PC can /Tinker/ with special materials and tools to produce strange** alchemicals**, **build** (or **modify) items**,** **create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
+During downtime, a PC can /Tinker/ with special materials and tools to produce strange **alchemicals**, build (or modify) items, create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
 ### Inventing
 
 To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to /Study/ it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
 
 #### Creation Questions
-<ol>
-	<li>GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (/Alchemist/<span class="game-term CharOverride-15">, </span>/Artificer/<span class="game-term CharOverride-15">, </span>/Strange Methods/), they get bonuses when inventing and crafting certain creation types.
-	<li>Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
-	<li>GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
-	<li>Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
-</ol>
+- GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (/Alchemist/<span class="game-term CharOverride-15">, </span>/Artificer/<span class="game-term CharOverride-15">, </span>/Strange Methods/), they get bonuses when inventing and crafting certain creation types.
+- Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
+- GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
+- Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
 
 A PC with the /Alchemist/, /Artificer/, or /Strange Methods/ special abilities invents and learns one special formula when they take the ability (they don’t have to take time to learn it).
 
