@@ -3,7 +3,7 @@ title: The Characters
 order: 02
 ---
 
-# Characters
+# The Characters
 
 ## Character creation
 
@@ -74,11 +74,11 @@ That’s it! Your character is ready for play. When you start the first session,
 
 <span class="number">1</span> **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
 
-<span class="number">2</span> **Choose a heritage.** Detail your choice with a note about your family life. _For example, Ore miners, now war refugees._
+<span class="number">2</span> **Choose a heritage.** Detail your choice with a note about your family life. *For example, Ore miners, now war refugees.*
 
-<span class="number">3</span> **Choose a background.** Detail your choice with your specific history. _For example, Labor: Hunter, mutineer._
+<span class="number">3</span> **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
 
-<span class="number">4</span> **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. _(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)_
+<span class="number">4</span> **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
 
 <span class="number">5</span> **Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
@@ -92,15 +92,15 @@ That’s it! Your character is ready for play. When you start the first session,
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* <span class="game-term">1-3 load:</span>** Light. _You’re faster, less conspicuous; you blend in with citizens._
-* <span class="game-term">4/5 load: </span>**Normal**. _You look like a scoundrel, ready for trouble._
-* <span class="game-term">6 load: </span>**Heavy.** _You’re slower. You look like an operative on a mission._
-* <span class="game-term">7-9 load: </span>**Encumbered.** _You’re overburdened and can’t do anything except move very slowly._
+* <span class="game-term">1-3 load:</span>** Light. *You’re faster, less conspicuous; you blend in with citizens.*
+* <span class="game-term">4/5 load: </span>**Normal**. *You look like a scoundrel, ready for trouble.*
+* <span class="game-term">6 load: </span>**Heavy.** *You’re slower. You look like an operative on a mission.*
+* <span class="game-term">7-9 load: </span>**Encumbered.** *You’re overburdened and can’t do anything except move very slowly.*
 
 
 Some special abilities (like the Cutter’s <span class="game-term">Mule</span> ability or Assassin’s Rigging) increase the load limits.
 
-Some items count as two items for load (they have two connected boxes). _Items in italics don’t count toward your load._
+Some items count as two items for load (they have two connected boxes). *Items in italics don’t count toward your load.*
 
 You don’t need to select specific items now.  Review your personal items and the standard item descriptions.
 
@@ -117,7 +117,7 @@ Medium length description of the character here. Include what kind of activities
 
 ### Starting builds
 
-_If you want some guidance when you assign your four starting action dots and special ability, use one of these templates._
+*If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
 
 **Example 1.** 4 Action Dots assigned plus a special ability
 
@@ -169,7 +169,7 @@ Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
 
 #### Not to be trifled with
 
-You can **push yourself** to do one of the following: _perform a feat of physical force that verges on the superhuman—engage a small gang on equal footing in close combat._
+You can **push yourself** to do one of the following: *perform a feat of physical force that verges on the superhuman—engage a small gang on equal footing in close combat.*
 
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
 
@@ -191,7 +191,7 @@ You recover from harm faster. Permanently fill in one of your healing clock segm
 
 #### Sharpshooter
 
-You can **push yourself** to do one of the following: _make a ranged attack at extreme distance beyond what’s normal for the weapon—unleash a barrage of rapid fire to suppress the enemy._
+You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what’s normal for the weapon—unleash a barrage of rapid fire to suppress the enemy.*
 
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
 
@@ -217,11 +217,11 @@ Penalties from harm are one level less severe (though level 4 harm is still fata
 
 #### Vengeful
 
-You gain an additional **xp trigger**: _You got payback against someone who harmed you or someone you care about._ If your crew helped you get payback, also mark crew xp.
+You gain an additional **xp trigger**: *You got payback against someone who harmed you or someone you care about.* If your crew helped you get payback, also mark crew xp.
 
 #### Alchemist
 
-When you **invent** or **craft** a creation with _alchemical_ features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special formula already known.
+When you **invent** or **craft** a creation with *alchemical* features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special formula already known.
 
 > Follow the Inventing procedure with the GM to define your first special alchemical formula.
 
@@ -231,7 +231,7 @@ During downtime, you get **two ticks** to distribute among any long term project
 
 #### Artificer
 
-When you **invent** or **craft** a creation with _spark-craft_ features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special design already known.
+When you **invent** or **craft** a creation with *spark-craft* features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special design already known.
 
 > Follow the Inventing procedure with the GM to define your first spark-craft design.
 
@@ -275,7 +275,7 @@ When you roll a **desperate** action, you get **+1d** to your roll if you also t
 
 #### The devil’s footsteps
 
-You can **push yourself** to do one of the following: _perform a feat of athletics that verges on the superhuman—maneuver to confuse your enemies so they mistakenly attack each other._
+You can **push yourself** to do one of the following: *perform a feat of athletics that verges on the superhuman—maneuver to confuse your enemies so they mistakenly attack each other.*
 
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) if you’re making a roll, in addition to the special ability.
 
@@ -385,7 +385,7 @@ You know the arcane methods to perform ritual sorcery. You can <span class="game
 
 #### Strange methods
 
-When you **invent** or **craft** a creation with _arcane_ features, get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one arcane design already known.
+When you **invent** or **craft** a creation with *arcane* features, get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one arcane design already known.
 
 > Follow the Inventing procedure with the GM  to define your first arcane design.
 

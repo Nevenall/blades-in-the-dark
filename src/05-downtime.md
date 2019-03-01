@@ -5,7 +5,7 @@ order: 05
 
 # Downtime activities
 
-Between scores, your crew spends time at their liberty, attending to personal needs and side projects. These are called **downtime activities** (see the list below). During a downtime phase, each PC has time for **two downtime activities**. _When you’re at war, each PC has time for only one._
+Between scores, your crew spends time at their liberty, attending to personal needs and side projects. These are called **downtime activities** (see the list below). During a downtime phase, each PC has time for **two downtime activities**. *When you’re at war, each PC has time for only one.*
 
 * Acquire Asset
 * Long-Term Project
@@ -18,7 +18,7 @@ You may choose the same activity more than once. You can only attempt actions th
 
 A PC can make time for more than two activities, at a cost. **Each additional activity from the list costs** **1** <span class="game-term">coin</span> or **1** <span class="game-term">rep</span>. This reflects the time and resulting resource drain while you’re “off the clock” and not earning from a score. When you complete a new score, you reset and get two “free” activities again.
 
-Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are _on the list_ are limited.
+Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are *on the list* are limited.
 
 For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend <span class="game-term">coin</span> after the roll to improve the result level. **Increase the result level by one for each **<span class="game-term">coin</span>** spent.** So, a <span class="game-term">1-3</span> result becomes a <span class="game-term">4</span> or a <span class="game-term">5</span>, a <span class="game-term">4/5</span> result becomes a <span class="game-term">6</span>, and a <span class="game-term">6</span> becomes a <span class="game-term">critical</span>.
 
@@ -85,7 +85,7 @@ Reduce <span class="game-term">heat</span> according to the result: <span class=
 
 #### Train
 
-When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**<span class="game-term"> </span>**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. _You can train a given xp track only once per downtime._
+When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**<span class="game-term"> </span>**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. *You can train a given xp track only once per downtime.*
 
 #### Indulge vice
 
@@ -157,13 +157,13 @@ You can use the magnitude of an entity or power as a dice pool for a **fortune r
 
 > A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a <span class="game-term">1-3</span>, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a <span class="game-term">4-5</span>, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a <span class="game-term">6</span>, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a <span class="game-term">critical</span>, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
 
-You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not _always_ additive.
+You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not *always* additive.
 
 > In the example above, the demon generated magnitude 6 force and the GM included its area of effect “for free” as part of the power. A huge wave at a dock should affect the boats and the crews there, in their judgment.
 
-> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _force 6_ and _range 5_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
+> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: *force 6* and *range 5*. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
 
-The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a _guideline_ for setting a magnitude number that seem appropriate to you.
+The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a *guideline* for setting a magnitude number that seem appropriate to you.
 
 This table can also be used as a guide to **quality level** when a PC **acquires an asset **or crafts an **alchemical** or **gadget**.
 
@@ -200,7 +200,7 @@ Once the source of a ritual is found, you may undertake a long-term project to l
 
 To perform a ritual, you must have the <span class="game-term">Ritual</span> special ability, then follow the method outlined by the answers to the ritual questions. Most rituals will take **one downtime activity** to complete, though the GM may call for two (or more) downtime activities for very powerful or far-reaching rituals. Some rituals may be partially performed during downtime and then fully manifested at-will later by completing the last incantation or ritual action. In this case, simply make a note that the ritual has been “primed” and may be unleashed at a later time.
 
-When you perform a ritual, you take an amount of **stress** as established by the ritual questions, according to the **magnitude** of the forces brought to bear. The GM uses magnitude as a _guideline_ for setting the stress cost—it may be higher or lower at their discretion to better describe the nature of the ritual. Some claims and special abilities also reduce the stress cost for ritual casting (like the Cult’s **Ancient Obelisk** claim).
+When you perform a ritual, you take an amount of **stress** as established by the ritual questions, according to the **magnitude** of the forces brought to bear. The GM uses magnitude as a *guideline* for setting the stress cost—it may be higher or lower at their discretion to better describe the nature of the ritual. Some claims and special abilities also reduce the stress cost for ritual casting (like the Cult’s **Ancient Obelisk** claim).
 
 **Rituals take time to cast.** Use the duration examples on the magnitude table to reduce the stress cost based on the time needed, generally no less than an hour.
 
@@ -238,9 +238,9 @@ Common alchemicals (see **Sample Creations** on page 226) and ordinary items don
 
 To craft something, spend one **downtime activity** to make a <span class="game-term">Tinker</span> roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s Tier, modified by the result of the roll (see the results on the next page).
 
-The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. _If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll._
+The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. *If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll.*
 
-The GM sets a **minimum quality** level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a _guideline_ for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at _higher_ quality if the player wishes to attempt it.
+The GM sets a **minimum quality** level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a *guideline* for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at *higher* quality if the player wishes to attempt it.
 
 You may spend <span class="game-term">coin</span> 1-for-1 to increase the final quality level result of your roll (this can raise quality level beyond Tier +2).
 
@@ -248,9 +248,9 @@ You may spend <span class="game-term">coin</span> 1-for-1 to increase the final 
 
 Adding a feature or additional function to an item is simpler than creating something new. You don’t need to invent a special formula or plan. Make a crafting roll to modify an item (the baseline quality of an item that you modify is equal to your crew’s Tier, as usual).
 
-* A simple, useful modification requires Tier +1 quality. _A rifle that breaks down into two sections to be more easily concealed._
-* A significant modification requires Tier +2 quality. _Strengthening the barrel and powder load of a gun to fire further._
-* An arcane, spark-craft, or alchemical modification requires Tier +3 quality. _A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators._
+* A simple, useful modification requires Tier +1 quality. *A rifle that breaks down into two sections to be more easily concealed.*
+* A significant modification requires Tier +2 quality. *Strengthening the barrel and powder load of a gun to fire further.*
+* An arcane, spark-craft, or alchemical modification requires Tier +3 quality. *A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators.*
 
 Modified items, like special creations, may have **drawbacks**.
 

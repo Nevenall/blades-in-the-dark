@@ -5,17 +5,17 @@ order: 04
 
 # The Score
 
-_Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite._
+*Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.*
 
-In _Blades in the Dark_, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
+In *Blades in the Dark*, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
 
-A score is a single operation with a particular goal: _burgle a Lord’s manor, assassinate the diplomat, smuggle a strange artifact into the city_, etc. Usually, a score will fall into one of three categories:
+A score is a single operation with a particular goal: *burgle a Lord’s manor, assassinate the diplomat, smuggle a strange artifact into the city*, etc. Usually, a score will fall into one of three categories:
 
 * A **criminal activity**, determined by your crew type. An assassination, burglary, illicit vice deal, etc.
-* Seizing a **claim** that you choose from your crew’s **claim map**. Claims help your crew grow and develop. See page <a href="Generic_Character_Playbook.html#_idTextAnchor013">38</a> for more details.
+* Seizing a **claim** that you choose from your crew’s **claim map**. Claims help your crew grow and develop. See page <a href="Generic*Character*Playbook.html#_idTextAnchor013">38</a> for more details.
 * A **special mission** or goal determined by the players (like getting a rare artifact to empower one of the Whisper’s rituals).
 
-A score can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. _Play to find out what happens!_ A score doesn’t need to fill one session of play every time. Let it be however long it is.
+A score can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. *Play to find out what happens!* A score doesn’t need to fill one session of play every time. Let it be however long it is.
 
 The PCs can set up a new score by choosing a target (from their claims or the faction list, for example), by approaching a potential client and asking for work, or by being contacted by an NPC who needs to hire a crew for a job.
 
@@ -25,7 +25,7 @@ A score consists of a few key elements, detailed in this chapter: **planning &am
 
 Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about the best approach, lamenting the dangers ahead, and lusting after stacks of coin.
 
-But you, the players, don’t have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what **type of plan** the characters _have already made_. There’s no need to sweat all the little details and try to cover every eventuality ahead of time, because the **engagement roll** (detailed on the next page) ultimately determines how much trouble you’re in when the plan is put in motion. _No plan is ever perfect._ You can’t account for everything. This system assumes that there’s always some unknown factors and trouble—major or minor—in every operation; you just have to make the best of it.
+But you, the players, don’t have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what **type of plan** the characters *have already made*. There’s no need to sweat all the little details and try to cover every eventuality ahead of time, because the **engagement roll** (detailed on the next page) ultimately determines how much trouble you’re in when the plan is put in motion. *No plan is ever perfect.* You can’t account for everything. This system assumes that there’s always some unknown factors and trouble—major or minor—in every operation; you just have to make the best of it.
 
 There are six different plans, each with a missing **detail** you need to provide (see the list below). To “plan an operation,” simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
 
@@ -54,7 +54,7 @@ The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. 
 
 The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don’t need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang’s lair; maneuvering to speak with a Lord at the masquerade party; etc.
 
-Don’t make the engagement roll and then describe the PCs _approaching_ the target. It’s the approach that the engagement roll resolves. Cut to the action that results _because of_ that initial approach—to the first serious obstacle in their path.
+Don’t make the engagement roll and then describe the PCs *approaching* the target. It’s the approach that the engagement roll resolves. Cut to the action that results *because of* that initial approach—to the first serious obstacle in their path.
 
 @TODO add table p81
 
@@ -83,7 +83,7 @@ The engagement roll determines the starting position for the PCs’ actions. How
 Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. “You create a diversion at the tavern, and when they send thugs over there, we’ll break into their lair.” There are two ways to handle this.
 
 <ol>
-	<li>The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. _If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait._
+	<li>The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. *If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait.*
 	<li>The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, <span class="game-term">heat</span>, etc.) after the first part of the plan, as normal.
 </ol>
 
@@ -95,19 +95,19 @@ The rules don’t distinguish between actions performed in the present moment an
 
 The GM sets a **stress cost** when you activate a flashback action.
 
-* <span class="game-term">0 </span><span class="game-term">Stress:</span> An ordinary action for which you had easy opportunity. _The Cutter _<span class="game-term">Consorted</span>_ with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally._
-* <span class="game-term">1 </span><span class="game-term">Stress:</span> A complex action or unlikely opportunity. _The Hound _<span class="game-term">Finessed</span>_ his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door._
-* <span class="game-term">2 </span><span class="game-term">(or more) Stress:</span> An elaborate action that involved special opportunities or contingencies. _The Whisper has already <span class="game-term">Studied</span> the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault._
+* <span class="game-term">0 </span><span class="game-term">Stress:</span> An ordinary action for which you had easy opportunity. *The Cutter *<span class="game-term">Consorted</span>* with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
+* <span class="game-term">1 </span><span class="game-term">Stress:</span> A complex action or unlikely opportunity. *The Hound *<span class="game-term">Finessed</span>* his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
+* <span class="game-term">2 </span><span class="game-term">(or more) Stress:</span> An elaborate action that involved special opportunities or contingencies. *The Whisper has already <span class="game-term">Studied</span> the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
 
 After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there’s some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won’t call for a roll at all because you can just pay the stress and it’s accomplished.
 
 If a flashback involves a **downtime** activity, pay 1 <span class="game-term">coin</span> or 1 <span class="game-term">rep</span> for it, instead of stress.
 
-One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you’re in, you can call for a flashback to a special preparation you made, “just in case” something like this happened. This way, your “flashback planning” will be focused on the problems that _do _happen, not the problems that _might_ happen.
+One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you’re in, you can call for a flashback to a special preparation you made, “just in case” something like this happened. This way, your “flashback planning” will be focused on the problems that *do *happen, not the problems that *might* happen.
 
 #### Limits of flashbacks
 
-A flashback isn’t time travel. It can’t “undo” something that just occurred in the present moment. For instance, if an Inspector confronts you about recent thefts of occult artifacts when you’re at the Lady’s party, you can’t call for a flashback to assassinate the Inspector the night before. She’s here now, questioning you—that’s established in the fiction. You _can_ call for a flashback to show that you intentionally tipped off the inspector so she would confront you at the party—so you could use that opportunity to impress the Lady with your aplomb and daring.
+A flashback isn’t time travel. It can’t “undo” something that just occurred in the present moment. For instance, if an Inspector confronts you about recent thefts of occult artifacts when you’re at the Lady’s party, you can’t call for a flashback to assassinate the Inspector the night before. She’s here now, questioning you—that’s established in the fiction. You *can* call for a flashback to show that you intentionally tipped off the inspector so she would confront you at the party—so you could use that opportunity to impress the Lady with your aplomb and daring.
 
 ##### flashback examples
 
@@ -158,7 +158,7 @@ When the team of PCs works together, the characters have access to four special 
 
 #### Assist
 
-When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll._ If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead._
+When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll.* If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
 
 A character may assist a group action, but only if they aren’t taking part in it directly. You decide which character in the group action gets the bonus die.
 
@@ -236,11 +236,11 @@ The crew earns <span class="game-term">coin</span> based on the nature of the op
 
 Record the <span class="game-term">coin</span> on the crew sheet, or divvy it up among the crew members as you see fit.
 
-Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there’s a boss that you should be paying. **Subtract <span class="game-term">coin</span> equal to your crew Tier +1** when you pay a tithe to a boss or larger organization. _If you’re supposed to be paying off a boss, but you don’t, start a clock for that boss’s patience running out. Tick it whenever you don’t pay. Every time it fills up, lose 1 faction status with them._
+Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there’s a boss that you should be paying. **Subtract <span class="game-term">coin</span> equal to your crew Tier +1** when you pay a tithe to a boss or larger organization. *If you’re supposed to be paying off a boss, but you don’t, start a clock for that boss’s patience running out. Tick it whenever you don’t pay. Every time it fills up, lose 1 faction status with them.*
 
 You can set the scene and play out a meeting with a client or patron who’s paying the crew if there’s something interesting to explore there. If not, just gloss over it and move on to the next part of downtime.
 
-GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in _Blades_, the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
+GM, definitely don’t screw around with the players when it comes to the payoff. Don’t say that the client lied and there’s no reward. Or that the meeting for the payment is actually a trap, or whatever. These types of things are staples of crime fiction, but in *Blades*, the PCs have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
 
 ## Heat
 
@@ -313,11 +313,11 @@ You arrange smuggling channels inside. You have **+**2 load** while incarcerated
 
 Your crew didn’t just spring into existence tonight. You have a complex history of favors, commitments, debts, and promises that got you where you are today. To reflect this, after each score, you roll dice to find out which **entanglement** comes calling. An entanglement might be a rival crew looking to throw their weight around (and demand some <span class="game-term">coin</span>), an Investigator of the City Watch making a case against your crew (but ready for a bribe), or even the attention of a vengeful ghost.
 
-After payoff and <span class="game-term">heat</span> are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current <span class="game-term">heat</span> level. Then roll a number of dice equal to their <span class="game-term">wanted level</span>, and use the result of the roll to select which sort of entanglement manifests. _If <span class="game-term">wanted level</span> is zero, roll two dice and keep the lowest result._
+After payoff and <span class="game-term">heat</span> are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current <span class="game-term">heat</span> level. Then roll a number of dice equal to their <span class="game-term">wanted level</span>, and use the result of the roll to select which sort of entanglement manifests. *If <span class="game-term">wanted level</span> is zero, roll two dice and keep the lowest result.*
 
 @TODO add table p94
 
-Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the _Interrogation_ entanglement, you might wait until a PC indulges their vice, then say the costables picked them up when they were distracted by its pleasures.
+Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the *Interrogation* entanglement, you might wait until a PC indulges their vice, then say the costables picked them up when they were distracted by its pleasures.
 
 Entanglements manifest fully before the PCs have a chance to avoid them. When an entanglement comes into play, describe the situation after the entanglement has manifested. The PCs deal with it from that point—they can’t intercept it and defuse it before it happens. The purpose of the mechanic is to abstract a lot of the complex stuff happening in the backgrounds of the characters’ lives in order to generate trouble for them. Entanglements are the cost of doing business in the underworld—a good crew learns to roll with the punches and pick their battles.
 
@@ -347,13 +347,13 @@ One of your gangs (or other cohorts) causes trouble due to their flaw(s). You ca
 
 #### Interrogation
 
-The officers round up one of the PCs to question them about the crew’s crimes. _How did they manage to capture you?_ Either pay them off with 3 <span class="game-term">coin</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** <span class="game-term">heat</span>). You can **resist** each of those consequences separately.
+The officers round up one of the PCs to question them about the crew’s crimes. *How did they manage to capture you?* Either pay them off with 3 <span class="game-term">coin</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** <span class="game-term">heat</span>). You can **resist** each of those consequences separately.
 
 > Some players really hate it when their character gets captured! Just tell them that this is completely normal for a scoundrel of the underworld. You spend time in and out of jail, getting questioned and harassed by the law. It’s not the end of the world. But now that you’re here in the interrogation room, what kind of person are you? Do you talk? Do you stand up to them? Do you make a deal?
 
 #### Questioning
 
-The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. _Who do they think is most vulnerable?_ Make a **fortune roll** to see how much they talk (<span class="game-term">1-3:</span> **+2** <span class="game-term">heat</span>, <span class="game-term">4/5:</span> **+1** <span class="game-term">heat</span>), or pay the constables off with 2 <span class="game-term">coin</span>.
+The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. *Who do they think is most vulnerable?* Make a **fortune roll** to see how much they talk (<span class="game-term">1-3:</span> **+2** <span class="game-term">heat</span>, <span class="game-term">4/5:</span> **+1** <span class="game-term">heat</span>), or pay the constables off with 2 <span class="game-term">coin</span>.
 
 >Roll 2d for a normal person to see how well they keep quiet. If they’re an experienced underworld type or some kind of tough, give them 3d or 4d instead. If they’re soft or if they have some loyalty to the law, give them 1d or 0d.
 
