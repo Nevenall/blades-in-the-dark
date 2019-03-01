@@ -2,17 +2,10 @@
 title: The Characters
 order: 02
 ---
-## Characters
 
-### Characters
+# Character creation
 
-Every player character is familiar with all of the various feats of skulduggery represented by the **actions** of the game. They’re all able to <span class="game-term">Skirmish</span> in a knife-fight, <span class="game-term">Prowl</span> in the shadows, <span class="game-term">Attune</span> to strange energy, <span class="game-term">Consort</span> with contacts for information, and so on.
-
-Of course, you’ll also have your specializations and skills, the qualities that make your character uniquely effective. You might want the ability to compel obedience from ghosts and channel arcane energy through your body, or maybe you want to manipulate the network of the underworld to your advantage and see danger before it strikes, or maybe you just want to be the deadliest fighter with a blade. In this chapter, you’ll learn how to create your own unique scoundrel and choose the abilities that suit the style of play you prefer.
-
-## Character creation
-
-### Create playbooks
+## Create playbooks
 
 A playbook is what we call the sheet with all the specific rules to play a certain character type in a Blades-powered game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
 
@@ -22,15 +15,15 @@ This is why we call them “playbooks” rather than “character classes” or 
 
 Once you’ve chosen your playbook, follow the steps below to complete your character.
 
-### Choose a heritage
+## Choose a heritage
 
 Your character’s **heritage** describes where their family line is from. When you choose a heritage, write a detail about your family life on the line above.
 
-### Choose a background
+## Choose a background
 
 Your character’s **background** describes what they did before they joined the crew. Choose a background and then write a detail about it that’s specific to your character.
 
-### Assign four action dots
+## Assign four action dots
 
 Your playbook begins with three action dots already placed. You get to add four more dots (so you’ll have seven total). At the start of the game, no action rating may have more than two dots (unless a special ability tells you otherwise). Assign your four dots like this:
 
@@ -38,19 +31,19 @@ Your playbook begins with three action dots already placed. You get to add four 
 * Put one dot in any action that you feel reflects your character’s **background**.
 * Assign two more dots anywhere you please (max rating is 2, remember).
 
-### Choose a special ability
+## Choose a special ability
 
 Take a look at the special abilities for your playbook and choose one. If you can’t decide which one to pick, go with the first one on the list—it’s placed there as a good default choice.
 
-#### Special Armor
+### Special Armor
 
 Some special abilities refer to your **special armor**. Each character sheet has a set of three boxes to track usage of armor (standard, heavy, and special). If you have any abilities that use your special armor, tick its box when you activate one of them. If you don’t have any special abilities that use special armor, then you can’t use that armor box at all.
 
-### Choose one close friend and one rival
+## Choose one close friend and one rival
 
 Each playbook has a list of NPCs that your character knows. Choose one from the list who is a close relationship (a good friend, a lover, a family relation, etc.). Mark the upward-pointing triangle next to their name. Then choose another NPC on the list who’s your rival or enemy. Mark the downward-pointing triangle next to their name.
 
-### Choose your vice
+## Choose your vice
 
 Every character is in thrall to some vice or another, which they indulge to deal with stress. Choose a vice from the list, and describe it on the line above with the specific details and the name and location of your **vice purveyor**.
 
@@ -63,17 +56,17 @@ Every character is in thrall to some vice or another, which they indulge to deal
 * <span class="game-term">Weird: </span>You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
 
 
-### Record your name, alias, &amp; look
+## Record your name, alias, &amp; look
 
 Choose a name for your character from the sample list, or create your own. If your character uses an alias or nickname in the underworld, make a note of it. Record a few evocative words that describe your character’s look (samples provided on the next page).
 
-### Review your details
+## Review your details
 
 Take a look at the details on your character sheet, especially the **experience triggers** for your playbook (like “Earn xp when you address a challenge with knowledge or arcane power,” for example) and the **special items** available to a character of your type (like the Whisper’s spirit mask, for example). You begin with access to all of the items on your sheet, so don’t worry about picking specific things—you’ll decide what your character is carrying later on, when you’re on the job.
 
 That’s it! Your character is ready for play. When you start the first session, the GM will ask you some questions about who you are, your outlook, or some past events. If you don’t know the answers, make some up. Or ask the other players for ideas.
 
-### Character creation summary
+## Character creation summary
 
 @TODO style dropcaps.
 
@@ -93,7 +86,7 @@ That’s it! Your character is ready for play. When you start the first session,
 
 <span class="number">8</span> **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
 
-### Loadout
+## Loadout
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
@@ -109,9 +102,9 @@ Some items count as two items for load (they have two connected boxes). _Items i
 
 You don’t need to select specific items now.  Review your personal items and the standard item descriptions.
 
-## Character playbook
+# Character playbook
 
-### Short Descriptor of Character
+## Short Descriptor of Character
 
 Medium length description of the character here. Include what kind of activities they normally partake in.
 
@@ -120,7 +113,7 @@ Medium length description of the character here. Include what kind of activities
 @TODO tables 51
 
 
-### Starting builds
+## Starting builds
 
 _If you want some guidance when you assign your four starting action dots and special ability, use one of these templates._
 
@@ -132,47 +125,47 @@ _If you want some guidance when you assign your four starting action dots and sp
 
 **Example 4.** 4 Action Dots assigned plus a special ability
 
-### Friends, rivals
+## Friends, rivals
 
 A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunte, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a porstitue, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
 
 Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
 
-### Special abilities
+## Special abilities
 
 Choose seven special abilities for you playbook. Here are several examples.
 
-#### Battleborn
+### Battleborn
 
 You may expend your **special armor** to reduce harm from an attack in combat or to **push yourself** during a fight.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you “reduce harm” that means the level of harm you’re facing right now is reduced by one. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-#### Bodyguard
+### Bodyguard
 
 When you **protect** a teammate, take **+1d** to your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
 
 > The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1d to your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information.
 
-#### Arcane fighter
+### Arcane fighter
 
 You may imbue your hands, melee weapons, or tools with spirit energy. You gain **potency** in combat vs. the supernatural..
 
 > When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
 
-#### Leader
+### Leader
 
 When you <span class="game-term">Command</span> a **cohort** in combat, they continue to fight when they would otherwise **break **(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
 
 > This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won’t stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?
 
-#### Mule
+### Mule
 
 Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
 
 > This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.
 
-#### Not to be trifled with
+### Not to be trifled with
 
 You can **push yourself** to do one of the following: _perform a feat of physical force that verges on the superhuman—engage a small gang on equal footing in close combat._
 
@@ -180,7 +173,7 @@ You can **push yourself** to do one of the following: _perform a feat of physica
 
 > If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don’t suffer reduced effect due to scale against a small gang (up to six people).
 
-#### Savage
+### Savage
 
 When you unleash physical violence, it’s especially frightening. When you <span class="game-term">Command</span> a frightened target, take **+1d**.
 
@@ -188,13 +181,13 @@ When you unleash physical violence, it’s especially frightening. When you <spa
 
 > In addition, when you <span class="game-term">Command</span> someone who’s affected by fear (from this ability or otherwise), take +1d to your roll.
 
-#### Vigorous
+### Vigorous
 
 You recover from harm faster. Permanently fill in one of your healing clock segments. Take **+1d** to healing treatment rolls.
 
 > Your healing clock becomes a 3-clock, and you get a bonus die when you recover.
 
-#### Sharpshooter
+### Sharpshooter
 
 You can **push yourself** to do one of the following: _make a ranged attack at extreme distance beyond what’s normal for the weapon—unleash a barrage of rapid fire to suppress the enemy._
 
@@ -202,63 +195,63 @@ You can **push yourself** to do one of the following: _make a ranged attack at e
 
 > The first use of this ability allows you to attempt long-range sniper shots that would otherwise be impossible with  typical rudimentary firearms. The second use allows you to keep up a steady rate of fire in a battle (enough to “suppress” a small gang up to six people), rather than stopping for a slow reload or discarding a gun after each shot. When an enemy is suppressed, they’re reluctant to maneuver or attack (usually calling for a fortune roll to see if they can manage it).
 
-#### Focused
+### Focused
 
 You may expend your **special armor** to resist a consequence of surprise or mental harm (fear, confusion, losing track of someone) or to **push yourself** for ranged combat or tracking.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-#### Scout
+### Scout
 
 When you gather information to discover the location of a target, you get **+1 effect**. When you hide in a prepared position or use camouflage you get **+1d** to rolls to avoid detection.
 
 > A “target” can be a person, a destination, a good ambush spot, an item, etc.
 
-#### Tough as nails
+### Tough as nails
 
 Penalties from harm are one level less severe (though level 4 harm is still fatal).
 
 > With this ability, level 3 harm doesn’t incapacitate you; instead you take -1d to your rolls (as if it were level 2 harm). Level 2 harm affects you as if it were level 1 (less effect). Level 1 harm has no effect on you (but you still write it on your sheet, and must recover to heal it). Record the harm at its original level—for healing purposes, the original harm level applies.
 
-#### Vengeful
+### Vengeful
 
 You gain an additional **xp trigger**: _You got payback against someone who harmed you or someone you care about._ If your crew helped you get payback, also mark crew xp.
 
-#### Alchemist
+### Alchemist
 
 When you **invent** or **craft** a creation with _alchemical_ features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special formula already known.
 
 > Follow the Inventing procedure with the GM to define your first special alchemical formula.
 
-#### Analyst
+### Analyst
 
 During downtime, you get **two ticks** to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
 
-#### Artificer
+### Artificer
 
 When you **invent** or **craft** a creation with _spark-craft_ features, you get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one special design already known.
 
 > Follow the Inventing procedure with the GM to define your first spark-craft design.
 
-### Fortitude
+## Fortitude
 
 You may expend your **special armor** to resist a consequence of fatigue, weakness, or chemical effects, or to **push yourself** when working with technical skill or handling alchemicals.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-#### Supernatural ward
+### Supernatural ward
 
 When you <span class="game-term">Wreck</span> an area with arcane substances, ruining it for any other use, it becomes anathema or enticing to the supernatural (your choice).
 
 > If you make an area anathema to the supernatural, they will do everything they can to avoid it, and will suffer torment if forced inside the area. If you make an area enticing to spirits, they will seek it out and linger in the area, and will suffer torment if forced to leave. This effect lasts for several days over an area the size of a small room. Particularly powerful or prepared entities may roll their quality or arcane magnitude to see how well they’re able to resist the effect.
 
-#### Saboteur
+### Saboteur
 
 When you <span class="game-term">Wreck</span>, your work is much quieter than it should be and the damage is very well-hidden from casual inspection.
 
 > You can drill holes in things, melt stuff with acid, even use a muffled explosive, and it will all be very quiet and extremely hard to notice.
 
-#### Infiltrator
+### Infiltrator
 
 You are not affected by **quality** or **Tier** when you bypass security measures.
 
@@ -266,19 +259,19 @@ You are not affected by **quality** or **Tier** when you bypass security measure
 
 > Are you a renowned safe cracker? Do people tell stories of how you slipped under the noses of two Chief Inspectors, or are your exceptional talents yet to be discovered?
 
-#### Ambush
+### Ambush
 
 When you attack from hiding or spring a trap, you get **+1d** to your roll.
 
 > This ability benefits from preparation— so don’t forget you can do that in a flashback.
 
-#### Daredevil
+### Daredevil
 
 When you roll a **desperate** action, you get **+1d** to your roll if you also take **-1d** to any resistance rolls against consequences from your action.
 
 > This special ability is a bit of a gamble. The bonus die helps you, but if you suffer consequences, they’ll probably be more costly to resist. But hey, you’re a daredevil, so no big deal, right?
 
-#### The devil’s footsteps
+### The devil’s footsteps
 
 You can **push yourself** to do one of the following: _perform a feat of athletics that verges on the superhuman—maneuver to confuse your enemies so they mistakenly attack each other._
 
@@ -288,119 +281,119 @@ You can **push yourself** to do one of the following: _perform a feat of athleti
 
 > If you maneuver to confuse your enemies, they attack each other for a moment before they realize their mistake. The GM might make a fortune roll to see how badly they harm or interfere with each other.
 
-#### Expertise
+### Expertise
 
 Choose one of your action ratings. When you lead a group action using that action, you can suffer only 1 stress at most, regardless of the number of failed rolls.
 
 > This special ability is good for covering for your team. If they’re all terrible at your favored action, you don’t have to worry about suffering a lot of stress when you lead their group action.
 
-#### Reflexes
+### Reflexes
 
 When there’s a question about who acts first, the answer is you.
 
 > This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you’re always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn’t negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.
 
-#### Shadow
+### Shadow
 
 You may expend your **special armor** to resist a consequence from detection or security measures, or to **push yourself** for a feat of athletics or stealth.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-#### Rook’s gambit
+### Rook’s gambit
 
 Take **2 stress** to roll your best action rating while performing a different action. Say how you adapt your skill to this use.
 
 > This is the “jack-of-all-trades” ability. If you want to attempt lots of different sorts of actions and still have a good dice pool to roll, this is the special ability for you.
 
-#### Like looking into a mirror
+### Like looking into a mirror
 
 You can always tell when someone is lying to you.
 
 > This ability works in all situations without restriction. It is very powerful, but also a bit of a curse. You see though every lie, even the kind ones.
 
-#### A little something on the side
+### A little something on the side
 
 At the end of each downtime phase, you earn **+2 stash**.
 
 > Since this money comes at the end of downtime, after all downtime actions are resolved, you can’t remove it from your stash and spend it on extra activities until your next downtime phase.
 
-#### Mesmerism
+### Mesmerism
 
 When you <span class="game-term">Sway</span> someone, you may cause them to forget that it’s happened until they next interact with you.
 
 > The victim’s memory “glosses over” the missing time, so it’s not suspicious that they’ve forgotten something. When you next interact with the victim, they remember everything clearly, including the strange effect of this ability.
 
-#### Subterfuge
+### Subterfuge
 
 You may expend your **special armor** to resist a consequence from suspicion or persuasion, or to **push yourself** for subterfuge.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-#### Trust in me
+### Trust in me
 
 You get **+1d** vs. a target with whom you have an intimate relationship.
 
 > This ability isn’t just for social interactions. Any action can get the bonus. “Intimate” is for you and the group to define, it need not exclusively mean romantic intimacy.
 
-#### Foresight
+### Foresight
 
 Two times per score you can **assist** a teammate without paying stress. Describe how you prepared for this.
 
 > You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now.
 
-#### Calculating
+### Calculating
 
 Due to your careful planning, during downtime, you may give yourself or another crew member **+1 downtime activity**.
 
 > If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened.
 
-#### Connected
+### Connected
 
 During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**.
 
 > Your array of underworld connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc.
 
-#### Mastermind
+### Mastermind
 
 You may expend your **special armor** to **protect** a teammate, or to **push yourself** when you gather information or work on a long-term project.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you protect a teammate, this ability negates or reduces the severity of a consequence or harm that your teammate is facing. You don’t have to be present to use this ability—say how you prepared for this situation in the past. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-#### Weaving the web
+### Weaving the web
 
 You gain **+1d** to <span class="game-term">Consort</span> when you gather information on a target for a score. You get **+1d** to the **engagement roll** for that operation.
 
 > Your network of underworld connections can always be leveraged to gain insight for a job—even when your contacts aren’t aware that they’re helping you.
 
-#### Arcane mind
+### Arcane mind
 
 You’re always aware of supernatural entities in your presence. Take **+1d** whenever you **gather information** about the supernatural by any means.
 
-#### Iron will
+### Iron will
 
 You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll **with <span class="game-term">Resolve</span>, take **+1d**.
 
 > With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange occult event.
 
-#### Ritual
+### Ritual
 
 You know the arcane methods to perform ritual sorcery. You can <span class="game-term">Study</span> an occult ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
 
 > Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended.
 
-#### Strange methods
+### Strange methods
 
 When you **invent** or **craft** a creation with _arcane_ features, get **+1 result level** to your roll (a <span class="game-term">1-3</span> becomes a <span class="game-term">4/5</span>, etc.). You begin with one arcane design already known.
 
 > Follow the Inventing procedure with the GM  to define your first arcane design.
 
-#### Warded
+### Warded
 
 You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-### Character items
+## Character items
 
 Add a list of five distinctive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
 

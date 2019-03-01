@@ -2,41 +2,42 @@
 title: The Basics
 order: 01
 ---
-## The Basics
 
-### The Game
+# The Basics
+
+## The Game
 
 _Blades in the Dark_ is a game about a group of daring characters building an enterprising crew. We play to find out if the fledgling crew can thrive amidst the teeming threats that surround it.
 
-### The Players
+## The Players
 
 Each player creates a character and works with the other players to create the crew to which their characters belong. Each player strives to bring their character to life as an interesting, daring character who reaches boldly beyond their current safety and means.
 
 The players work together with the Game Master to establish the tone and style of the game by making judgment calls about the mechanics, dice, and consequences of actions. The players take responsibility as co-authors of the game with the GM.
 
-### The Characters
+## The Characters
 
 The characters attempt to develop their crew by performing scores and contending with threats from their enemies.
 
-### The Crew
+## The Crew
 
 In addition to creating characters, you’ll also create the crew by choosing which type of criminal enterprise you’re interested in exploring.
 
-### The Game Master
+## The Game Master
 
 The GM establishes the dynamic world around the characters. The GM plays all the non-player characters in the world by giving each one a concrete desire and preferred method of action.
 
 The GM helps organize the conversation of the game so it’s pointed toward the interesting elements of play. The GM isn’t in charge of the story and doesn’t have to plan events ahead of time. They present interesting opportunities to the players, then follow the chain of action and consequences wherever they lead.
 
-### Playing A Session
+## Playing A Session
 
 A session of _Blades in the Dark_ is like an episode of a TV show. There are one or two main events, plus maybe some side-story elements, which all fit into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
 
 During a session, the crew of scoundrels works together to choose a score to accomplish, then they make a few dice rolls to jump into the action of the score in progress. The PCs take actions, suffer consequences, and finish the operation (succeed or fail). Then the crew has downtime, during which they recover, pursue side-projects, and indulge their vices. After downtime, the players once again look for a new opportunity or create their own goals and pursuits, and we play to find out what happens next.
 
-## The Core System
+# The Core System
 
-### Judgment calls
+## Judgment calls
 
 When you play, you’ll make several key judgment calls. Everyone contributes, but either the players or the GM gets final say for each:
 
@@ -46,7 +47,7 @@ When you play, you’ll make several key judgment calls. Everyone contributes, b
 * Does this situation call for a dice roll, and which one? _Is your character in position to make an action roll or must they first make a resistance roll to gain initiative?_ The GM has final say.
 * Which events in the story match the experience triggers for character and crew advancement? _Did you express your character’s beliefs, drives, heritage, or background? You tell us._ The players have final say.
 
-### Rolling the Dice
+## Rolling the Dice
 
 _Blades in the Dark_ uses six-sided dice. You roll several at once and read the **single highest result**.
 
@@ -67,7 +68,7 @@ There are four types of rolls that you’ll use most often in the game:
 * <span class="game-term">Fortune roll. </span>The GM can make a fortune roll to disclaim decision making and leave something up to chance. _How loyal is an NPC? How much does the plague spread? How much evidence is burned before the constables kick in the door?_
 * <span class="game-term">Resistance roll. </span>A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. _When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead._
 
-### The Game Structure
+## The Game Structure
 
 _Blades in the Dark_ has a structure to play, with four parts. By default, the game is in **free play**—characters talk to each other, they go places, they do things, they make rolls as needed.
 
@@ -79,9 +80,9 @@ During the downtime phase, the GM engages the systems for _payoff_, _heat_, and 
 
 The phases are a conceptual model to help you organize the game. They’re not meant to be rigid structures that restrict your options (this is why they’re presented as amorphous blobs of ink without hard edges). Think of the phases as a menu of options to fit whatever it is you’re trying to accomplish in play. Each phase suits a different goal.
 
-## Actions & Attributes
+# Actions & Attributes
 
-### Action Ratings
+## Action Ratings
 
 There are 12 **actions** in the game that the player characters use to overcome obstacles.
 
@@ -102,19 +103,19 @@ Each action has a rating (from zero to 4) that tells you how many dice to roll w
 
 You choose which action to perform to overcome an obstacle, by describing what your character does. Actions that are poorly suited to the situation may be less effective and may put the character in more danger, but they can still be attempted. Usually, when you perform an action, you’ll make an **action roll** to see how it turns out.
 
-### Action Roll
+## Action Roll
 
 You make an **action roll** when your character does something potentially dangerous or troublesome. The possible results of the action roll depend on your character’s **position**. There are three positions: **controlled**, **risky**, and **desperate**. If you’re in a **controlled** position, the possible consequences are less serious. If you’re in a **desperate** position, the consequences can be severe. If you’re somewhere in between, it’s **risky**—usually considered the “default” position for most actions.
 
 If there’s no danger or trouble at hand, you don’t make an action roll. You might make a **fortune** roll or a **downtime** roll or the GM will simply say yes—and you accomplish your goal.
 
-### Attribute Ratings
+## Attribute Ratings
 
 There are three **attributes** in the game system that the player characters use to resist bad consequences: <span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, and <span class="game-term">Resolve</span>. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
 
 The rating for each attribute is equal to the number of dots in the **first column** under that attribute (see the examples, at right). The more well-rounded your character is with a particular set of actions, the better their attribute rating.
 
-### Resistance Roll
+## Resistance Roll
 
 Each attribute resists a different type of danger. If you get stabbed, for example, you resist physical harm with your <span class="game-term">Prowess</span> rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll, the less **stress** it costs to reduce or avoid the danger.
 
@@ -126,7 +127,7 @@ For details on **Resistance Rolls**, see page 28.
 
 @TODO Add table from page 9.
 
-### Actions
+## Actions
 
 When you <span class="game-term">Attune</span>, you open your mind to arcane power.
 
@@ -178,9 +179,9 @@ _You might smash down a door or wall with a sledgehammer, or use an explosive to
 
 As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to <span class="game-term">Wreck</span> someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, <span class="game-term">Skirmish</span> _might_ be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
 
-## Stress & Trauma
+# Stress & Trauma
 
-### Stress
+## Stress
 
 Player characters in _Blades in the Dark_ have a special reserve called **stress**. When they suffer a consequence that they don’t want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
@@ -188,7 +189,7 @@ _During a knife fight, Daniel’s character, Cross, gets stabbed in the chest. D
 
 _The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm (“Chest Wound”) instead of level 3 harm (“Punctured Lung”)._
 
-### Pushing Yourself
+## Pushing Yourself
 
 You can use stress to push yourself for greater performance. For each bonus you choose below, take **2 stress** (each can be chosen once for a given action):
 
@@ -196,7 +197,7 @@ You can use stress to push yourself for greater performance. For each bonus you 
 * Add **+1 level** to your effect.
 * Take action when you’re incapacitated.
 
-### Trauma
+## Trauma
 
 When a PC marks their last stress box, they suffer a level of <span class="game-term">trauma</span>. When you take <span class="game-term">trauma</span>, circle one of your **trauma conditions** like _Cold_, _Reckless_, _Unstable_, etc. They’re all described on the next page.
 
@@ -204,7 +205,7 @@ When you suffer <span class="game-term">trauma</span>, you’re taken out of act
 
 **Trauma conditions are permanent**. Your character acquires the new personality quirk indicated by the condition, and can earn xp by using it to cause trouble. **When you mark your fourth trauma condition**, your character cannot continue as a daring scoundrel. You must retire them to a different life or send them to prison to take the fall for the crew’s <span class="game-term">wanted level</span>.
 
-#### Trauma Conditions
+### Trauma Conditions
 
 * <span class="game-term">Cold</span>: You’re not moved by emotional appeals or social bonds.
 * <span class="game-term">Haunted</span>: You’re often lost in reverie, reliving past horrors, seeing things.
@@ -215,7 +216,7 @@ When you suffer <span class="game-term">trauma</span>, you’re taken out of act
 * <span class="game-term">Unstable</span>: Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
 * <span class="game-term">Vicious</span>: You seek out opportunities to hurt people, even for no good reason.
 
-## Progress clocks
+# Progress clocks
 
 A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
@@ -233,47 +234,47 @@ Complex enemy threats can be broken into several “layers,” each with its own
 
 Remember that a clock tracks progress. It reflects the fictional situation, so the group can gauge how they’re doing. A clock is like a speedometer in a car. It _shows_ the speed of the vehicle—it doesn’t determine the speed.
 
-### Simple Obstacles
+## Simple Obstacles
 
 Not every situation and obstacle requires a clock. Use clocks when a situation is complex or layered and you need to track something over time—otherwise, resolve the result of an action with a single roll.
 
 Examples of progress clocks follow.
 
-### Danger Clocks
+## Danger Clocks
 
 The GM can use a clock to represent a progressive danger, like suspicion growing during a seduction, the proximity of pursuers in a chase, or the alert level of guards on patrol. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
-### Racing Clocks
+## Racing Clocks
 
 Create two opposed clocks to represent a race. The PCs might have a progress clock called “Escape” while the constables have a clock called “Cornered.” If the PCs finish their clock before the constables fill theirs, they get away. Otherwise, they’re cornered and can’t flee. If both complete at the same time, the PCs escape to their lair, but the hunting officers are outside!
 
 You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the “Search” clock to find the lockbox on the sinking ship before the GM fills the “Sunk” clock and the vessel goes down.
 
-### Linked Clocks
+## Linked Clocks
 
 You can make a clock that unlocks another clock once it’s filled. For example, the GM might make a linked clock called “Trapped” after an “Alert” clock fills up. When you fight a veteran warrior, she might have a clock for her “Defense” and then a linked clock for “Vulnerable.” Once you overcome the “Defense” clock, then you can attempt to overcome the “Vulnerable” clock and defeat her.  You might affect the “Defense” clock with violence in a knife-fight, or you lower her defense with deception if you have the opportunity. As always, the method of action is up to the players and the details of the fiction at hand.
 
-### Mission Clocks
+## Mission Clocks
 
 The GM can make a clock for a time-sensitive mission, to represent the window of opportunity you have to complete it. If the countdown runs out, the mission is scrubbed or changes—the target escapes, the household wakes up for the day, etc.
 
-### Tug-of-war Clocks
+## Tug-of-war Clocks
 
 You can make a clock that can be filled _and_ emptied by events, to represent a back-and-forth situation. You might make a “Revolution!” clock that indicates when the refugees start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two crews or factions.
 
-### Long-term Project
+## Long-term Project
 
 Some projects will take a long time. A basic long-term project (like tinkering up a new feature for a device) is eight segments. Truly long-term projects (like creating a new designer drug) can be two, three, or even four clocks, representing all the phases of development, testing, and final completion. Add or subtract clocks depending on the details of the situation and complexity of the project.
 
 A long-term project is a good catch-all for dealing with any unusual player goal, including things that circumvent or change elements of the mechanics or the setting.
 
-### Faction Clocks
+## Faction Clocks
 
 Each faction has a long-term goal. When the PCs have **downtime**, the GM ticks forward the faction clocks that they’re interested in. In this way, the world around the PCs is dynamic and things happen that they’re not directly connected to, changing the overall situation in the city and creating new opportunities and challenges.
 
 The PCs may also directly affect NPC faction clocks, based on the missions and scores they pull off. Discuss known faction projects that they might aid or interfere with, and also consider how a PC operation might affect the NPC clocks, whether the players intended it or not.
 
-## Action Roll
+# Action Roll
 
 When a player character does something challenging, we make an **action roll** to see how it turns out. An action is challenging if there’s an obstacle to the PC’s goal that’s dangerous or troublesome in some way. We don’t make an action roll unless the PC is put to the test. If their action is something that we’d expect them to simply accomplish, then we don’t make an action roll.
 
@@ -281,36 +282,36 @@ _Each game group will have their own ideas about what “challenging” means. T
 
 To make an action roll, we go through six steps. In play, they flow together somewhat, but let’s break each one down here for clarity.
 
-## The player states their **goal** for the action.
-## The player chooses the **action rating**.
-## The GM sets the **position** for the roll.
-## The GM sets the **effect level** for the action.
-## Add **bonus dice**.
-## The player rolls the dice** and we judge the result.
+# The player states their **goal** for the action.
+# The player chooses the **action rating**.
+# The GM sets the **position** for the roll.
+# The GM sets the **effect level** for the action.
+# Add **bonus dice**.
+# The player rolls the dice** and we judge the result.
 
-### 1. The Player States Their Goal
+## 1. The Player States Their Goal
 
 Your goal is the concrete outcome your character will achieve when they overcome the obstacle at hand. Usually the character’s goal is pretty obvious in context, but it’s the GM’s job to ask and clarify the goal when necessary.
 
 _“You’re punching him in the face, right? Okay... what do want to get out of this? Do you want to take him out, or just rough him up so he’ll do what you want?”_
 
-### 2. The Player Chooses the Action Rating
+## 2. The Player Chooses the Action Rating
 
 The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your <span class="game-term">Skirmish</span> action, then get in a fight. If you want to roll your <span class="game-term">Command</span> action, then order someone around. You can’t roll a given action rating unless your character is presently performing that action in the fiction.
 
-### 3. The GM Sets the Position
+## 3. The GM Sets the Position
 
 Once the player chooses their action, the GM sets the **position** for the roll. The position represents how dangerous or troublesome the action might be. There are three positions: **controlled**, **risky**, and **desperate**. To choose a position, the GM looks at the profiles for the positions below and picks one that most closely matches the situation at hand.
 
 **By default, an action roll is risky.** You wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
 
-### 4. The GM Sets the Effect Level
+## 4. The GM Sets the Effect Level
 
 The GM assesses the likely **effect level** of this action, given the factors of the situation. Essentially, the effect level tells us “how much” this action can accomplish: will it have **limited**, **standard**, or **great** effect?
 
 _The GM’s choices for effect level and position can be strongly influenced by the player’s choice of action rating. If a player wants to try to make a new friend by <span class="game-term">Wrecking</span> something—well... maybe that’s possible, but the GM wouldn’t be crazy to say it’s a desperate roll and probably limited effect. Seems like <span class="game-term">Consorting</span> would be a lot better for that. The players are always free to choose the action they perform, but that doesn’t mean all actions should be equally risky or potent._
 
-### 5. Add Bonus Dice
+## 5. Add Bonus Dice
 
 You can normally get two bonus dice for your action roll (some special abilities might give you additional bonus dice).
 
@@ -318,7 +319,7 @@ For one bonus die, you can get **assistance** from a teammate. They take 1 stres
 
 For another bonus die, you can either **push yourself** (take 2 stress) or you can accept a **Devil’s Bargain** (you can’t get dice for both, it’s one or the other).
 
-#### The Devil’s Bargain
+### The Devil’s Bargain
 
 PCs in _Blades_ are reckless scoundrels addicted to destructive vices—they don’t always act in their own best interests. To reflect this, the GM or any other player can offer you a bonus die if you accept a Devil’s Bargain. Common Devil’s Bargains include:
 
@@ -336,7 +337,7 @@ The Devil’s Bargain is always a free choice. If you don’t like one, just rej
 
 If it’s ever needed, the GM has final say over which Devil’s Bargains are valid.
 
-### 6. Roll the Dice and Judge the Result
+## 6. Roll the Dice and Judge the Result
 
 Once the goal, action rating, position, and effect have been established, add any bonus dice and roll the dice pool to determine the outcome. (See the sets of possible outcomes, by position, on the next page.)
 
@@ -348,7 +349,7 @@ Each <span class="game-term">4/5</span> and <span class="game-term">1-3</span> o
 
 When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. _Tell us how you vault across to the other rooftop. Tell us what you say to the Inspector to convince her. The GM will tell us how she reacts. When you face the Red Sash duelist, what’s your fighting style like? Etc._
 
-### Action Roll Summary
+## Action Roll Summary
 
 * A player or GM calls for a roll. Make an **action roll** when the character performs a dangerous or troublesome action.
 * The player chooses the **action rating** to roll. Choose the action that matches what the character is doing in the fiction.
@@ -356,33 +357,33 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 * Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 2 stress) or accept a **Devil’s Bargain**.
 * Roll the dice pool and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
 
-### Double-duty Rolls
+## Double-duty Rolls
 
 Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a <span class="game-term">6</span>, the PC wins and has their effect. On a <span class="game-term">4/5</span>, it’s a mix—both the PC and the NPC have their effect. On a <span class="game-term">1-3</span>, the NPC wins and has their effect as a consequence on the PC.
 
 @TODO add Action Roll table p21
 
-## Effect
+# Effect
 
 In _Blades in the Dark_, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand&#173;&#173;—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
 
 @TODO add fancy effect levels p23.
 
-### Assessing Factors
+## Assessing Factors
 
 To assess effect level, first start with your gut feeling, given this situation. Then, if needed, assess three factors that may modify the effect level: **potency**, **scale**, and **quality**. If the PC has an advantage in a given factor, consider a higher effect level. If they have a disadvantage, consider a reduced effect level.
 
-#### Potency
+### Potency
 
 The potency factor considers particular weaknesses, taking extra time or a bigger risk, or the influence of arcane powers. An infiltrator is more potent if all the lights are extinguished and they move about in the dark.
 
-#### Quality/Tier
+### Quality/Tier
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 
 _Thorn is picking the lock to a safehouse run of a gang reknowned for Occult dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock._
 
-#### Scale
+### Scale
 
 Scale represents the number of opponents, size of an area covered, scope of influence, etc. Larger scale can be an advantage or disadvantage depending on the situation. In battle, more people are better. When infiltrating, more people are a hindrance.
 
@@ -394,7 +395,7 @@ Also, remember that a PC can **push themselves** (take 2 stress) to get +1 effec
 
 Every factor won’t always apply to every situation. You don’t have to do an exact accounting every time, either. Use the factors to help you make a stronger judgment call—don’t feel beholden to them.
 
-### Trading Position for Effect
+## Trading Position for Effect
 
 After factors are considered and the GM has announced the effect level, a player might want to trade position for effect, or vice versa. For instance, if they’re going to make a risky roll with standard effect (the most common scenario, generally), they might instead want to push their luck and make a desperate roll but with great effect.
 
@@ -408,11 +409,11 @@ _“I didn’t realize it was that far. Hmmm. Okay, what if I just go as fast as
 
 _“Yep, sounds good to me!”_
 
-### Consequences
+## Consequences
 
 When a PC suffers an effect from an enemy or a dangerous situation, it’s called a **consequence**. Consequences are the companion to effects. PCs have effect on the world around them and they suffer consequences in return from the risks they face.
 
-## Setting Position & Effect
+# Setting Position & Effect
 
 The GM sets position and effect for an action roll at the same time, after the player says what they’re doing and chooses their action. Usually, **Risky / Standard** is the default combination, modified by the action being used, the strength of the opposition, and the effect factors.
 
@@ -425,17 +426,17 @@ _For example, if a character is facing off alone against a small enemy gang, the
 * _She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great)._
 * _The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited)._
 
-## Consequences and Harm
+# Consequences and Harm
 
 Enemy actions, bad circumstances, or the outcome of a roll can inflict **consequences** on a PC. There are five types (at right).
 
 A given circumstance might result in one or more consequences, depending on the situation. The GM determines the consequences, following from the fiction and the style and tone established by the game group.
 
-### Reduced Effect
+## Reduced Effect
 
 This consequence represents impaired performance. The PC’s action isn’t as effective as they’d anticipated. You hit him, but it’s only a flesh wound. She accepts the forged invitation, but she’ll keep her eye on you throughout the night. You’re able to scale the wall, but it’s slow going—you’re only halfway up. This consequence essentially reduces the effect level of the PC’s action by one after all other factors are accounted for.
 
-### Complication
+## Complication
 
 This consequence represents trouble, mounting danger, or a new threat. The GM might introduce an immediate problem that results from the action right now: the room catches fire, you’re disarmed, the crew takes +1 <span class="game-term">heat</span> from evidence or witnesses, you lose status with a faction, the target evades you and now it’s a chase, reinforcements arrive, etc.
 
@@ -445,15 +446,15 @@ A **serious complication** is more severe: reinforcements surround and trap you,
 
 **Don’t inflict a complication that negates a successful roll.** If a PC tries to corner an enemy and gets a <span class="game-term">4/5</span>, don’t say that the enemy escapes. The player’s roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them into position and during the scuffle the enemy grabs their gun.
 
-### Lost Opportunity
+## Lost Opportunity
 
 This consequence represents shifting circumstance. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need a new approach—usually a new form of action or a change in circumstances. Maybe you tried to <span class="game-term">Skirmish</span> with the noble to trap her on the balcony, but she evades your maneuver and leaps out of reach. If you want to trap her now you’ll have to try another way—maybe by <span class="game-term">Swaying</span> her with your roguish charm.
 
-### Worse Position
+## Worse Position
 
 This consequence represents losing control of the situation—the action carries you into a more dangerous position. Perhaps you make the leap across to the next rooftop, only to end up dangling by your fingertips. You haven’t failed, but you haven’t succeeded yet, either. You can try again, re-rolling at the new, worse position. This is a good consequence to choose to show escalating action. A situation might go from controlled, to risky, to desperate as the action plays out and the PC gets deeper and deeper in trouble.
 
-### Harm
+## Harm
 
 This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer** lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
 
@@ -464,7 +465,7 @@ If you need to mark a harm level, but the row is already filled, the harm moves 
 @TODO Table from p27
 
 
-#### Harm examples
+### Harm examples
 
 **Fatal (4):** _Electrocuted, Drowned, Stabbed in the Heart._
 
@@ -476,7 +477,7 @@ If you need to mark a harm level, but the row is already filled, the harm moves 
 
 Harm like “Drained” or “Exhausted” can be a good fallback consequence if there’s nothing else threatening a PC (like when they spend all night <span class="game-term">Studying</span> those old books, looking for any clues to their enemy’s weaknesses before he strikes).
 
-## Resistance and Armor
+# Resistance and Armor
 
 When your PC suffers a consequence that you don’t like, you can choose to resist it. Just tell the GM, “No, I don’t think so. I’m resisting that.” Resistance is always automatically effective—the GM will tell you if the consequence is reduced in severity or if you avoid it entirely. Then, you’ll make a **resistance roll** to see how much stress your character suffers as a result of their resistance.
 
@@ -508,7 +509,7 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
 
 @TODO add table p29
 
-### Armor
+## Armor
 
 If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist.
 
@@ -516,7 +517,7 @@ If you have a type of **armor** that applies to the situation, you can mark an a
 
 When an armor box is marked, it can’t be used again until it’s restored. All of your armor is restored when you choose your **load** for the next score.
 
-### Death
+## Death
 
 There are a couple ways for a PC to die:
 
@@ -527,7 +528,7 @@ When your character dies, you have options:
 
 * You can create a new scoundrel to play. Maybe you “promote” one of the NPC gang members to a PC, or create a brand new character who joins the crew.
 
-## Fortune Roll
+# Fortune Roll
 
 The fortune roll is a tool the GM can use to disclaim decision making. You use a fortune roll in two different ways:
 
@@ -560,7 +561,7 @@ Other examples of fortune rolls:
 
 @TODO table p31
 
-## Gathering Information
+# Gathering Information
 
 The flow of information from the GM to the players about the fictional world is very important in a roleplaying game. By default, the GM tells the players what their characters perceive, suspect, and intuit. But there’s just too much going on to say _everything_—it would take forever and be boring, too. The players have a tool at their disposal to more fully investigate the fictional world.
 
@@ -576,13 +577,13 @@ The most common gather information actions are <span class="game-term">Surveying
 
 Sometimes, you’ll have to maneuver yourself into position before you can gather information. For example, you might have to <span class="game-term">Prowl</span> to a good hiding place first and then <span class="game-term">Study</span> the cultists when they perform their dark ritual.
 
-### Investigation
+## Investigation
 
 Some questions are too complex to answer immediately with a single gather information roll. For instance, you might want to discover the network of contraband smuggling routes in the city. In these cases, the GM will tell you to start a **long-term project** that you work on during **downtime**.
 
 You track the investigation project using a progress clock. Once the clock is filled, you have the evidence you need to ask several questions about the subject of your investigation as if you had great effect.
 
-### Examples &amp; Questions
+## Examples &amp; Questions
 
 * You might <span class="game-term">Attune</span> to see echoes of recent spirit activity. _Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?_
 * You might <span class="game-term">Command</span> a local barkeep to tell you what he knows about the secret meetings held in his back room. _What’s really going on here? What’s he really feeling about this? Is he part of this secret group?_
@@ -597,15 +598,15 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 @TODO table p33
 
-## Coin and Stash
+# Coin and Stash
 
-### Coin
+## Coin
 
 <span class="game-term">Coin</span> is an abstract measure of cash and liquid assets.
 
 The few bits PCs use in their daily lives are not tracked. If a character wants to spend to achieve a small goal (bribe a doorman), use the PC’s **lifestyle quality** for a fortune roll.
 
-### Monetary values
+## Monetary values
 
 * <span class="game-term">1 coin: </span>A full purse of silver pieces. A week’s wages.
 * <span class="game-term">2 coin:</span> A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
@@ -618,7 +619,7 @@ More than 4<span class="game-term">coin</span> is an impractical amount to keep 
 
 One unit of <span class="game-term">coin</span> in silver pieces or other bulk currency takes up one item slot for your **load** when carried.
 
-#### Coin Use
+### Coin Use
 
 * Spend 1 <span class="game-term">coin</span> to get an additional **activity** during **downtime**.
 * Spend 1 <span class="game-term">coin</span> to increase the result level of a **downtime activity** roll.
@@ -626,7 +627,7 @@ One unit of <span class="game-term">coin</span> in silver pieces or other bulk c
 * Put <span class="game-term">coin</span> in your character’s **stash** to improve their lifestyle and circumstances when they retire. See the next page.
 * Spend <span class="game-term">coin</span> when you advance your crew’s **Tier**.
 
-### Stash &amp; Retirement
+## Stash &amp; Retirement
 
 When you mark your character’s final <span class="game-term">trauma</span> and they retire, the amount of <span class="game-term">coin</span> they’ve managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
@@ -639,19 +640,19 @@ In addition, each full row of stash (10 <span class="game-term">coins</span>) in
 
 > Cross wants some alone-time with a prospective new friend, but he can’t take them back to the hidden lair where he lives, so what to do? Ryan, Cross’s player, says he wants to rent a nice room for the evening, so the GM asks for a fortune roll using Cross’s lifestyle rating to see what quality of room Cross can manage.
 
-#### Removing coin from your stash
+### Removing coin from your stash
 
 If you want to pull <span class="game-term">coin</span> out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 **<span class="game-term">coin</span>** in cash.**
 
-## The Faction Game
+# The Faction Game
 
-### Tier
+## Tier
 
 Each notable faction is ranked by **Tier**—a measure of wealth, influence, and scale. At the highest level are the Tier V and VI factions, the true powers of the city. Your crew begins at Tier 0.
 
 You’ll use your Tier rating to roll dice when you acquire an asset, as well as for any fortune roll for which your crew’s overall power level and influence is the primary trait. Most importantly, your Tier determines the **quality level** of your items as well as the quality and **scale** of the gangs your crew employs—and thereby what size of enemy you can expect to handle.
 
-#### Gang scale by tier
+### Gang scale by tier
 
 * <span class="game-term">tier v</span>. Massive gangs. (80 people)
 * <span class="game-term">tier iv</span>. Huge gangs. (40 people)
@@ -660,11 +661,11 @@ You’ll use your Tier rating to roll dice when you acquire an asset, as well as
 * <span class="game-term">tier i</span>. Small gangs. (3-6 people)
 * <span class="game-term">tier 0</span>. 1 or 2 people
 
-### Hold
+## Hold
 
 On the faction ladder next to the Tier numbers is a letter indicating the strength of each faction’s **hold**. Hold represents how well a faction can maintain their current position on the ladder. W indicates **weak** hold. S indicates **strong** hold. Your crew begins with **strong** hold at **Tier 0**.
 
-### Development
+## Development
 
 To move up the ladder and develop your crew, you need <span class="game-term">rep</span>. <span class="game-term">Rep</span> is a measure of clout and renown. When you accrue enough <span class="game-term">rep</span>, the other factions take you more seriously and you attract the support needed to develop and grow.
 
@@ -675,7 +676,7 @@ You need **12 <span class="game-term">rep</span>** to fill the <span class="game
 * If your hold is weak, it becomes strong. **Reset your **<span class="game-term">rep</span>** to zero**.
 * If your hold is strong, you can pay to increase your crew Tier by one. This costs <span class="game-term">coin</span> equal to your **new Tier x 8**. As long as your <span class="game-term">rep</span> tracker is full, you don’t earn new <span class="game-term">rep</span> (12 is the max). Once you pay and increase your Tier, **reset your **<span class="game-term">rep</span>** to zero** and **reduce your hold to weak**.
 
-### Turf
+## Turf
 
 Another way to contribute to the crew’s development is by acquiring **turf**. When you seize and hold territory, you establish a more stable basis for your <span class="game-term">rep</span>. Each piece of turf that you claim represents abstracted support for the crew (often a result of the fear you instill in the citizens on that turf).
 
@@ -685,7 +686,7 @@ Turf is marked on your <span class="game-term">rep</span> tracker (see the examp
 
 Also, when you acquire turf, you expand the scope of your crew’s **hunting grounds**.
 
-#### Reducing hold
+### Reducing hold
 
 You may perform an operation specifically to reduce the hold of another faction, if you know how they’re vulnerable. If the operation succeeds, the target faction loses 1 level of hold. If their hold is weak and it drops, the faction loses 1 Tier and stays weak.
 
@@ -693,17 +694,17 @@ When a faction is at war, it temporarily loses 1 hold.
 
 Your crew can lose hold, too, following the same rules above. If your crew is Tier 0, with weak hold, and you lose hold for any reason, your lair comes under threat by your enemies or by a faction seeking to profit from your misfortune.
 
-### Faction Status
+## Faction Status
 
 Your crew’s **status** with each faction indicates how well you are liked or hated. Status is rated from -3 to +3, with zero (neutral) being the default starting status. You track your status with each faction on the faction sheet.
 
 When you create your crew, you assign some positive and negative status ratings to reflect recent history. The ratings will then change over time based on your actions in play.
 
-#### Faction status changes
+### Faction status changes
 
 When you execute an operation, you gain -1 or -2 status with factions that are hurt by your actions. You may also gain +1 status with a faction that your operation helps. (If you keep your operation completely quiet then your status doesn’t change.) Your status may also change if you do a favor for a faction or if you refuse one of their demands.
 
-#### Faction status levels
+### Faction status levels
 
 * **+3: **Allies**. This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
 * **+2: **Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
@@ -715,13 +716,13 @@ When you execute an operation, you gain -1 or -2 status with factions that are h
 
 > If your crew has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your crew’s Tier back to its pre-war level.
 
-### Claims
+## Claims
 
 Each crew sheet has a map of claims available to be seized. The claim map displays a default roadmap for your crew type. Claims should usually be seized in an orderly sequence, by following the paths from the central square, the crew’s lair.
 
 _However, you may attempt to seize any claim on your map_, ignoring the paths (or even seek out a special claim not on your map) but these operations will always be especially difficult and require exceptional efforts to discover and achieve.
 
-#### Seizing a claim
+### Seizing a claim
 
 Every claim is already controlled by a faction. To acquire one for yourself, you have to take it from someone else. To seize a claim, tell the GM which claim on your map your crew intends to capture. The GM will detail the claim with a location and a description and will tell you which faction currently controls that claim. Or the GM might offer you a choice of a few options if they’re available.
 
@@ -733,13 +734,13 @@ Seizing a claim is a serious attack on a faction, usually resulting in -2 factio
 
 As soon as you seize a claim, you enjoy the listed benefit for as long as you hold the claim. Some claims count as **turf**. Others provide special benefits to the crew, such as bonus dice in certain circumstances, extra <span class="game-term">coin</span> generated for the crew’s treasury, or new opportunities for action.
 
-#### Losing a claim
+### Losing a claim
 
 An enemy faction may try to seize a claim that your crew holds. You can fight to defend it, or negotiate a deal with the faction, depending on the situation. If you lose a claim, you lose all the benefits of that claim. If your lair is lost, you lose the benefits of all of your claims until you can restore your lair or establish a new one. To restore or establish a new lair, accomplish a score to do so.
 
-## Advancement
+# Advancement
 
-### PC Advancement
+## PC Advancement
 
 Each player keeps track of the experience points (**xp**) that their character earns.
 
@@ -762,7 +763,7 @@ When you fill an xp track, clear all the marks and take an **advance**. When you
 
 You can also earn xp by **training** during downtime. When you train, mark xp in one of your attributes or in your playbook. A given xp track can be trained only once per downtime phase.
 
-### Crew Advancement
+## Crew Advancement
 
 At the end of the session, review the crew xp triggers and mark 1 crew xp for each item that occurred during the session. If an item occurred multiple times or in a major way, mark 2 crew xp for it. The crew xp triggers are:
 
@@ -778,7 +779,7 @@ At the end of the session, review the crew xp triggers and mark 1 crew xp for ea
 
 Say how you’ve obtained this new ability or upgrades for the crew. _Where did it come from? How does it become a new part of the crew?_
 
-#### Profits
+### Profits
 
 Every time the crew advances, **each PC gets** **s**tash** equal to the crew Tier+2, to represent profits generated by the crew as they’ve been operating.
 

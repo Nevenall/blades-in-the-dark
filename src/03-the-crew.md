@@ -3,9 +3,9 @@ title: The Crew
 order: 03
 ---
 
-## Crew creation
+# Crew creation
 
-### Choose a crew type
+## Choose a crew type
 
 Each Blades-powered game should have crew types that suit its setting and premise. These might be organizations, gangs, ships, strongholds, etc. Three to six options are good.
 
@@ -15,7 +15,7 @@ Like a character playbook, your crew type is also how you’re known in the unde
 
 Your crew begins with 2 <span class="game-term">coin</span> in its coffers (the remains of the PCs’ savings). You are **Tier 0**, with **strong hold** and **0** <span class="game-term">rep</span>.
 
-### Choose an initial reputation &amp; lair
+## Choose an initial reputation &amp; lair
 
 Your crew has just formed and acquired a lair. Given this group of characters and their previous escapades, what initial **reputation** would you have among the factions of the underworld? Choose one from the list at right (or create your own).
 
@@ -32,7 +32,7 @@ You earn xp when you bolster your crew’s reputation, so think of this as anoth
 
 Also, talk about where the crew makes its **lair**. You begin at Tier 0, so it’s probably a very modest or abandoned sort of place.
 
-### Establish your hunting grounds
+## Establish your hunting grounds
 
 Your crew is brand-new, but you have chosen some small part of a district as your **hunting grounds**. This is the area that you usually target for your scores, and you know it well. Your hunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
 
@@ -46,13 +46,13 @@ When you prepare to execute an operation of your preferred type on your hunting 
 
 When you acquire **turf** you also expand the size and/or type of your hunting grounds. Detail the new area and/or methods with help from the GM.
 
-### Choose a special ability
+## Choose a special ability
 
 Take a look at the special abilities for your crew and choose one. If you can’t decide which one to pick, go with the first one on the list—it’s placed there as a good default choice. It’s important to pick a special ability that everyone is excited about. You can get more special abilities in the future by earning xp.
 
 Just like picking the crew type, reputation, lair, and hunting grounds, choosing a special ability is another chance to focus the game down to a more specific range of possibilities. That’s a lot to work with, and it helps get the game going in a strong direction from the very beginning.
 
-### Assign crew upgrades
+## Assign crew upgrades
 
 An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions on the following page). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a** gang** of Thugs for the Bravos crew).
 
@@ -66,7 +66,7 @@ When you assign your two upgrades, the GM will tell you about two factions that 
 
 You’ll be able get more upgrades in the future by earning xp
 
-### Choose a favorite contact
+## Choose a favorite contact
 
 Take a look at your list of potential contacts on the crew sheet. Choose one contact who is a close friend, long-time ally, or partner in crime. The GM will tell you about two factions that are impacted by your choice:
 
@@ -75,7 +75,7 @@ Take a look at your list of potential contacts on the crew sheet. Choose one con
 
 At your option, these factions are even more concerned with this contact and so you take **+2** and **-2 status** instead.
 
-### Crew upgrade Examples
+## Crew upgrade Examples
 
 * <span class="game-term">Boat house:</span><span class="game-term"> </span>You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
 * <span class="game-term">Carriage House:</span> You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
@@ -90,11 +90,11 @@ _If you have Insight Training, when you train Insight during downtime, you mark 
 * <span class="game-term">Vault:</span><span class="game-term"> </span>Your lair has a secure vault, increasing your storage capacity for <span class="game-term">coin</span> to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
 * <span class="game-term">Workshop:</span> Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
 
-### Cohorts
+## Cohorts
 
 A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend** two upgrades** and create them using the process below.
 
-#### Creating a gang
+### Creating a gang
 
 Choose a **gang type** from the list below:
 
@@ -111,13 +111,13 @@ A gang has **scale** and **quality** equal to your current crew Tier. It increas
 
 Some crew upgrades will add the “Elite” feature to a gang, which gives them +1d when they roll for a given Type. _So, if you’re Tier I and have a gang of Elite Thugs (+1d), they would roll 2d when they try to kill a target._
 
-#### Creating an expert
+### Creating an expert
 
 Record the expert’s **type** (their specific area of expertise). They might be a _Doctor_, an _Investigator_, an _Occultist_, an _Assassin_, a _Spy_, etc.
 
 An expert has **quality** equal to your current crew Tier +1. Their scale is always zero (1 person). Your experts increase in quality when your crew moves up in Tier.
 
-#### Edges &amp; flaws
+### Edges &amp; flaws
 
 When you create a cohort, give them one or two **edges** and an equal number of **flaws**.
 
@@ -136,11 +136,11 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 * **Wild:** The cohort is drunken, debauched, and loud-mouthed.
 
 
-#### Modifying a cohort
+### Modifying a cohort
 
 You can add an **additional type** to a gang or expert by spending two crew upgrades. When a cohort performs actions for which its types apply, it uses its full quality rating. Otherwise, its quality is zero. A given cohort can have up to two types.
 
-#### Using a cohort
+### Using a cohort
 
 When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll <span class="game-term">Command</span>. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
 
@@ -148,7 +148,7 @@ When you send a cohort to achieve a goal, roll their **quality** to see how it g
 
 > The next day, the crew boss goes back and leads a group action, rolling her 3d in <span class="game-term">Skirmish</span> alongside the Thugs’ 2d. The boss gets a <span class="game-term">6</span> this time—they beat the tar out of the other gang and send them packing (at least for now).
 
-### Cohort harm & Healing
+## Cohort harm & Healing
 
 Cohorts suffer harm similarly to PCs. A cohort can suffer four levels of harm:
   - **Weakened.** The cohort has reduced effect.
@@ -160,7 +160,7 @@ All of your cohorts heal during downtime. If circumstances are amenable for reco
 
 If a cohort is destroyed, it may be replaced. Spend <span class="game-term">coin</span> equal to your Tier +2 to restore it, plus two downtime activities to recruit new gang members, or hire a new expert.
 
-### Crew creation summary
+## Crew creation summary
 
 @TODO dropcaps
 
@@ -192,7 +192,7 @@ You begin at **Tier 0**, with **strong hold** and 0 <span class="game-term">rep<
 
 At your option, increase the intensity of the factions’ relationship with your contact and take **+2** and **-2 status**, instead.
 
-## Crew playbook
+# Crew playbook
 
 **Short description of Crew**
 
@@ -202,20 +202,20 @@ You’re professional murderers—death is your business.
 
 _Add questions to personalize the crew. How is the crew distinguished from other similar crews?_
 
-### Starting upgrades
+## Starting upgrades
 * First upgrade
 * Second upgrade
 
-### Favored Operations
+## Favored Operations
 A list of operation types that the crew may perform. Some possibilities include: murder, ranson, extortion, sabotage, aquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
 
-### Contacts
+## Contacts
 
 A list of five possible contacts for thew crew, along with descriptions of each. Some possibilities include: a gang boss, a deal broker, a noble, a bounty hunter, a merchant, a blacksmith, a physicker, a ward boss, a taver owner, an academic, an occultist, a magistrate, a dillettante, an explorer, a collector, an arms dealer, a drug dealer, an anarchist, or a dock worker.
 
 Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
 
-### Crew upgrades
+## Crew upgrades
 
 A list of five upgrades specific to the crew. Some examples:
 
@@ -227,7 +227,7 @@ A list of five upgrades specific to the crew. Some examples:
 * **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
 * **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
 
-#### Make a Claim Map for the Crew. Sample claims include:</span>
+### Make a Claim Map for the Crew. Sample claims include:</span>
 
 <span class="game-term">Turf: </span>You require one less Rep to advance in tier (max 6).</span>
 
@@ -287,89 +287,89 @@ A list of five upgrades specific to the crew. Some examples:
 
 <span class="game-term">Side Business:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. _What kind of legitimate business is this? How do you get paid in secret?_
 
-### Crew special abilities
+## Crew special abilities
 
 Create seven special abilities for your crew. Here are several examples.
 
-#### Deadly
+### Deadly
 
 Each PC may add +1 action rating to <span class="game-term">Hunt</span>, <span class="game-term">Prowl</span>, or <span class="game-term">Skirmish</span> (up to a max rating of 3).
 
 > Each player may choose the action they prefer (you don’t all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit for action ratings.
 
-#### Death veil
+### Death veil
 
 Due to hard-won experience or occult ritual, you don’t take extra <span class="game-term">heat</span> when killing is involved on a score.
 
-#### No traces
+### No traces
 
 When you keep an operation quiet or make it look like an accident, you get half the <span class="game-term">rep</span> value of the target (round up) instead of zero. When you end downtime with zero <span class="game-term">heat</span>, take **+1** <span class="game-term">rep</span>.
 
 > There are many clients who value quiet operations. This ability rewards you for keeping a low-profile.
 
-#### Patron
+### Patron
 
 When you advance your **Tier**, it costs half the <span class="game-term">coin</span> it normally would.
 
 > Who is your patron? Why do they help you?
 
-#### Predators
+### Predators
 
 When you use a stealth or deception plan to commit murder, take **+1d** to the **engagement roll**.
 
 > This ability applies when the goal is murder. It doesn’t apply to other stealth or deception operations you attempt that happen to involve killing.
 
-#### Fiends
+### Fiends
 
 Fear is as good as respect. You may count each <span class="game-term">wanted level</span> as if it were **turf**.
 
 > The maximum <span class="game-term">wanted level</span> is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6._
 
-#### Forged in the fire
+### Forged in the fire
 
 Each PC has been toughened by cruel experience. You get **+1d** to **resistance** rolls.
 
 > This ability applies to PCs in the crew. It doesn’t confer any special toughness to your cohorts.
 
-#### War dogs
+### War dogs
 
 When you’re at war (-3 faction status), your crew does not suffer -1 hold and PCs still get two downtime activities, instead of just one.
 
-#### Anointed
+### Anointed
 
 You gain **+1d** to **resistance** rolls against supernatural threats. You get **+1d** to healing rolls when you have supernatural harm.
 
-#### Accord
+### Accord
 
 Sometimes friends are as good as territory. You may treat up to three **+3 faction** statuses** you hold as if they are **turf**.
 
 > If your status changes, you lose the turf until it becomes +3 again. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6.
 
-#### High society
+### High society
 
 It’s all about who you know. Take **-1 **<span class="game-term">heat</span>** **during downtime and **+1d** to **gather information** about the city’s elite.
 
-#### Pack rats
+### Pack rats
 
 Your lair is a jumble of stolen items. When you roll to **acquire an asset**, take **+1d**.
 
 > This ability might mean that you actually have the item you need in your pile of stuff, or it could mean you have extra odds and ends to barter with.
 
-#### Second story
+### Second story
 
 When you execute a clandestine infiltration, you get **+1d** to the **engagement roll**.
 
-#### Synchronized
+### Synchronized
 
 When you perform a **group action**, you may count multiple 6s from different rolls as a <span class="game-term">critical</span> success.
 
 > For example, Lyric leads a group action to <span class="game-term">Attune</span> to the ghost field to overcome a magical ward on the Dimmer Sisters’ door. Emily, Lyric’s player, rolls and gets a <span class="game-term">6</span>, and so does Matt! Because the crew has Synchronized, their two separate <span class="game-term">6</span>s count as a <span class="game-term">critical</span> success on the roll.
 
-#### All hands
+### All hands
 
 During **downtime**, one of your **cohorts** may perform a downtime activity for the crew to **acquire an asset**, **reduce** <span class="game-term">heat</span>, or work on a **long-term project**.
 
-#### Just passing through
+### Just passing through
 
 During **downtime**, take **-1 **<span class="game-term">heat</span>. When your <span class="game-term">heat</span> is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
 
