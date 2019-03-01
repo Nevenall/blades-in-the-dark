@@ -11,11 +11,11 @@ order: 03
 
 Each Blades-powered game should have crew types that suit its setting and premise. These might be organizations, gangs, ships, strongholds, etc. Three to six options are good.
 
-Your crew type determines the scores that you’ll focus on, as well as a selection of special abilities that support that kind of action. The crew type isn’t meant to be restrictive—a crew of smugglers might sometimes engage in extortion  or sell contraband —but the core activity of the crew type is the most frequent way they earn <span class="game-term">coin</span> and xp for advancement.
+Your crew type determines the scores that you’ll focus on, as well as a selection of special abilities that support that kind of action. The crew type isn’t meant to be restrictive—a crew of smugglers might sometimes engage in extortion  or sell contraband —but the core activity of the crew type is the most frequent way they earn /coin/ and xp for advancement.
 
 Like a character playbook, your crew type is also how you’re known in the underworld. The criminal factions and institutions think of you as “assassins” or “a cult” etc., and will treat you accordingly.
 
-Your crew begins with 2 <span class="game-term">coin</span> in its coffers (the remains of the PCs’ savings). You are **Tier 0**, with **strong hold** and **0** <span class="game-term">rep</span>.
+Your crew begins with 2 /coin/ in its coffers (the remains of the PCs’ savings). You are **Tier 0**, with **strong hold** and **0** /rep/.
 
 ### Choose an initial reputation &amp; lair
 
@@ -38,8 +38,8 @@ Also, talk about where the crew makes its **lair**. You begin at Tier 0, so it�
 
 Your crew is brand-new, but you have chosen some small part of a district as your **hunting grounds**. This is the area that you usually target for your scores, and you know it well. Your hunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
 
-* Pay them off. Give them 1 <span class="game-term">coin</span> in exchange for giving you room to work.
-* Pay the faction 2 <span class="game-term">coin</span> as a show of respect and gain **+1 status** with them.
+* Pay them off. Give them 1 /coin/ in exchange for giving you room to work.
+* Pay the faction 2 /coin/ as a show of respect and gain **+1 status** with them.
 * Keep your money and take **-1 status** with that faction.
 
 Your hunting grounds are useful for a particular type of criminal operation. Each crew type has a list of different operation types for their hunting grounds. For instance, Assassins have *Accident*, *Disappearance*, *Murder*, or *Ransom* as options. Choose one of these operation types as your preference.
@@ -62,8 +62,8 @@ You get to add **two additional upgrades** to your new crew (so you’ll have a 
 
 When you assign your two upgrades, the GM will tell you about two factions that are impacted by your choices:
 
-* One faction helped you get an upgrade. They like you, and you get **+1 status** with them. At your option, spend 1 <span class="game-term">coin </span>to repay their kindness, and take **+2 status** with them instead.
-* One faction was screwed over when you got an upgrade. They don’t like you, and you get **-2 status** with them. At your option, spend 1 <span class="game-term">coin </span>to mollify them, and take **-1 status** with them instead.
+* One faction helped you get an upgrade. They like you, and you get **+1 status** with them. At your option, spend 1 /coin /to repay their kindness, and take **+2 status** with them instead.
+* One faction was screwed over when you got an upgrade. They don’t like you, and you get **-2 status** with them. At your option, spend 1 /coin /to mollify them, and take **-1 status** with them instead.
 
 
 You’ll be able get more upgrades in the future by earning xp
@@ -79,18 +79,18 @@ At your option, these factions are even more concerned with this contact and so 
 
 ### Crew upgrade Examples
 
-* <span class="game-term">Boat house:</span><span class="game-term"> </span>You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
-* <span class="game-term">Carriage House:</span> You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
-* <span class="game-term">Cohort:</span> A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
-* <span class="game-term">Hidden Lair:</span> Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay <span class="game-term">coin</span> equal to your Tier to relocate it and hide it once again.
-* <span class="game-term">Mastery: </span>Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
-* <span class="game-term">Quality:</span> **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. *So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
-* <span class="game-term">Quarters:</span> Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
-* <span class="game-term">Secure Lair:</span><span class="game-term"> </span>Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. *You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder.*
-* <span class="game-term">Training: </span>If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
-*If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the <span class="game-term">Insight</span> track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train.*
-* <span class="game-term">Vault:</span><span class="game-term"> </span>Your lair has a secure vault, increasing your storage capacity for <span class="game-term">coin</span> to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
-* <span class="game-term">Workshop:</span> Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
+* /Boat house:// /You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
+* /Carriage House:/ You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
+* /Cohort:/ A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
+* /Hidden Lair:/ Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay /coin/ equal to your Tier to relocate it and hide it once again.
+* /Mastery: /Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
+* /Quality:/ **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. *So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
+* /Quarters:/ Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
+* /Secure Lair:// /Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. *You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder.*
+* /Training: /If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (/Insight/, /Prowess/, /Resolve/, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
+*If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the /Insight/ track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train.*
+* /Vault:// /Your lair has a secure vault, increasing your storage capacity for /coin/ to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
+* /Workshop:/ Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
 
 ### Cohorts
 
@@ -100,11 +100,11 @@ A **cohort** is a **gang** or an **expert** who works for your crew. To recruit 
 
 Choose a **gang type** from the list below:
 
-* <span class="game-term">Adepts:</span><span class="game-term"> </span>Scholars, tinkerers, occultists, and chemists.
-* <span class="game-term">Rooks:</span> Con artists, spies, and socialites.
-* <span class="game-term">Rovers:</span><span class="game-term"> </span>Sailors, carriage drivers, and deathlands scavengers.
-* <span class="game-term">Skulks:</span> Scouts, infiltrators, and thieves.
-* <span class="game-term">Thugs:</span> Killers, brawlers, and roustabouts.
+* /Adepts:// /Scholars, tinkerers, occultists, and chemists.
+* /Rooks:/ Con artists, spies, and socialites.
+* /Rovers:// /Sailors, carriage drivers, and deathlands scavengers.
+* /Skulks:/ Scouts, infiltrators, and thieves.
+* /Thugs:/ Killers, brawlers, and roustabouts.
 
 
 A gang has **scale** and **quality** equal to your current crew Tier. It increases in scale and quality when your crew moves up in Tier.
@@ -144,11 +144,11 @@ You can add an **additional type** to a gang or expert by spending two crew upgr
 
 #### Using a cohort
 
-When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll <span class="game-term">Command</span>. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
+When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll /Command/. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort’s quality affects the position and effect of the action.
 
-> The PCs crew of Hawkers want to run a rival gang out of the alley where they’re selling drugs. They send their gang of Thugs to go kick the interlopers out. The GM rolls 2d for the Thugs’ quality, and gets a <span class="game-term">3</span>. An hour later, the Thugs come back, beaten and bloody. One of them looks sheepish, “Those guys are tough, boss.” (The GM inflicts harm on the cohort, and they failed their goal.)
+> The PCs crew of Hawkers want to run a rival gang out of the alley where they’re selling drugs. They send their gang of Thugs to go kick the interlopers out. The GM rolls 2d for the Thugs’ quality, and gets a /3/. An hour later, the Thugs come back, beaten and bloody. One of them looks sheepish, “Those guys are tough, boss.” (The GM inflicts harm on the cohort, and they failed their goal.)
 
-> The next day, the crew boss goes back and leads a group action, rolling her 3d in <span class="game-term">Skirmish</span> alongside the Thugs’ 2d. The boss gets a <span class="game-term">6</span> this time—they beat the tar out of the other gang and send them packing (at least for now).
+> The next day, the crew boss goes back and leads a group action, rolling her 3d in /Skirmish/ alongside the Thugs’ 2d. The boss gets a /6/ this time—they beat the tar out of the other gang and send them packing (at least for now).
 
 ### Cohort harm & Healing
 
@@ -160,7 +160,7 @@ Cohorts suffer harm similarly to PCs. A cohort can suffer four levels of harm:
 
 All of your cohorts heal during downtime. If circumstances are amenable for recovery, each cohort removes one level of harm (or two levels of harm instead, if a PC spends a downtime activity helping them recuperate).
 
-If a cohort is destroyed, it may be replaced. Spend <span class="game-term">coin</span> equal to your Tier +2 to restore it, plus two downtime activities to recruit new gang members, or hire a new expert.
+If a cohort is destroyed, it may be replaced. Spend /coin/ equal to your Tier +2 to restore it, plus two downtime activities to recruit new gang members, or hire a new expert.
 
 ### Crew creation summary
 
@@ -168,22 +168,22 @@ If a cohort is destroyed, it may be replaced. Spend <span class="game-term">coin
 
 <span class="number">1</span>**Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
 
-You begin at **Tier 0**, with **strong hold** and 0 <span class="game-term">rep</span>. You start with 2 <span class="game-term">coin</span>.
+You begin at **Tier 0**, with **strong hold** and 0 /rep/. You start with 2 /coin/.
 
 <span class="number">2</span> **Choose an initial reputation and lair.** Choose how other underworld factions see you:*Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange.* Look at the map and pick a district in which to place your lair. Describe the lair.
 
 <span class="number">3</span> **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
 
-* Pay them 1 <span class="game-term">coin</span>.
-* Pay them 2 <span class="game-term">coin</span>. Get **+1 status**.
+* Pay them 1 /coin/.
+* Pay them 2 /coin/. Get **+1 status**.
 * Pay nothing. Get **-1 status**.
 
 <span class="number">4</span> **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
 <span class="number">5</span> **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
 
-* One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 <span class="game-term">coin</span> for **+2 status** instead.
-* One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 <span class="game-term">coin</span> for **-1 status** instead.
+* One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 /coin/ for **+2 status** instead.
+* One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 /coin/ for **-1 status** instead.
 
 
 <span class="number">6</span> **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
@@ -224,70 +224,70 @@ A list of five upgrades specific to the crew. Some examples:
 * **Rigging:** You get 2 free load in two of the equipment categories (weapons, implements, supplies, gear, documents, and tools).
 * **Prison Contacts:** Your Tier is effectively +1 higher in prison. *This counts for any Tier-related element in prison, including the incarceration roll.*
 * **Elite Cohorts (specify type):** All of your cohorts with the specified type get **+1d** to quality rolls for related actions.
-* **Hardened:** Each PC gets **+1 <span class="game-term">trauma</span> box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 <span class="game-term">trauma</span>* back into play if you wish.
+* **Hardened:** Each PC gets **+1 /trauma/ box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 /trauma/* back into play if you wish.
 * **Composed:** Each PC gets **+1 stress box**. This costs three upgrades to unlock, not just one.
 * **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
 * **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
 
 #### Make a Claim Map for the Crew. Sample claims include:</span>
 
-<span class="game-term">Turf: </span>You require one less Rep to advance in tier (max 6).</span>
+/Turf: /You require one less Rep to advance in tier (max 6).</span>
 
 <span class="game-term ">City Records:</span> You get </span>**+1d** to the **engagement roll** for **stealth** plans. *You can use blueprints and other documents to determine a good approach for infiltrations.*
 
-<span class="game-term">Cover Identities: </span> You get **+1d** to the **engagement roll** for **deception** and social plans. *False identities help confuse the opposition.*
+/Cover Identities: / You get **+1d** to the **engagement roll** for **deception** and social plans. *False identities help confuse the opposition.*
 
-<span class="game-term">Cover Operation: </span> You get **-2** <span class="game-term">heat</span> per score. *The cover of a legitimate operation helps deflect some of the heat from law enforcement.*
+/Cover Operation: / You get **-2** /heat/ per score. *The cover of a legitimate operation helps deflect some of the heat from law enforcement.*
 
-<span class="game-term">Envoy:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve high-class clients. *This well-connected liaison will help arrange for a better payoff from rich clients.*
+/Envoy:/ You get **+2** /coin/ in **payoff** for scores that involve high-class clients. *This well-connected liaison will help arrange for a better payoff from rich clients.*
 
-<span class="game-term">Fixer:</span> You get </span>**+2** <span class="game-term">coin</span> in **payoff** for scores that involve lower-class clients. *This well-respected agent will help arrange for a better payoff from poorer clients.*
+/Fixer:/ You get </span>**+2** /coin/ in **payoff** for scores that involve lower-class clients. *This well-respected agent will help arrange for a better payoff from poorer clients.*
 
-<span class="game-term">Infirmary:</span> You get **+1d** to healing treatment rolls. *The infirmary also has beds for long-term convalescence.*
+/Infirmary:/ You get **+1d** to healing treatment rolls. *The infirmary also has beds for long-term convalescence.*
 
-<span class="game-term">Informants:</span> You get **+1d** to gather information for a score. *Your eyes and ears on the streets are always on the lookout for new targets.*
+/Informants:/ You get **+1d** to gather information for a score. *Your eyes and ears on the streets are always on the lookout for new targets.*
 
-<span class="game-term">Protection Racket:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. *Some of the locals are terrified of you and will gladly pay for “protection.”*
+/Protection Racket:/ Any time during downtime, roll dice equal to your Tier. You earn /coin/ equal to the highest result, minus your /heat/. *Some of the locals are terrified of you and will gladly pay for “protection.”*
 
-<span class="game-term">Training Rooms:</span> Your cohorts of a specific type get **+1 scale**. *Extra training enables them to fight like a larger gang.*
+/Training Rooms:/ Your cohorts of a specific type get **+1 scale**. *Extra training enables them to fight like a larger gang.*
 
-<span class="game-term">Vice Den:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>.
+/Vice Den:/ Any time during downtime, roll dice equal to your Tier. You earn /coin/ equal to the highest result, minus your /heat/.
 
-<span class="game-term">Victim Trophies:</span> You get **+1 rep** per score. *Word of your grisly “collection” gets around, and your boldness boosts your rep in the underworld.*
+/Victim Trophies:/ You get **+1 rep** per score. *Word of your grisly “collection” gets around, and your boldness boosts your rep in the underworld.*
 
-<span class="game-term">Fighting Pits </span> During downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. *The locals love to gamble away their hard-won coin on the blood-sports you host.*
+/Fighting Pits / During downtime, roll dice equal to your Tier. You earn /coin/ equal to the highest result, minus your /heat/. *The locals love to gamble away their hard-won coin on the blood-sports you host.*
 
-<span class="game-term">Street Fence:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve lower-class targets. *An expert can find the treasure amid the trash you loot from your poorer victims.*
+/Street Fence:/ You get **+2** /coin/ in your payoff for scores that involve lower-class targets. *An expert can find the treasure amid the trash you loot from your poorer victims.*
 
-<span class="game-term">Terrorized Citizens:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve battle or extortion. *The frightened locals offer you tribute whenever you lash out. They don’t want to be next.*
+/Terrorized Citizens:/ You get **+2** /coin/ in your payoff for scores that involve battle or extortion. *The frightened locals offer you tribute whenever you lash out. They don’t want to be next.*
 
-<span class="game-term">Warehouses:</span> You get **+1d** to **acquire asset** rolls. *You have space to hold all the various spoils you end up with after your battles. It can be useful on its own or for barter when you need it.*
+/Warehouses:/ You get **+1d** to **acquire asset** rolls. *You have space to hold all the various spoils you end up with after your battles. It can be useful on its own or for barter when you need it.*
 
-<span class="game-term">Ancient Altar: </span> You get **+1d** to the **engagement roll** for **occult** plans. *Its blessing is with you.*
+/Ancient Altar: / You get **+1d** to the **engagement roll** for **occult** plans. *Its blessing is with you.*
 
-<span class="game-term">Ancient Tower:</span> You get **+1d** to <span class="game-term">Consort</span> with arcane entities on-site.
+/Ancient Tower:/ You get **+1d** to /Consort/ with arcane entities on-site.
 
-<span class="game-term">Offertory:</span> You get **+2** <span class="game-term">coin</span> in your payoff for scores that involve occult operations. *The frightened locals offer you tribute when you perform your dark practices. They don’t want to be next.*
+/Offertory:/ You get **+2** /coin/ in your payoff for scores that involve occult operations. *The frightened locals offer you tribute when you perform your dark practices. They don’t want to be next.*
 
-<span class="game-term">Local Graft:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve a show of force or socializing. *A few city officials share bribe money with those who show that they’re players on the scene.*
+/Local Graft:/ You get **+2** /coin/ in **payoff** for scores that involve a show of force or socializing. *A few city officials share bribe money with those who show that they’re players on the scene.*
 
-<span class="game-term">Lookouts: </span> You get **+1d** to <span class="game-term">Hunt</span> or <span class="game-term">Survey</span> on your turf.
+/Lookouts: / You get **+1d** to /Hunt/ or /Survey/ on your turf.
 
-<span class="game-term">Luxury Venue: </span> **+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. *Silks, paintings, and crystal impress the clientele.*
+/Luxury Venue: / **+1d** to /Consort/ and /Sway/ rolls on-site. *Silks, paintings, and crystal impress the clientele.*
 
-<span class="game-term">Surplus Cache:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve product sale or supply. *You have an abundance of product, which pads your pockets every now and then.*
+/Surplus Cache:/ You get **+2** /coin/ in **payoff** for scores that involve product sale or supply. *You have an abundance of product, which pads your pockets every now and then.*
 
-<span class="game-term">Covert Drop:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve espionage or sabotage. *The perfect hidden exchange point is worth the extra coin to discerning clientele.*
+/Covert Drop:/ You get **+2** /coin/ in **payoff** for scores that involve espionage or sabotage. *The perfect hidden exchange point is worth the extra coin to discerning clientele.*
 
-<span class="game-term">Interrogation Chamber:</span> You get **+1d** to <span class="game-term">Command</span> and <span class="game-term">Sway</span> on-site. *Grisly business, but effective.*
+/Interrogation Chamber:/ You get **+1d** to /Command/ and /Sway/ on-site. *Grisly business, but effective.*
 
-<span class="game-term">Loyal Fence:</span> You get **+2** <span class="game-term">coin</span> in **payoff** for scores that involve burglary or robbery. *It requires a skilled eye and good contacts to move stolen goods.*
+/Loyal Fence:/ You get **+2** /coin/ in **payoff** for scores that involve burglary or robbery. *It requires a skilled eye and good contacts to move stolen goods.*
 
-<span class="game-term">Secret Pathways: </span> You get **+1d** to the **engagement roll** for **stealth** plans. *You might have access to long-forgotten underground canals, rooftop walkways, or some other route of your choosing.*
+/Secret Pathways: / You get **+1d** to the **engagement roll** for **stealth** plans. *You might have access to long-forgotten underground canals, rooftop walkways, or some other route of your choosing.*
 
-<span class="game-term">Tavern:</span> You get **+1d** to <span class="game-term">Consort</span> and <span class="game-term">Sway</span> rolls on-site. *Some booze and friendly conversation can go a long way.*
+/Tavern:/ You get **+1d** to /Consort/ and /Sway/ rolls on-site. *Some booze and friendly conversation can go a long way.*
 
-<span class="game-term">Side Business:</span> Any time during downtime, roll dice equal to your Tier. You earn <span class="game-term">coin</span> equal to the highest result, minus your <span class="game-term">heat</span>. *What kind of legitimate business is this? How do you get paid in secret?*
+/Side Business:/ Any time during downtime, roll dice equal to your Tier. You earn /coin/ equal to the highest result, minus your /heat/. *What kind of legitimate business is this? How do you get paid in secret?*
 
 ### Crew special abilities
 
@@ -295,23 +295,23 @@ Create seven special abilities for your crew. Here are several examples.
 
 #### Deadly
 
-Each PC may add +1 action rating to <span class="game-term">Hunt</span>, <span class="game-term">Prowl</span>, or <span class="game-term">Skirmish</span> (up to a max rating of 3).
+Each PC may add +1 action rating to /Hunt/, /Prowl/, or /Skirmish/ (up to a max rating of 3).
 
 > Each player may choose the action they prefer (you don’t all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit for action ratings.
 
 #### Death veil
 
-Due to hard-won experience or occult ritual, you don’t take extra <span class="game-term">heat</span> when killing is involved on a score.
+Due to hard-won experience or occult ritual, you don’t take extra /heat/ when killing is involved on a score.
 
 #### No traces
 
-When you keep an operation quiet or make it look like an accident, you get half the <span class="game-term">rep</span> value of the target (round up) instead of zero. When you end downtime with zero <span class="game-term">heat</span>, take **+1** <span class="game-term">rep</span>.
+When you keep an operation quiet or make it look like an accident, you get half the /rep/ value of the target (round up) instead of zero. When you end downtime with zero /heat/, take **+1** /rep/.
 
 > There are many clients who value quiet operations. This ability rewards you for keeping a low-profile.
 
 #### Patron
 
-When you advance your **Tier**, it costs half the <span class="game-term">coin</span> it normally would.
+When you advance your **Tier**, it costs half the /coin/ it normally would.
 
 > Who is your patron? Why do they help you?
 
@@ -323,9 +323,9 @@ When you use a stealth or deception plan to commit murder, take **+1d** to the *
 
 #### Fiends
 
-Fear is as good as respect. You may count each <span class="game-term">wanted level</span> as if it were **turf**.
+Fear is as good as respect. You may count each /wanted level/ as if it were **turf**.
 
-> The maximum <span class="game-term">wanted level</span> is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6._
+> The maximum /wanted level/ is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum /rep/ cost to advance your Tier is always 6._
 
 #### Forged in the fire
 
@@ -345,11 +345,11 @@ You gain **+1d** to **resistance** rolls against supernatural threats. You get *
 
 Sometimes friends are as good as territory. You may treat up to three **+3 faction** statuses you hold as if they are **turf**.
 
-> If your status changes, you lose the turf until it becomes +3 again. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6.
+> If your status changes, you lose the turf until it becomes +3 again. Regardless of how much turf you hold (from this ability or otherwise) the minimum /rep/ cost to advance your Tier is always 6.
 
 #### High society
 
-It’s all about who you know. Take **-1 <span class="game-term">heat</span> during downtime and +1d** to **gather information** about the city’s elite.
+It’s all about who you know. Take **-1 /heat/ during downtime and +1d** to **gather information** about the city’s elite.
 
 #### Pack rats
 
@@ -363,15 +363,15 @@ When you execute a clandestine infiltration, you get **+1d** to the **engagement
 
 #### Synchronized
 
-When you perform a **group action**, you may count multiple 6s from different rolls as a <span class="game-term">critical</span> success.
+When you perform a **group action**, you may count multiple 6s from different rolls as a /critical/ success.
 
-> For example, Lyric leads a group action to <span class="game-term">Attune</span> to the ghost field to overcome a magical ward on the Dimmer Sisters’ door. Emily, Lyric’s player, rolls and gets a <span class="game-term">6</span>, and so does Matt! Because the crew has Synchronized, their two separate <span class="game-term">6</span>s count as a <span class="game-term">critical</span> success on the roll.
+> For example, Lyric leads a group action to /Attune/ to the ghost field to overcome a magical ward on the Dimmer Sisters’ door. Emily, Lyric’s player, rolls and gets a /6/, and so does Matt! Because the crew has Synchronized, their two separate /6/s count as a /critical/ success on the roll.
 
 #### All hands
 
-During **downtime**, one of your **cohorts** may perform a downtime activity for the crew to **acquire an asset**, **reduce** <span class="game-term">heat</span>, or work on a **long-term project**.
+During **downtime**, one of your **cohorts** may perform a downtime activity for the crew to **acquire an asset**, **reduce** /heat/, or work on a **long-term project**.
 
 #### Just passing through
 
-During **downtime**, take **-1 **<span class="game-term">heat</span>. When your <span class="game-term">heat</span> is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
+During **downtime**, take **-1 **/heat/. When your /heat/ is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
 
