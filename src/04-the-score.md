@@ -68,7 +68,7 @@ If the players want to include a special preparation or clever setup, they can d
 
 #### Outcomes
 
-The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A /1-3/ means a desperate position. A /4/5/ is a risky position. A /6/ yields a controlled position. And a /critical/ carries the action beyond the initial obstacle, deeper into the action of the score.
+The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A {1-3} means a desperate position. A {4}5{ is a risky position. A }6{ yields a controlled position. And a }critical/ carries the action beyond the initial obstacle, deeper into the action of the score.
 
 No matter how low-Tier or outmatched you are, a desperate position is the worst thing that can result from the plan + detail + engagement process. It’s designed this way so the planning process matters, but it doesn’t call for lots of optimization or nitpicking. Even if you’re reckless and just dive in and take your chances, you can’t get too badly burned. Plus, you might even want those desperate rolls to generate more xp for the PCs, which helps to bootstrap starting characters into advancement.
 
@@ -84,24 +84,24 @@ Sometimes an operation seems to call for a couple of plans linked together. A co
 
 <ol>
 	<li>The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. *If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don’t have to sit out and wait.*
-	<li>The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, /heat/, etc.) after the first part of the plan, as normal.
+	<li>The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, {heat}, etc.) after the first part of the plan, as normal.
 </ol>
 
 Either approach is fine. It’s usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
 
 ### Flashbacks
 
-The rules don’t distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a /Sway/ roll to see how that went.
+The rules don’t distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a {Sway} roll to see how that went.
 
 The GM sets a **stress cost** when you activate a flashback action.
 
-- /0 //Stress:/ An ordinary action for which you had easy opportunity. *The Cutter /Consorted/ with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
-- /1 //Stress:/ A complex action or unlikely opportunity. *The Hound /Finessed/ his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
-- /2 //(or more) Stress:/ An elaborate action that involved special opportunities or contingencies. *The Whisper has already /Studied/ the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
+- {0 }{Stress:} An ordinary action for which you had easy opportunity. *The Cutter {Consorted} with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
+- {1 }{Stress:} A complex action or unlikely opportunity. *The Hound {Finessed} his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
+- {2 }{(or more) Stress:} An elaborate action that involved special opportunities or contingencies. *The Whisper has already {Studied} the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
 
 After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there’s some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won’t call for a roll at all because you can just pay the stress and it’s accomplished.
 
-If a flashback involves a **downtime** activity, pay 1 /coin/ or 1 /rep/ for it, instead of stress.
+If a flashback involves a **downtime** activity, pay 1 {coin} or 1 {rep} for it, instead of stress.
 
 One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you’re in, you can call for a flashback to a special preparation you made, “just in case” something like this happened. This way, your “flashback planning” will be focused on the problems that *do* happen, not the problems that *might* happen.
 
@@ -123,7 +123,7 @@ A flashback isn’t time travel. It can’t “undo” something that just occur
 
 > “Eh... not so fast. When you want the distraction to hit, let’s make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice.”
 
-> “The engagement roll is... a /2/. Looks like a desperate situation for you! Hmmm. Okay, so you’re inside the gang’s compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they’re getting a delivery right now, and a bunch of gang members are out to receive it. They’re about to be on top of you. What do you do?”
+> “The engagement roll is... a {2}. Looks like a desperate situation for you! Hmmm. Okay, so you’re inside the gang’s compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they’re getting a delivery right now, and a bunch of gang members are out to receive it. They’re about to be on top of you. What do you do?”
 
 > “Hang on, I want to have a flashback.”
 
@@ -141,7 +141,7 @@ A flashback isn’t time travel. It can’t “undo” something that just occur
 
 ### Giving up on a score
 
-When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You’ll usually have zero **payoff**, since you didn’t accomplish anything. You’ll still face /heat/ and **entanglements** as usual.
+When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You’ll usually have zero **payoff**, since you didn’t accomplish anything. You’ll still face {heat} and **entanglements** as usual.
 
 ## Teamwork
 
@@ -162,13 +162,13 @@ A character may assist a group action, but only if they aren’t taking part in 
 
 When you lead a group action, you coordinate multiple members of the team to tackle a problem together. Describe how your character leads the team in a coordinated effort. Do you bark orders, give subtle hand signals, or provide charismatic inspiration?
 
-Each PC who’s involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled/ 1-3/ as their best result.
+Each PC who’s involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled{ 1-3} as their best result.
 
 > This is how you do the “we all sneak into the building” scene. Everyone who wants to sneak in rolls their Prowl action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It’s tough covering for the stragglers.
 
 **The group action result covers everyone who rolled.** If you don’t roll, your character doesn’t get the effects of the action.
 
-Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll /Command/ if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
+Your character doesn’t have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew’s **cohorts** with a group action. Roll {Command} if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
 
 #### Protect
 
@@ -180,13 +180,13 @@ You step in to face a consequence that one of your teammates would otherwise fac
 
 When you perform a setup action, you have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1 effect level** or **improved position** for their roll. You choose the benefit, based on the nature of your setup action.
 
-> This is how you do the “I’ll create a distraction” scene. You roll /Sway/ to distract a constable with your charms, then any teammate who follows through with a /Prowl/ action to sneak past him can get improved position. It’s less risky since you’re drawing the guard’s attention.
+> This is how you do the “I’ll create a distraction” scene. You roll {Sway} to distract a constable with your charms, then any teammate who follows through with a {Prowl} action to sneak past him can get improved position. It’s less risky since you’re drawing the guard’s attention.
 
 This is a good way to contribute to an operation when you don’t have a good rating in the action at hand. A clever setup action lets you help the team indirectly. Multiple follow-up actions may take advantage of your setup (including someone **leading** a group action) as long as it makes sense in the fiction.
 
 Since a setup action can increase the effect of follow-up actions, it’s also useful when the team is facing tough opposition that has advantages in quality, scale, and/or potency. Even if the PCs are reduced to zero effect due to disadvantages in a situation, the setup action provides a bonus that allows for limited effect.
 
-> The PCs are facing a heavily armored carriage that’s immune to their weapons. Aldo uses /Wreck/ as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
+> The PCs are facing a heavily armored carriage that’s immune to their weapons. Aldo uses {Wreck} as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
 
 ### Do We Have to Use Teamwork?
 
@@ -203,35 +203,35 @@ Downtime fulfills two purposes in the game:
 
 Downtime is divided into four parts, which are resolved in order:
 	<ol>
-		<li>/Payoff. /The crew receives their rewards from a successfully completed score.
-		<li>/Heat. /The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
-		<li>/Entanglements./ The crew faces trouble from the rival factions, the law, and the haunted city itself.
-		<li>/Downtime Activities./ The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
+		<li>{Payoff. }The crew receives their rewards from a successfully completed score.
+		<li>{Heat. }The crew accumulates suspicion and attention from the law and the powers-that-be in the city as a result of their last score.
+		<li>{Entanglements.} The crew faces trouble from the rival factions, the law, and the haunted city itself.
+		<li>{Downtime Activities.} The PCs indulge their vices to remove stress, work on long-term projects, recover from injuries, etc.
 	</ol>
 
 After the downtime activities are resolved, the game returns to free play, and the group can move toward their next score.
 
 ## Payoff
 
-After a score, the PCs take stock of their income from the operation. A successful score generates both /rep/ and /coin/.
+After a score, the PCs take stock of their income from the operation. A successful score generates both {rep} and {coin}.
 
-The crew earns 2 /rep/ per score by default. If the target of the score is higher Tier than you, take **+1 /rep/ per Tier higher**. If the target of the score is lower Tier, you get **-1*/rep/ per Tier lower** (minimum zero).
+The crew earns 2 {rep} per score by default. If the target of the score is higher Tier than you, take **+1 {rep} per Tier higher**. If the target of the score is lower Tier, you get **-1*{rep} per Tier lower** (minimum zero).
 
-> If your crew is Tier I and you pull off a successful score against a Tier III target, you earn 4 /rep/ (2 /rep/, +2 /rep/ for a target two tiers above you). If your crew is Tier III and you complete a score against a Tier I target, you earn 0 /rep/ (2 rep, -2 rep for the lower Tier target).
+> If your crew is Tier I and you pull off a successful score against a Tier III target, you earn 4 {rep} (2 {rep}, +2 {rep} for a target two tiers above you). If your crew is Tier III and you complete a score against a Tier I target, you earn 0 {rep} (2 rep, -2 rep for the lower Tier target).
 
-If you keep the operation completely quiet so no one knows about it, you earn zero /rep/. Mark the rep on the /rep/ tracker on the crew sheet.
+If you keep the operation completely quiet so no one knows about it, you earn zero {rep}. Mark the rep on the {rep} tracker on the crew sheet.
 
-The crew earns /coin/ based on the nature of the operation and/or any loot they seized:
+The crew earns {coin} based on the nature of the operation and/or any loot they seized:
 
-- /2 coin:/ A minor job; several full purses.
-- /4 coin:/ A small job; a strongbox.
-- /6 coin:/ A standard score; decent loot.
-- /8 coin:/ A big score; serious loot.
-- /10+ coin:/ A major score; impressive loot.
+- {2 coin:} A minor job; several full purses.
+- {4 coin:} A small job; a strongbox.
+- {6 coin:} A standard score; decent loot.
+- {8 coin:} A big score; serious loot.
+- {10+ coin:} A major score; impressive loot.
 
-Record the /coin/ on the crew sheet, or divvy it up among the crew members as you see fit.
+Record the {coin} on the crew sheet, or divvy it up among the crew members as you see fit.
 
-Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there’s a boss that you should be paying. **Subtract /coin/ equal to your crew Tier +1** when you pay a tithe to a boss or larger organization. *If you’re supposed to be paying off a boss, but you don’t, start a clock for that boss’s patience running out. Tick it whenever you don’t pay. Every time it fills up, lose 1 faction status with them.*
+Most districts have crime bosses that expect smaller crews to pay a tithe from their scores. Ask the GM if there’s a boss that you should be paying. **Subtract {coin} equal to your crew Tier +1** when you pay a tithe to a boss or larger organization. *If you’re supposed to be paying off a boss, but you don’t, start a clock for that boss’s patience running out. Tick it whenever you don’t pay. Every time it fills up, lose 1 faction status with them.*
 
 You can set the scene and play out a meeting with a client or patron who’s paying the crew if there’s something interesting to explore there. If not, just gloss over it and move on to the next part of downtime.
 
@@ -239,38 +239,38 @@ GM, definitely don’t screw around with the players when it comes to the payoff
 
 ## Heat
 
-The city is full of prying eyes and informants. Anything you do might be witnessed, and there’s always evidence left behind. To reflect this, your crew acquires /heat/ as they commit crimes. After a score or conflict with an opponent, your crew takes /heat/ according to the nature of the operation:
+The city is full of prying eyes and informants. Anything you do might be witnessed, and there’s always evidence left behind. To reflect this, your crew acquires {heat} as they commit crimes. After a score or conflict with an opponent, your crew takes {heat} according to the nature of the operation:
 
-- /0 heat:/ Smooth &amp; quiet; low exposure.
-- /2 heat:/ Contained; standard exposure.
-- /4 heat: /Loud &amp; chaotic; high exposure.
-- /6 heat:/ Wild; devastating exposure.
+- {0 heat:} Smooth &amp; quiet; low exposure.
+- {2 heat:} Contained; standard exposure.
+- {4 heat: }Loud &amp; chaotic; high exposure.
+- {6 heat:} Wild; devastating exposure.
 
-Add +1 /heat/ for a high-profile or well-connected target. Add +1 /heat/ if the situation happened on hostile turf. Add +1 /heat/ if you’re at war with another faction. Add +2 /heat/ if killing was involved (whether the crew did the killing or not—bodies draw attention).
+Add +1 {heat} for a high-profile or well-connected target. Add +1 {heat} if the situation happened on hostile turf. Add +1 {heat} if you’re at war with another faction. Add +2 {heat} if killing was involved (whether the crew did the killing or not—bodies draw attention).
 
-You mark /heat/ levels on the /heat/ tracker on the crew sheet.
+You mark {heat} levels on the {heat} tracker on the crew sheet.
 
 @TODO add table p91
 
-When your /heat/ level reaches 9, you gain a /wanted level/ and clear your /heat/ (any excess /heat/ “rolls over,” so if your /heat/ was 7 and you took 4 /heat/, you’d reset with 2 /heat/ marked).
+When your {heat} level reaches 9, you gain a {wanted level} and clear your {heat} (any excess {heat} “rolls over,” so if your {heat} was 7 and you took 4 {heat}, you’d reset with 2 {heat} marked).
 
-The higher your /wanted level/, the more serious the response when law enforcement takes action against you (they’ll send a force of higher **quality** and **scale**).
+The higher your {wanted level}, the more serious the response when law enforcement takes action against you (they’ll send a force of higher **quality** and **scale**).
 
-Also, your /wanted level/ contributes to the severity of the **entanglements** that your crew faces after a score. See page <a>94</a> for details.
+Also, your {wanted level} contributes to the severity of the **entanglements** that your crew faces after a score. See page <a>94</a> for details.
 
 ### Incarceration
 
-The only way to reduce your crew’s /wanted level/ is through incarceration. When one of your crew members, friends, contacts—or a framed enemy—is convicted and incarcerated for crimes associated with your crew, your /wanted level/ is reduced by 1 and you clear your /heat/.
+The only way to reduce your crew’s {wanted level} is through incarceration. When one of your crew members, friends, contacts—or a framed enemy—is convicted and incarcerated for crimes associated with your crew, your {wanted level} is reduced by 1 and you clear your {heat}.
 
 Incarceration may result from investigation and arrest by the officers, or because someone turns themselves in and takes the fall for the crew’s crimes.
 
-The severity of the prison sentence depends on your /wanted level/:
+The severity of the prison sentence depends on your {wanted level}:
 
-- /Wanted Level 4: /Life or execution.
-- /Wanted Level 3:/ A year or two.
-- /Wanted Level 2:/ Several months.
-- /Wanted Level 1:/ A month or two.
-- /Wanted Level 0:/ A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
+- {Wanted Level 4: }Life or execution.
+- {Wanted Level 3:} A year or two.
+- {Wanted Level 2:} Several months.
+- {Wanted Level 1:} A month or two.
+- {Wanted Level 0:} A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
 
 Incarceration is dehumanizing and brutal. The renown of your crew is your only real defense inside. When you serve your time, make an **incarceration roll** using your crew’s Tier as the dice pool.
 
@@ -286,7 +286,7 @@ One of your allies on the inside arranges for their faction to grant you a boon.
 
 #### Cell block control
 
-Your crew has a cell block under their total control—guards and all. You never take /trauma/ from incarceration.
+Your crew has a cell block under their total control—guards and all. You never take {trauma} from incarceration.
 
 #### Guard payoff
 
@@ -294,21 +294,21 @@ You claim several prison guards on your payroll. Take +1d to your Tier roll when
 
 #### Hardcase
 
-Your reputation as a tough inmate bolsters your crew’s image. When your crew advances Tier, it costs 2 fewer /coins/ than it normally would.
+Your reputation as a tough inmate bolsters your crew’s image. When your crew advances Tier, it costs 2 fewer {coins} than it normally would.
 
 #### Parole influence
 
-Political pressures of various sorts can be applied to the magistrates and warden who oversee sentences for crimes. With this claim, you’re always able to arrange for a shorter prison stay—as if your /wanted level/ was 1 lower. So, if your /wanted level/ was 3 when you went in, you’d spend only several months behind bars (equivalent to level 2) instead of a full year.
+Political pressures of various sorts can be applied to the magistrates and warden who oversee sentences for crimes. With this claim, you’re always able to arrange for a shorter prison stay—as if your {wanted level} was 1 lower. So, if your {wanted level} was 3 when you went in, you’d spend only several months behind bars (equivalent to level 2) instead of a full year.
 
 #### Smuggling
 
-You arrange smuggling channels inside. You have **+**2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry /coin/ in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
+You arrange smuggling channels inside. You have **+**2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry {coin} in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
 
 ## Entanglements
 
-Your crew didn’t just spring into existence tonight. You have a complex history of favors, commitments, debts, and promises that got you where you are today. To reflect this, after each score, you roll dice to find out which **entanglement** comes calling. An entanglement might be a rival crew looking to throw their weight around (and demand some /coin/), an Investigator of the City Watch making a case against your crew (but ready for a bribe), or even the attention of a vengeful ghost.
+Your crew didn’t just spring into existence tonight. You have a complex history of favors, commitments, debts, and promises that got you where you are today. To reflect this, after each score, you roll dice to find out which **entanglement** comes calling. An entanglement might be a rival crew looking to throw their weight around (and demand some {coin}), an Investigator of the City Watch making a case against your crew (but ready for a bribe), or even the attention of a vengeful ghost.
 
-After payoff and /heat/ are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current /heat/ level. Then roll a number of dice equal to their /wanted level/, and use the result of the roll to select which sort of entanglement manifests. *If /wanted level/ is zero, roll two dice and keep the lowest result.*
+After payoff and {heat} are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current {heat} level. Then roll a number of dice equal to their {wanted level}, and use the result of the roll to select which sort of entanglement manifests. *If {wanted level} is zero, roll two dice and keep the lowest result.*
 
 @TODO add table p94
 
@@ -320,45 +320,45 @@ The entanglements are detailed on the following pages. Each has a list of potent
 
 ### Arrest
 
-An Inspector presents a case file of evidence to a magistrate, to begin prosecution of your crew. They send a detail to arrest you (a gang at least equal in **scale** to your /wanted level/). Pay them off with /coin/ equal to your /wanted level/ +3, hand someone over for arrest (this clears your /heat/), or try to evade capture.
+An Inspector presents a case file of evidence to a magistrate, to begin prosecution of your crew. They send a detail to arrest you (a gang at least equal in **scale** to your {wanted level}). Pay them off with {coin} equal to your {wanted level} +3, hand someone over for arrest (this clears your {heat}), or try to evade capture.
 
 > A truncheon bangs on the shutters of the window. “Alright then! Come on out and let’s go quietly now!” It sounds like the bald Sergeant. When you peek out, you see a detail of about twenty constables, all geared up for a fight. The Sergeant mumbles under his breath, so only you inside can hear: “Or perhaps I have the wrong address?” He clears his throat and waits for some coin to appear.
 
 ### Cooperation
 
-A +3 status faction asks you for a favor. Agree to do it, or forfeit 1 /rep/ per Tier of the friendly faction, or lose **1 status** with them. If you don’t have a +3 faction status, you avoid entanglements right now.
+A +3 status faction asks you for a favor. Agree to do it, or forfeit 1 {rep} per Tier of the friendly faction, or lose **1 status** with them. If you don’t have a +3 faction status, you avoid entanglements right now.
 
 ### Demonic notice
 
-A demon approaches the crew with a dark offer. Accept their bargain, hide until it loses interest (forfeit/ /3 /rep/), or deal with it another way.
+A demon approaches the crew with a dark offer. Accept their bargain, hide until it loses interest (forfeit{ }3 {rep}), or deal with it another way.
 
 ### Flipped
 
-One of the PCs’ rivals arranges for one of your contacts, patrons, clients, or a group of your customers to switch allegiances due to the /heat/ on you. They’re loyal to another faction now.
+One of the PCs’ rivals arranges for one of your contacts, patrons, clients, or a group of your customers to switch allegiances due to the {heat} on you. They’re loyal to another faction now.
 
 ### Gang trouble
 
-One of your gangs (or other cohorts) causes trouble due to their flaw(s). You can lose face (forfeit/ rep/ equal to your Tier +1), make an example of one of the gang members, or face reprisals from the wronged party.
+One of your gangs (or other cohorts) causes trouble due to their flaw(s). You can lose face (forfeit{ rep} equal to your Tier +1), make an example of one of the gang members, or face reprisals from the wronged party.
 
 ### Interrogation
 
-The officers round up one of the PCs to question them about the crew’s crimes. *How did they manage to capture you?* Either pay them off with 3 /coin/, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** /heat/). You can **resist** each of those consequences separately.
+The officers round up one of the PCs to question them about the crew’s crimes. *How did they manage to capture you?* Either pay them off with 3 {coin}, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** {heat}). You can **resist** each of those consequences separately.
 
 > Some players really hate it when their character gets captured! Just tell them that this is completely normal for a scoundrel of the underworld. You spend time in and out of jail, getting questioned and harassed by the law. It’s not the end of the world. But now that you’re here in the interrogation room, what kind of person are you? Do you talk? Do you stand up to them? Do you make a deal?
 
 ### Questioning
 
-The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. *Who do they think is most vulnerable?* Make a **fortune roll** to see how much they talk (/1-3:/ **+2** /heat/, /4/5:/ **+1** /heat/), or pay the constables off with 2 /coin/.
+The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. *Who do they think is most vulnerable?* Make a **fortune roll** to see how much they talk ({1-3:} **+2** {heat}, {4}5:{ **+1** }heat{), or pay the constables off with 2 }coin/.
 
 > Roll 2d for a normal person to see how well they keep quiet. If they’re an experienced underworld type or some kind of tough, give them 3d or 4d instead. If they’re soft or if they have some loyalty to the law, give them 1d or 0d.
 
 ### Reprisals
 
-An enemy faction makes a move against you (or a friend, contact, or vice purveyor). Pay them (1 /rep/ and 1 /coin/) per Tier of the enemy as an apology, allow them to mess with you or yours, or fight back and show them who’s boss.
+An enemy faction makes a move against you (or a friend, contact, or vice purveyor). Pay them (1 {rep} and 1 {coin}) per Tier of the enemy as an apology, allow them to mess with you or yours, or fight back and show them who’s boss.
 
 ### Rivals
 
-A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 /rep/ or 1 /coin/) per Tier of the rival, or stand up to them and lose  1 /status/ with them.
+A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 {rep} or 1 {coin}) per Tier of the rival, or stand up to them and lose  1 {status} with them.
 
 ### Show of force
 
@@ -368,8 +368,8 @@ A faction with whom you have a negative status makes a play against your holding
 
 A rogue spirit is drawn to you—perhaps it’s a past victim? Acquire the services of an occultist to attempt to destroy or banish it, or deal with it yourself.
 
-> They can hire an NPC by using the /acquire asset/_ downtime activity. Roll the NPC’s quality level as a fortune roll to see how well they deal with the spirit.
+> They can hire an NPC by using the {acquire asset}_ downtime activity. Roll the NPC’s quality level as a fortune roll to see how well they deal with the spirit.
 
 ### The usual suspects
 
-The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (/1-3/: **+2 /heat/, 4/5: level 2 harm**), or pay them off with 1 /coin/.
+The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning ({1-3}: **+2 {heat}, 4{5: level 2 harm**), or pay them off with 1 }coin/.
