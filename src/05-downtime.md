@@ -26,7 +26,7 @@ For any downtime activity, take **+1d** to the roll if a **friend** or **contact
 
 > “Remember how you had that weird vision at the altar to the forgotten gods? Yeah, do you want to get to the bottom of that? Okay, start a long-term project—six segments—called... ‘Weird God Vibes.’ What do you do to work on that?”
 
-#### Acquire asset
+## Acquire asset
 
 Gain temporary use of an **asset**:
 
@@ -49,7 +49,7 @@ If you want to acquire an asset permanently, you can either gain it as a crew up
 
 > Zamira the Whisper is a duelist in the Iruvian style, and would like a fine sword to add to her permanent items. Her player starts a long-term project: “Get My Family Sword Back from the Pawn Shop.” The GM says this is an 8-clock (she can work on it by /Consorting/ or /Swaying/ the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
 
-#### Long-term project
+## Long-term project
 
 When you work on a long-term project (either a brand new one, or an already existing one), describe what your character does to advance the project clock, and roll one of your actions. Mark segments on the clock according to your result: /1-3:/ one segment, /4/5:/ two segments, /6:/ three segments, /critical:/ five segments.
 
@@ -59,7 +59,7 @@ Based on the goal of the project, the GM will tell you the clock(s) to create an
 
 In order to work on a project, you might first have to achieve the means to pursue it—which can be a project in itself. For example, you might want to make friends with a member of the City Council, but you have no connection to them. You could first work on a project to /Consort/ in their circles so you have the opportunity to meet one of them. Once that’s accomplished, you could start a new project to form a friendly relationship.
 
-#### Recover
+## Recover
 
 When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don’t have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide service for the whole crew.
 
@@ -77,7 +77,7 @@ Note that it’s the recovering character that takes the recovery action. Healin
 
 Whenever you suffer new harm, clear any ticks on your healing clock.
 
-#### Reduce heat
+## Reduce heat
 
 Say what your character does to reduce the /heat/ level of the crew and make an action roll. Maybe you /Consort/ with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you /Command/ the fear of the local citizens so they’re afraid to snitch.
 
@@ -87,7 +87,7 @@ Reduce /heat/ according to the result: /1-3:/ one, /4/5:/ two, /6:/ three, /crit
 
 When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**/ /**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. *You can train a given xp track only once per downtime.*
 
-#### Indulge vice
+## Indulge vice
 
 Visit your **vice purveyor** to relieve **stress**. See the next section for details.
 

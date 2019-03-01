@@ -57,7 +57,6 @@ Every character is in thrall to some vice or another, which they indulge to deal
 - /Stupor: /You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
 - /Weird: /You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
 
-
 ### Record your name, alias, &amp; look
 
 Choose a name for your character from the sample list, or create your own. If your character uses an alias or nickname in the underworld, make a note of it. Record a few evocative words that describe your character’s look (samples provided on the next page).
@@ -97,7 +96,6 @@ You have access to all of the **items** on your character sheet. For each operat
 - /6 load: /**Heavy.** *You’re slower. You look like an operative on a mission.*
 - /7-9 load: /**Encumbered.** *You’re overburdened and can’t do anything except move very slowly.*
 
-
 Some special abilities (like the Cutter’s /Mule/ ability or Assassin’s Rigging) increase the load limits.
 
 Some items count as two items for load (they have two connected boxes). *Items in italics don’t count toward your load.*
@@ -113,7 +111,6 @@ Medium length description of the character here. Include what kind of activities
 **Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
 
 @TODO tables 51
-
 
 ### Starting builds
 
@@ -400,4 +397,3 @@ You may expend your **special armor** to resist a supernatural consequence, or t
 Add a list of five distinctive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
 
 Some examples include: Weapons, clothes, arcane impliments, specialized tools, custom gear, capable pets, or supernatural objects.
-

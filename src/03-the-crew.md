@@ -65,7 +65,6 @@ When you assign your two upgrades, the GM will tell you about two factions that 
 - One faction helped you get an upgrade. They like you, and you get **+1 status** with them. At your option, spend 1 /coin /to repay their kindness, and take **+2 status** with them instead.
 - One faction was screwed over when you got an upgrade. They don’t like you, and you get **-2 status** with them. At your option, spend 1 /coin /to mollify them, and take **-1 status** with them instead.
 
-
 You’ll be able get more upgrades in the future by earning xp
 
 ### Choose a favorite contact
@@ -79,7 +78,7 @@ At your option, these factions are even more concerned with this contact and so 
 
 ### Crew upgrade Examples
 
-- /Boat house:// /You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
+- /Boat house:/ You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
 - /Carriage House:/ You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
 - /Cohort:/ A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
 - /Hidden Lair:/ Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay /coin/ equal to your Tier to relocate it and hide it once again.
@@ -100,12 +99,11 @@ A **cohort** is a **gang** or an **expert** who works for your crew. To recruit 
 
 Choose a **gang type** from the list below:
 
-- /Adepts:// /Scholars, tinkerers, occultists, and chemists.
+- /Adepts:/ Scholars, tinkerers, occultists, and chemists.
 - /Rooks:/ Con artists, spies, and socialites.
-- /Rovers:// /Sailors, carriage drivers, and deathlands scavengers.
+- /Rovers:/ Sailors, carriage drivers, and deathlands scavengers.
 - /Skulks:/ Scouts, infiltrators, and thieves.
 - /Thugs:/ Killers, brawlers, and roustabouts.
-
 
 A gang has **scale** and **quality** equal to your current crew Tier. It increases in scale and quality when your crew moves up in Tier.
 
@@ -136,7 +134,6 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 - **Savage:** The cohort is excessively violent and cruel.
 - **Unreliable:** The cohort isn’t always available, due to other obligations, stupefaction from their vices, etc.
 - **Wild:** The cohort is drunken, debauched, and loud-mouthed.
-
 
 #### Modifying a cohort
 
@@ -185,12 +182,10 @@ You begin at **Tier 0**, with **strong hold** and 0 /rep/. You start with 2 /coi
 - One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 /coin/ for **+2 status** instead.
 - One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 /coin/ for **-1 status** instead.
 
-
 <span class="number">6</span> **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
 
 - One faction is friendly with your contact. Take **+1 status** with them.
 - One faction is unfriendly with your contact. Take **-1 status** with them.
-
 
 At your option, increase the intensity of the factions’ relationship with your contact and take **+2** and **-2 status**, instead.
 
@@ -374,4 +369,3 @@ During **downtime**, one of your **cohorts** may perform a downtime activity for
 #### Just passing through
 
 During **downtime**, take **-1 **/heat/. When your /heat/ is 4 or less, you get **+1d** to deceive people when you pass yourselves off as ordinary citizens.
-
