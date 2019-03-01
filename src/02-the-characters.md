@@ -92,7 +92,7 @@ That’s it! Your character is ready for play. When you start the first session,
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* <span class="game-term">1-3 load:</span>** Light. *You’re faster, less conspicuous; you blend in with citizens.*
+* <span class="game-term">1-3 load:</span>**Light.** *You’re faster, less conspicuous; you blend in with citizens.*
 * <span class="game-term">4/5 load: </span>**Normal**. *You look like a scoundrel, ready for trouble.*
 * <span class="game-term">6 load: </span>**Heavy.** *You’re slower. You look like an operative on a mission.*
 * <span class="game-term">7-9 load: </span>**Encumbered.** *You’re overburdened and can’t do anything except move very slowly.*
@@ -157,7 +157,7 @@ You may imbue your hands, melee weapons, or tools with spirit energy. You gain *
 
 #### Leader
 
-When you <span class="game-term">Command</span> a **cohort** in combat, they continue to fight when they would otherwise **break **(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
+When you <span class="game-term">Command</span> a **cohort** in combat, they continue to fight when they would otherwise **break**(they’re not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
 
 > This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won’t stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?
 
@@ -373,7 +373,7 @@ You’re always aware of supernatural entities in your presence. Take **+1d** wh
 
 #### Iron will
 
-You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll **with <span class="game-term">Resolve</span>, take **+1d**.
+You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll** with <span class="game-term">Resolve</span>, take **+1d**.
 
 > With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange occult event.
 

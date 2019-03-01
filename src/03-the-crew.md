@@ -39,7 +39,7 @@ Also, talk about where the crew makes its **lair**. You begin at Tier 0, so it�
 Your crew is brand-new, but you have chosen some small part of a district as your **hunting grounds**. This is the area that you usually target for your scores, and you know it well. Your hunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
 
 * Pay them off. Give them 1 <span class="game-term">coin</span> in exchange for giving you room to work.
-* Pay the faction 2 <span class="game-term">coin</span> as a show of respect and gain **+1 status **with them.
+* Pay the faction 2 <span class="game-term">coin</span> as a show of respect and gain **+1 status** with them.
 * Keep your money and take **-1 status** with that faction.
 
 Your hunting grounds are useful for a particular type of criminal operation. Each crew type has a list of different operation types for their hunting grounds. For instance, Assassins have *Accident*, *Disappearance*, *Murder*, or *Ransom* as options. Choose one of these operation types as your preference.
@@ -56,7 +56,7 @@ Just like picking the crew type, reputation, lair, and hunting grounds, choosing
 
 ### Assign crew upgrades
 
-An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions on the following page). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a** gang** of Thugs for the Bravos crew).
+An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions on the following page). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a **gang** of Thugs for the Bravos crew).
 
 You get to add **two additional upgrades** to your new crew (so you’ll have a total of four upgrades when you start). You can choose from the specific upgrades available to your crew type or the general upgrades on the crew sheet.
 
@@ -84,7 +84,7 @@ At your option, these factions are even more concerned with this contact and so 
 * <span class="game-term">Cohort:</span> A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
 * <span class="game-term">Hidden Lair:</span> Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay <span class="game-term">coin</span> equal to your Tier to relocate it and hide it once again.
 * <span class="game-term">Mastery: </span>Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
-* <span class="game-term">Quality:</span>** **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. *So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
+* <span class="game-term">Quality:</span> **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. *So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
 * <span class="game-term">Quarters:</span> Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
 * <span class="game-term">Secure Lair:</span><span class="game-term"> </span>Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. *You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder.*
 * <span class="game-term">Training: </span>If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, <span class="game-term">Resolve</span>, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
@@ -94,7 +94,7 @@ At your option, these factions are even more concerned with this contact and so 
 
 ### Cohorts
 
-A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend** two upgrades** and create them using the process below.
+A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend **two upgrades** and create them using the process below.
 
 #### Creating a gang
 
@@ -125,7 +125,7 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 
 **Edges**
 
-* **Fearsome: **The cohort is terrifying in aspect and reputation.
+* **Fearsome:**The cohort is terrifying in aspect and reputation.
 * **Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
 * **Loyal:** The cohort can’t be bribed or turned against you.
 * **Tenacious:** The cohort won’t be deterred from a task.
@@ -224,7 +224,7 @@ A list of five upgrades specific to the crew. Some examples:
 * **Rigging:** You get 2 free load in two of the equipment categories (weapons, implements, supplies, gear, documents, and tools).
 * **Prison Contacts:** Your Tier is effectively +1 higher in prison. *This counts for any Tier-related element in prison, including the incarceration roll.*
 * **Elite Cohorts (specify type):** All of your cohorts with the specified type get **+1d** to quality rolls for related actions.
-* **Hardened:** Each PC gets **+1 **<span class="game-term">trauma</span>** box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 *<span class="game-term">trauma</span>* back into play if you wish.*
+* **Hardened:** Each PC gets **+1 <span class="game-term">trauma</span> box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 <span class="game-term">trauma</span>* back into play if you wish.
 * **Composed:** Each PC gets **+1 stress box**. This costs three upgrades to unlock, not just one.
 * **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
 * **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
@@ -235,7 +235,7 @@ A list of five upgrades specific to the crew. Some examples:
 
 <span class="game-term ">City Records:</span> You get </span>**+1d** to the **engagement roll** for **stealth** plans. *You can use blueprints and other documents to determine a good approach for infiltrations.*
 
-<span class="game-term">Cover Identities: </span> You get **+1d** to the **engagement roll** for **deception** and **social plans. *False identities help confuse the opposition.*
+<span class="game-term">Cover Identities: </span> You get **+1d** to the **engagement roll** for **deception** and social plans. *False identities help confuse the opposition.*
 
 <span class="game-term">Cover Operation: </span> You get **-2** <span class="game-term">heat</span> per score. *The cover of a legitimate operation helps deflect some of the heat from law enforcement.*
 
@@ -343,13 +343,13 @@ You gain **+1d** to **resistance** rolls against supernatural threats. You get *
 
 #### Accord
 
-Sometimes friends are as good as territory. You may treat up to three **+3 faction** statuses** you hold as if they are **turf**.
+Sometimes friends are as good as territory. You may treat up to three **+3 faction** statuses you hold as if they are **turf**.
 
 > If your status changes, you lose the turf until it becomes +3 again. Regardless of how much turf you hold (from this ability or otherwise) the minimum <span class="game-term">rep</span> cost to advance your Tier is always 6.
 
 #### High society
 
-It’s all about who you know. Take **-1 **<span class="game-term">heat</span>** **during downtime and **+1d** to **gather information** about the city’s elite.
+It’s all about who you know. Take **-1 <span class="game-term">heat</span> during downtime and +1d** to **gather information** about the city’s elite.
 
 #### Pack rats
 

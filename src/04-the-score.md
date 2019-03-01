@@ -49,8 +49,8 @@ The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. 
 
 * Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
 * Does the **plan’s detail** expose a vulnerability of the target or hit them where they’re weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
-* Can any of your **friends or contacts **provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
-* Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you +1d.  Maybe a higher-Tier target will give you -1d. Maybe there’s a situation in the district that makes the operation more or less tricky.
+* Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
+* Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you **+1d**.  Maybe a higher-Tier target will give you -1d. Maybe there’s a situation in the district that makes the operation more or less tricky.
 
 The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don’t need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang’s lair; maneuvering to speak with a Lord at the masquerade party; etc.
 
@@ -95,15 +95,15 @@ The rules don’t distinguish between actions performed in the present moment an
 
 The GM sets a **stress cost** when you activate a flashback action.
 
-* <span class="game-term">0 </span><span class="game-term">Stress:</span> An ordinary action for which you had easy opportunity. *The Cutter *<span class="game-term">Consorted</span>* with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
-* <span class="game-term">1 </span><span class="game-term">Stress:</span> A complex action or unlikely opportunity. *The Hound *<span class="game-term">Finessed</span>* his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
-* <span class="game-term">2 </span><span class="game-term">(or more) Stress:</span> An elaborate action that involved special opportunities or contingencies. *The Whisper has already <span class="game-term">Studied</span> the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
+- <span class="game-term">0 </span><span class="game-term">Stress:</span> An ordinary action for which you had easy opportunity. *The Cutter <span class="game-term">Consorted</span> with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
+- <span class="game-term">1 </span><span class="game-term">Stress:</span> A complex action or unlikely opportunity. *The Hound <span class="game-term">Finessed</span> his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
+- <span class="game-term">2 </span><span class="game-term">(or more) Stress:</span> An elaborate action that involved special opportunities or contingencies. *The Whisper has already <span class="game-term">Studied</span> the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
 
 After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there’s some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won’t call for a roll at all because you can just pay the stress and it’s accomplished.
 
 If a flashback involves a **downtime** activity, pay 1 <span class="game-term">coin</span> or 1 <span class="game-term">rep</span> for it, instead of stress.
 
-One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you’re in, you can call for a flashback to a special preparation you made, “just in case” something like this happened. This way, your “flashback planning” will be focused on the problems that *do *happen, not the problems that *might* happen.
+One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you’re in, you can call for a flashback to a special preparation you made, “just in case” something like this happened. This way, your “flashback planning” will be focused on the problems that *do* happen, not the problems that *might* happen.
 
 #### Limits of flashbacks
 
@@ -158,7 +158,7 @@ When the team of PCs works together, the characters have access to four special 
 
 #### Assist
 
-When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll.* If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
+When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. *If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
 
 A character may assist a group action, but only if they aren’t taking part in it directly. You decide which character in the group action gets the bonus die.
 
@@ -219,7 +219,7 @@ After the downtime activities are resolved, the game returns to free play, and t
 
 After a score, the PCs take stock of their income from the operation. A successful score generates both <span class="game-term">rep</span> and <span class="game-term">coin</span>.
 
-The crew earns 2 <span class="game-term">rep</span> per score by default. If the target of the score is higher Tier than you, take **+1 **<span class="game-term">rep</span>** per Tier higher**. If the target of the score is lower Tier, you get **-1 **<span class="game-term">rep</span>** per Tier lower** (minimum zero).
+The crew earns 2 <span class="game-term">rep</span> per score by default. If the target of the score is higher Tier than you, take **+1 <span class="game-term">rep</span> per Tier higher**. If the target of the score is lower Tier, you get **-1 **<span class="game-term">rep</span>** per Tier lower** (minimum zero).
 
 > If your crew is Tier I and you pull off a successful score against a Tier III target, you earn 4 <span class="game-term">rep</span> (2 <span class="game-term">rep</span>, +2 <span class="game-term">rep</span> for a target two tiers above you). If your crew is Tier III and you complete a score against a Tier I target, you earn 0 <span class="game-term">rep</span> (2 rep, -2 rep for the lower Tier target).
 

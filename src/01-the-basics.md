@@ -41,19 +41,19 @@ During a session, the crew of scoundrels works together to choose a score to acc
 
 When you play, you’ll make several key judgment calls. Everyone contributes, but either the players or the GM gets final say for each:
 
-* Which actions are reasonable as a solution to a problem? *Can this person be swayed? Must we get out the tools and tinker with this old rusty lock, or could it also be quietly finessed?* The players have final say.
-* How dangerous and how effective is a given action in this circumstance? *How risky is this? Can this person be swayed very little or a whole lot?* The GM has final say.
-* Which consequences are inflicted to manifest the dangers in a given circumstance? *Does this fall from the roof break your leg? Do the constables merely become suspicious or do they already have you trapped?* The GM has final say.
-* Does this situation call for a dice roll, and which one? *Is your character in position to make an action roll or must they first make a resistance roll to gain initiative?* The GM has final say.
-* Which events in the story match the experience triggers for character and crew advancement? *Did you express your character’s beliefs, drives, heritage, or background? You tell us.* The players have final say.
+- Which actions are reasonable as a solution to a problem? *Can this person be swayed? Must we get out the tools and tinker with this old rusty lock, or could it also be quietly finessed?* The players have final say.
+- How dangerous and how effective is a given action in this circumstance? *How risky is this? Can this person be swayed very little or a whole lot?* The GM has final say.
+- Which consequences are inflicted to manifest the dangers in a given circumstance? *Does this fall from the roof break your leg? Do the constables merely become suspicious or do they already have you trapped?* The GM has final say.
+- Does this situation call for a dice roll, and which one? *Is your character in position to make an action roll or must they first make a resistance roll to gain initiative?* The GM has final say.
+- Which events in the story match the experience triggers for character and crew advancement? *Did you express your character’s beliefs, drives, heritage, or background? You tell us.* The players have final say.
 
 ### Rolling the Dice
 
 *Blades in the Dark* uses six-sided dice. You roll several at once and read the **single highest result**.
 
-* If the highest die is a **6**, it’s a **full success**—things go well. If you roll more than one **6**, it’s a **critical** success**—you gain some additional advantage.
-* If the highest die is a **4 or 5**, that’s a **partial success**—you do what you were trying to do, but there are consequences: trouble, harm, reduced effect, etc.
-* If the highest die is **1-3**, it’s a **bad outcome**. Things go poorly. You probably don’t achieve your goal and you suffer complications, too.
+- If the highest die is a **6**, it’s a **full success**—things go well. If you roll more than one **6**, it’s a **critical** success**—you gain some additional advantage.
+- If the highest die is a **4 or 5**, that’s a **partial success**—you do what you were trying to do, but there are consequences: trouble, harm, reduced effect, etc.
+- If the highest die is **1-3**, it’s a **bad outcome**. Things go poorly. You probably don’t achieve your goal and you suffer complications, too.
 
 *If you ever need to roll but you have zero (or negative) dice, roll two dice and take the single lowest result. You can’t roll a **critical** when you have zero dice.*
 
@@ -63,10 +63,10 @@ To create a dice pool for a roll, you’ll use a **trait** (like your <span clas
 
 There are four types of rolls that you’ll use most often in the game:
 
-* <span class="game-term">Action roll. </span>When a PC attempts an action that’s dangerous or troublesome, you make an action roll to find out how it goes. Action rolls and their effects and consequences drive most of the game.
-* <span class="game-term">Downtime roll. </span>When the PCs are at their leisure after a job, they can perform downtime activities in relative safety. You make downtime rolls to see how much they get done.
-* <span class="game-term">Fortune roll. </span>The GM can make a fortune roll to disclaim decision making and leave something up to chance. *How loyal is an NPC? How much does the plague spread? How much evidence is burned before the constables kick in the door?*
-* <span class="game-term">Resistance roll. </span>A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. *When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead.*
+- <span class="game-term">Action roll. </span>When a PC attempts an action that’s dangerous or troublesome, you make an action roll to find out how it goes. Action rolls and their effects and consequences drive most of the game.
+- <span class="game-term">Downtime roll. </span>When the PCs are at their leisure after a job, they can perform downtime activities in relative safety. You make downtime rolls to see how much they get done.
+- <span class="game-term">Fortune roll. </span>The GM can make a fortune roll to disclaim decision making and leave something up to chance. *How loyal is an NPC? How much does the plague spread? How much evidence is burned before the constables kick in the door?*
+- <span class="game-term">Resistance roll. </span>A player can make a resistance roll when their character suffers a consequence they don’t like. The roll tells us how much stress their character suffers to reduce the severity of a consequence. *When you resist that “Broken Leg” harm, you take some stress and now it’s only a “Sprained Ankle” instead.*
 
 ### The Game Structure
 
@@ -86,18 +86,18 @@ The phases are a conceptual model to help you organize the game. They’re not m
 
 There are 12 **actions** in the game that the player characters use to overcome obstacles.
 
-* Attune
-* Command
-* Consort
-* Finesse
-* Hunt
-* Prowl
-* Skirmish
-* Study
-* Survey
-* Sway
-* Tinker
-* Wreck
+- Attune
+- Command
+- Consort
+- Finesse
+- Hunt
+- Prowl
+- Skirmish
+- Study
+- Survey
+- Sway
+- Tinker
+- Wreck
 
 Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at <span class="game-term">Command</span> because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 
@@ -193,9 +193,9 @@ Player characters in *Blades in the Dark* have a special reserve called **stress
 
 You can use stress to push yourself for greater performance. For each bonus you choose below, take **2 stress** (each can be chosen once for a given action):
 
-* Add **+1d** to your roll. (This may be used for an action roll or downtime roll or any other kind of roll where extra effort would help you)
-* Add **+1 level** to your effect.
-* Take action when you’re incapacitated.
+- Add **+1d** to your roll. (This may be used for an action roll or downtime roll or any other kind of roll where extra effort would help you)
+- Add **+1 level** to your effect.
+- Take action when you’re incapacitated.
 
 ### Trauma
 
@@ -207,14 +207,14 @@ When you suffer <span class="game-term">trauma</span>, you’re taken out of act
 
 #### Trauma Conditions
 
-* <span class="game-term">Cold</span>: You’re not moved by emotional appeals or social bonds.
-* <span class="game-term">Haunted</span>: You’re often lost in reverie, reliving past horrors, seeing things.
-* <span class="game-term">Obsessed</span>: You’re enthralled by one thing: an activity, a person, an ideology.
-* <span class="game-term">Paranoid</span>: You imagine danger everywhere; you can’t trust others.
-* <span class="game-term">Reckless</span>: You have little regard for your own safety or best interests.
-* <span class="game-term">Soft</span>: You lose your edge; you become sentimental, passive, gentle.
-* <span class="game-term">Unstable</span>: Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
-* <span class="game-term">Vicious</span>: You seek out opportunities to hurt people, even for no good reason.
+- <span class="game-term">Cold</span>: You’re not moved by emotional appeals or social bonds.
+- <span class="game-term">Haunted</span>: You’re often lost in reverie, reliving past horrors, seeing things.
+- <span class="game-term">Obsessed</span>: You’re enthralled by one thing: an activity, a person, an ideology.
+- <span class="game-term">Paranoid</span>: You imagine danger everywhere; you can’t trust others.
+- <span class="game-term">Reckless</span>: You have little regard for your own safety or best interests.
+- <span class="game-term">Soft</span>: You lose your edge; you become sentimental, passive, gentle.
+- <span class="game-term">Unstable</span>: Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
+- <span class="game-term">Vicious</span>: You seek out opportunities to hurt people, even for no good reason.
 
 ## Progress clocks
 
@@ -323,13 +323,13 @@ For another bonus die, you can either **push yourself** (take 2 stress) or you c
 
 PCs in *Blades* are reckless scoundrels addicted to destructive vices—they don’t always act in their own best interests. To reflect this, the GM or any other player can offer you a bonus die if you accept a Devil’s Bargain. Common Devil’s Bargains include:
 
-* Collateral damage, unintended harm.
-* Sacrifice <span class="game-term">coin</span> or an item.
-* Betray a friend or loved one.
-* Offend or anger a faction.
-* Start and/or tick a troublesome clock.
-* Add <span class="game-term">heat</span> to the crew from evidence or witnesses.
-* Suffer harm.
+- Collateral damage, unintended harm.
+- Sacrifice <span class="game-term">coin</span> or an item.
+- Betray a friend or loved one.
+- Offend or anger a faction.
+- Start and/or tick a troublesome clock.
+- Add <span class="game-term">heat</span> to the crew from evidence or witnesses.
+- Suffer harm.
 
 The Devil’s Bargain occurs regardless of the outcome of the roll. You make the deal, pay the price, and get the bonus die.
 
@@ -351,11 +351,11 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 ### Action Roll Summary
 
-* A player or GM calls for a roll. Make an **action roll** when the character performs a dangerous or troublesome action.
-* The player chooses the **action rating** to roll. Choose the action that matches what the character is doing in the fiction.
-* The GM establishes the **position** and **effect level** of the action. The choice of position and effect is influenced strongly by the player’s choice of action.
-* Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 2 stress) or accept a **Devil’s Bargain**.
-* Roll the dice pool and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
+- A player or GM calls for a roll. Make an **action roll** when the character performs a dangerous or troublesome action.
+- The player chooses the **action rating** to roll. Choose the action that matches what the character is doing in the fiction.
+- The GM establishes the **position** and **effect level** of the action. The choice of position and effect is influenced strongly by the player’s choice of action.
+- Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 2 stress) or accept a **Devil’s Bargain**.
+- Roll the dice pool and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
 
 ### Double-duty Rolls
 
@@ -401,13 +401,10 @@ After factors are considered and the GM has announced the effect level, a player
 
 This kind of trade-off isn’t included in the effect factors because it’s not an element the GM should assess when setting the effect level. Once the level is set, though, you can always offer the trade-off to the player if it makes sense in the situation.
 
-*“I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola.”*
-
-*“I don’t think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let’s say you can get halfway across with this action, then you’ll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side.”*
-
-*“I didn’t realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?”*
-
-*“Yep, sounds good to me!”*
+> “I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola.”
+> “I don’t think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let’s say you can get halfway across with this action, then you’ll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side.”
+> “I didn’t realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?”
+> “Yep, sounds good to me!”
 
 ### Consequences
 
@@ -421,10 +418,10 @@ The ability to set position and effect as independent variables gives you nine c
 
 *For example, if a character is facing off alone against a small enemy gang, the situation might be:*
 
-* *She fights the gang straight up, rushing into their midst, hacking away in a wild *<span class="game-term">Skirmish</span>*. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
-* *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
-* *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
-* *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
+- *She fights the gang straight up, rushing into their midst, hacking away in a wild* <span class="game-term">Skirmish</span>*. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
+- *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
+- *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
+- *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
 
 ## Consequences and Harm
 
@@ -456,7 +453,7 @@ This consequence represents losing control of the situation—the action carries
 
 ### Harm
 
-This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer** lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
+This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer **lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
 
 Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have “Drained” and “Battered” harm in the bottom row, you’ll suffer reduced effect when you try to run away from the constables. When you’re impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can’t do anything unless you have help from someone else or **push yourself** to perform the action.
 
@@ -483,9 +480,9 @@ When your PC suffers a consequence that you don’t like, you can choose to resi
 
 You make the roll using one of your character’s **attributes** (<span class="game-term">Insight</span>, <span class="game-term">Prowess</span>, or <span class="game-term">Resolve</span>). The GM chooses the attribute, based on the nature of consequences:
 
-* <span class="game-term">Insight</span>: Consequences from deception or understanding.
-* <span class="game-term">Prowess</span>: Consequences from physical strain or injury.
-* <span class="game-term">Resolve</span>: Consequences from mental strain or willpower.
+- <span class="game-term">Insight</span>: Consequences from deception or understanding.
+- <span class="game-term">Prowess</span>: Consequences from physical strain or injury.
+- <span class="game-term">Resolve</span>: Consequences from mental strain or willpower.
 
 Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a <span class="game-term">4</span>, you’d suffer 2 stress. If you rolled a <span class="game-term">6</span>, you’d suffer zero stress. If you get a <span class="game-term">critical</span> result, you also **clear 1 stress**.
 
@@ -502,7 +499,6 @@ The GM also has the option to rule that your character **completely avoids** the
 The GM may also threaten several consequences at once, then the player may choose which ones to resist (and make rolls for each).
 
 > “She stabs you and then leaps off the balcony. Level 2 harm and you lose the opportunity to catch her with fighting.”
-
 > “I’ll resist losing the opportunity by grappling her as she attacks. She can stab me, but I don’t want to let her escape.”
 
 Once you decide to resist a consequence and roll, you suffer the stress indicated. You can’t roll first and see how much stress you’ll take, then decide whether or not to resist.
@@ -521,12 +517,10 @@ When an armor box is marked, it can’t be used again until it’s restored. All
 
 There are a couple ways for a PC to die:
 
-* If they suffer level 4 fatal harm and they don’t resist it, they die. *Sometimes this is a choice a player wants to make, because they feel like it wouldn’t make sense for the character to survive or it seems right for their character to die here.*
-* If they need to record harm at level 3 and it’s already filled, they suffer a catastrophic consequence, which might mean sudden death (depending on the circumstances).
+- If they suffer level 4 fatal harm and they don’t resist it, they die. *Sometimes this is a choice a player wants to make, because they feel like it wouldn’t make sense for the character to survive or it seems right for their character to die here.*
+- If they need to record harm at level 3 and it’s already filled, they suffer a catastrophic consequence, which might mean sudden death (depending on the circumstances).
 
-When your character dies, you have options:
-
-* You can create a new scoundrel to play. Maybe you “promote” one of the NPC gang members to a PC, or create a brand new character who joins the crew.
+When your character dies, you have options; you can create a new scoundrel to play. Maybe you “promote” one of the NPC gang members to a PC, or create a brand new character who joins the crew.
 
 ## Fortune Roll
 
@@ -542,10 +536,10 @@ The fortune roll is a tool the GM can use to disclaim decision making. You use a
 
 When you make a fortune roll you may assess **any trait rating** to determine the dice pool of the roll.
 
-* When a faction takes an action with uncertain outcome, you might use their **Tier** rating to make a fortune roll.
-* When a gang operates independently, use their **quality** rating for a fortune roll.
-* When a supernatural power manifests with uncertain results, you might use its **magnitude** for a fortune roll.
-* When a PC **gathers information**, you might make a fortune roll using their **action rating** to determine the amount of the info they get.
+- When a faction takes an action with uncertain outcome, you might use their **Tier** rating to make a fortune roll.
+- When a gang operates independently, use their **quality** rating for a fortune roll.
+- When a supernatural power manifests with uncertain results, you might use its **magnitude** for a fortune roll.
+- When a PC **gathers information**, you might make a fortune roll using their **action rating** to determine the amount of the info they get.
 
 If no trait applies, roll 1d for sheer luck or create a dice pool (from one to four) based on the situation at hand. If two parties are directly opposed, make a fortune roll for each side to see how they do, then assess the outcome of the situation by comparing their performance levels.
 
@@ -553,11 +547,11 @@ The fortune roll is also a good tool to help the GM manage all the various movin
 
 Other examples of fortune rolls:
 
-* The PCs instigate a war between two factions, then sit back and watch the fireworks. How does it turn out? Does either side dominate? Are they both made vulnerable by the conflict? Make a few fortune rolls to find out.
-* A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
-* The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled <span class="game-term">Hunt</span> roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his “toughness” as a trait to see if he can possibly survive the attack. The roll is a <span class="game-term">4/5</span>: the bullet misses his heart, but hits him in the lung—it’s a mortal wound. He’s on death’s door, with only hours to live, unless his gang can get an expert physicker to him in time.
-* Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s <span class="game-term">wanted level</span> counts as a major advantage for the inspectors.
-* The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to <span class="game-term">Consort</span>, <span class="game-term">Sway</span>, or <span class="game-term">Command</span> her to stand down.
+- The PCs instigate a war between two factions, then sit back and watch the fireworks. How does it turn out? Does either side dominate? Are they both made vulnerable by the conflict? Make a few fortune rolls to find out.
+- A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
+- The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled <span class="game-term">Hunt</span> roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his “toughness” as a trait to see if he can possibly survive the attack. The roll is a <span class="game-term">4/5</span>: the bullet misses his heart, but hits him in the lung—it’s a mortal wound. He’s on death’s door, with only hours to live, unless his gang can get an expert physicker to him in time.
+- Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s <span class="game-term">wanted level</span> counts as a major advantage for the inspectors.
+- The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to <span class="game-term">Consort</span>, <span class="game-term">Sway</span>, or <span class="game-term">Command</span> her to stand down.
 
 @TODO table p31
 
@@ -585,16 +579,16 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 ### Examples &amp; Questions
 
-* You might <span class="game-term">Attune</span> to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
-* You might <span class="game-term">Command</span> a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
-* You might <span class="game-term">Consort</span> with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
-* You might <span class="game-term">Hunt</span> a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
-* You might <span class="game-term">Study</span> ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they’re disabled?*
-* Or you might <span class="game-term">Study</span> a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
-* You might <span class="game-term">Survey</span> a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
-* Or you might <span class="game-term">Survey</span> a charged situation when you meet another gang. *What’s really going on here? Are they about to attack us?*
-* You might <span class="game-term">Sway</span> a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
-* Or you might <span class="game-term">Sway</span> his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
+- You might <span class="game-term">Attune</span> to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
+- You might <span class="game-term">Command</span> a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
+- You might <span class="game-term">Consort</span> with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
+- You might <span class="game-term">Hunt</span> a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
+- You might <span class="game-term">Study</span> ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they’re disabled?*
+- Or you might <span class="game-term">Study</span> a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
+- You might <span class="game-term">Survey</span> a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
+- Or you might <span class="game-term">Survey</span> a charged situation when you meet another gang. *What’s really going on here? Are they about to attack us?*
+- You might <span class="game-term">Sway</span> a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
+- Or you might <span class="game-term">Sway</span> his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
 
 @TODO table p33
 
@@ -631,7 +625,7 @@ One unit of <span class="game-term">coin</span> in silver pieces or other bulk c
 
 When you mark your character’s final <span class="game-term">trauma</span> and they retire, the amount of <span class="game-term">coin</span> they’ve managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
-* **Stash 0-10:** **Poor soul. **You end up in the gutter, awash in vice and misery.
+* **Stash 0-10: Poor soul.**You end up in the gutter, awash in vice and misery.
 * **Stash 11-20: Meager.** A tiny hovel that you can call your own.
 * **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
 * **Stash 40: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
@@ -642,7 +636,7 @@ In addition, each full row of stash (10 <span class="game-term">coins</span>) in
 
 #### Removing coin from your stash
 
-If you want to pull <span class="game-term">coin</span> out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 **<span class="game-term">coin</span>** in cash.**
+If you want to pull <span class="game-term">coin</span> out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 <span class="game-term">coin</span> in cash.**
 
 ## The Faction Game
 
@@ -654,12 +648,12 @@ You’ll use your Tier rating to roll dice when you acquire an asset, as well as
 
 #### Gang scale by tier
 
-* <span class="game-term">tier v</span>. Massive gangs. (80 people)
-* <span class="game-term">tier iv</span>. Huge gangs. (40 people)
-* <span class="game-term">tier iii</span>. Large gangs. (20 people)
-* <span class="game-term">tier ii</span>. Medium gangs. (12 people)
-* <span class="game-term">tier i</span>. Small gangs. (3-6 people)
-* <span class="game-term">tier 0</span>. 1 or 2 people
+- <span class="game-term">tier v</span>. Massive gangs. (80 people)
+- <span class="game-term">tier iv</span>. Huge gangs. (40 people)
+- <span class="game-term">tier iii</span>. Large gangs. (20 people)
+- <span class="game-term">tier ii</span>. Medium gangs. (12 people)
+- <span class="game-term">tier i</span>. Small gangs. (3-6 people)
+- <span class="game-term">tier 0</span>. 1 or 2 people
 
 ### Hold
 
@@ -669,12 +663,12 @@ On the faction ladder next to the Tier numbers is a letter indicating the streng
 
 To move up the ladder and develop your crew, you need <span class="game-term">rep</span>. <span class="game-term">Rep</span> is a measure of clout and renown. When you accrue enough <span class="game-term">rep</span>, the other factions take you more seriously and you attract the support needed to develop and grow.
 
-When you complete a score, your crew earns **2 **<span class="game-term">rep</span>. If the target of the score is higher Tier than your crew, you get **+1 **<span class="game-term">rep</span>** per Tier higher**. If the target of the score is lower Tier, you get **-1 <span class="game-term">rep</span>** per Tier lower** (minimum zero).
+When you complete a score, your crew earns **2 **<span class="game-term">rep</span>. If the target of the score is higher Tier than your crew, you get **+1 <span class="game-term">rep</span> per Tier higher**. If the target of the score is lower Tier, you get **-1 <span class="game-term">rep</span>** per Tier lower** (minimum zero).
 
 You need **12 <span class="game-term">rep</span>** to fill the <span class="game-term">rep</span> tracker on your crew sheet. When you fill the tracker, do one of the following:
 
-* If your hold is weak, it becomes strong. **Reset your **<span class="game-term">rep</span>** to zero**.
-* If your hold is strong, you can pay to increase your crew Tier by one. This costs <span class="game-term">coin</span> equal to your **new Tier x 8**. As long as your <span class="game-term">rep</span> tracker is full, you don’t earn new <span class="game-term">rep</span> (12 is the max). Once you pay and increase your Tier, **reset your **<span class="game-term">rep</span>** to zero** and **reduce your hold to weak**.
+- If your hold is weak, it becomes strong. **Reset your**<span class="game-term">rep</span>**to zero**.
+- If your hold is strong, you can pay to increase your crew Tier by one. This costs <span class="game-term">coin</span> equal to your **new Tier x 8**. As long as your <span class="game-term">rep</span> tracker is full, you don’t earn new <span class="game-term">rep</span> (12 is the max). Once you pay and increase your Tier, **reset your <span class="game-term">rep</span> to zero** and **reduce your hold to weak**.
 
 ### Turf
 
@@ -706,13 +700,13 @@ When you execute an operation, you gain -1 or -2 status with factions that are h
 
 #### Faction status levels
 
-* **+3: **Allies**. This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
-* **+2: **Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
-* **+1: **Helpful**.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
-* **0: **Neutral**
-* **-1: **Interfering**.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
-* **-2: **Hostile**.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
-* **-3: **War**.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 <span class="game-term">heat</span> from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
+- **+3: Allies**. This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
+- **+2: Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
+- **+1: Helpful**.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
+- **0: Neutral**
+- **-1: Interfering.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
+- **-2: Hostile.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
+- **-3: War**. This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 <span class="game-term">heat</span> from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
 
 > If your crew has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your crew’s Tier back to its pre-war level.
 
@@ -750,9 +744,9 @@ During the game session, mark xp:
 
 At the end of the session, review the **xp triggers** on your character sheet. For each one, mark 1 xp if it happened at all, or mark 2 xp if it happened a lot during the session. The xp triggers are:
 
-* **Your playbook-specific xp trigger**. For example, the Cutter’s is *“Address a challenge with violence or coercion.”* To “address a challenge,” your character should attempt to overcome a tough obstacle or threat. It doesn’t matter if the action is successful or not. You get xp either way.
-* **You expressed your beliefs, drives, heritage, or background.** Your character’s beliefs and drives are yours to define, session to session. Feel free to tell the group about them when you mark xp.
-* **You struggled with issues from your vice or traumas**. Mark xp for this if your vice tempted you to some bad action or if a trauma condition caused you trouble. Simply indulging your vice doesn’t count as struggling with it (unless you **overindulge**).
+- **Your playbook-specific xp trigger**. For example, the Cutter’s is *“Address a challenge with violence or coercion.”* To “address a challenge,” your character should attempt to overcome a tough obstacle or threat. It doesn’t matter if the action is successful or not. You get xp either way.
+- **You expressed your beliefs, drives, heritage, or background.** Your character’s beliefs and drives are yours to define, session to session. Feel free to tell the group about them when you mark xp.
+- **You struggled with issues from your vice or traumas**. Mark xp for this if your vice tempted you to some bad action or if a trauma condition caused you trouble. Simply indulging your vice doesn’t count as struggling with it (unless you **overindulge**).
 
 
 You may mark end-of-session xp on any xp tracks you want (any attribute or your playbook xp track).
@@ -773,7 +767,7 @@ At the end of the session, review the crew xp triggers and mark 1 crew xp for ea
 * **Express the goals, drives, inner conflict, or essential nature of the crew.** This one is very broad! Essentially, did anything happen that highlighted the specific elements that make your crew unique?
 
 
-**When you fill your crew advancement tracker**, clear the marks and take a new **special ability **or mark **two crew upgrade boxes**.
+**When you fill your crew advancement tracker**, clear the marks and take a new **special ability** or mark **two crew upgrade boxes**.
 
 > For example, when a crew of Assassins earns a crew advance, they could take a new special ability, like **Predators**. Or they could mark two upgrades, like **Ironhook Contacts** and **Resolve** **Training**.
 
