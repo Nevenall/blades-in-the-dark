@@ -11,9 +11,9 @@ In *Blades in the Dark*, we play to find out if a fledgling crew of characters c
 
 A score is a single operation with a particular goal: *burgle a Lord’s manor, assassinate the diplomat, smuggle a strange artifact into the city*, etc. Usually, a score will fall into one of three categories:
 
-* A **criminal activity**, determined by your crew type. An assassination, burglary, illicit vice deal, etc.
-* Seizing a **claim** that you choose from your crew’s **claim map**. Claims help your crew grow and develop. See page <a href="Generic*Character*Playbook.html#_idTextAnchor013">38</a> for more details.
-* A **special mission** or goal determined by the players (like getting a rare artifact to empower one of the Whisper’s rituals).
+- A **criminal activity**, determined by your crew type. An assassination, burglary, illicit vice deal, etc.
+- Seizing a **claim** that you choose from your crew’s **claim map**. Claims help your crew grow and develop. See page <a href="Generic*Character*Playbook.html#_idTextAnchor013">38</a> for more details.
+- A **special mission** or goal determined by the players (like getting a rare artifact to empower one of the Whisper’s rituals).
 
 A score can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. *Play to find out what happens!* A score doesn’t need to fill one session of play every time. Let it be however long it is.
 
@@ -47,10 +47,10 @@ The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. 
 
 #### Major Advantages / Disadvantages
 
-* Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
-* Does the **plan’s detail** expose a vulnerability of the target or hit them where they’re weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
-* Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
-* Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you **+1d**.  Maybe a higher-Tier target will give you -1d. Maybe there’s a situation in the district that makes the operation more or less tricky.
+- Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
+- Does the **plan’s detail** expose a vulnerability of the target or hit them where they’re weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
+- Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
+- Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you **+1d**.  Maybe a higher-Tier target will give you -1d. Maybe there’s a situation in the district that makes the operation more or less tricky.
 
 The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don’t need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang’s lair; maneuvering to speak with a Lord at the masquerade party; etc.
 
@@ -151,10 +151,10 @@ When you give up on a score, you go into **downtime**. Follow the phases for dow
 
 When the team of PCs works together, the characters have access to four special **teamwork maneuvers**. They’re listed at the bottom of the character playbook sheets to help remind the players of them. The four maneuvers are:
 
-* **Assist** another PC who’s rolling an action.
-* Lead a **group action**.
-* **Protect** a teammate.
-* **Set up** a character who will follow through on your action.
+- **Assist** another PC who’s rolling an action.
+- Lead a **group action**.
+- **Protect** a teammate.
+- **Set up** a character who will follow through on your action.
 
 #### Assist
 
@@ -202,8 +202,8 @@ After the crew finishes a score (succeed or fail), they take time to recover, re
 
 Downtime fulfills two purposes in the game:
 
-* First, it’s a break for the players. During the action of the score, the PCs are always under threat, charging from obstacle to obstacle in a high-energy sequence. Downtime gives them a reprieve so they can catch their breath and relax a bit—focus on lower-energy, quieter elements of the game, as well as explore personal aspects of their characters.
-* Second, the shift into a new phase of the game signals a shift in which mechanics are needed. There are special rules that are only used during the downtime phase, so they’re kept “out of the way” during the other parts of play. When we shift into downtime, we take out a different toolbox and resolve downtime on its own terms, then shift back into the more action-focused phases of the game afterwards.
+- First, it’s a break for the players. During the action of the score, the PCs are always under threat, charging from obstacle to obstacle in a high-energy sequence. Downtime gives them a reprieve so they can catch their breath and relax a bit—focus on lower-energy, quieter elements of the game, as well as explore personal aspects of their characters.
+- Second, the shift into a new phase of the game signals a shift in which mechanics are needed. There are special rules that are only used during the downtime phase, so they’re kept “out of the way” during the other parts of play. When we shift into downtime, we take out a different toolbox and resolve downtime on its own terms, then shift back into the more action-focused phases of the game afterwards.
 
 Downtime is divided into four parts, which are resolved in order:
 	<ol>
@@ -227,11 +227,11 @@ If you keep the operation completely quiet so no one knows about it, you earn ze
 
 The crew earns /coin/ based on the nature of the operation and/or any loot they seized:
 
-* /2 coin:/ A minor job; several full purses.
-* /4 coin:/ A small job; a strongbox.
-* /6 coin:/ A standard score; decent loot.
-* /8 coin:/ A big score; serious loot.
-* /10+ coin:/ A major score; impressive loot.
+- /2 coin:/ A minor job; several full purses.
+- /4 coin:/ A small job; a strongbox.
+- /6 coin:/ A standard score; decent loot.
+- /8 coin:/ A big score; serious loot.
+- /10+ coin:/ A major score; impressive loot.
 
 
 Record the /coin/ on the crew sheet, or divvy it up among the crew members as you see fit.
@@ -246,10 +246,10 @@ GM, definitely don’t screw around with the players when it comes to the payoff
 
 The city is full of prying eyes and informants. Anything you do might be witnessed, and there’s always evidence left behind. To reflect this, your crew acquires /heat/ as they commit crimes. After a score or conflict with an opponent, your crew takes /heat/ according to the nature of the operation:
 
-* /0 heat:/ Smooth &amp; quiet; low exposure.
-* /2 heat:/ Contained; standard exposure.
-* /4 heat: /Loud &amp; chaotic; high exposure.
-* /6 heat:/ Wild; devastating exposure.
+- /0 heat:/ Smooth &amp; quiet; low exposure.
+- /2 heat:/ Contained; standard exposure.
+- /4 heat: /Loud &amp; chaotic; high exposure.
+- /6 heat:/ Wild; devastating exposure.
 
 Add +1 /heat/ for a high-profile or well-connected target. Add +1 /heat/ if the situation happened on hostile turf. Add +1 /heat/ if you’re at war with another faction. Add +2 /heat/ if killing was involved (whether the crew did the killing or not—bodies draw attention).
 
@@ -271,11 +271,11 @@ Incarceration may result from investigation and arrest by the officers, or becau
 
 The severity of the prison sentence depends on your /wanted level/:
 
-* /Wanted Level 4: /Life or execution.
-* /Wanted Level 3:/ A year or two.
-* /Wanted Level 2:/ Several months.
-* /Wanted Level 1:/ A month or two.
-* /Wanted Level 0:/ A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
+- /Wanted Level 4: /Life or execution.
+- /Wanted Level 3:/ A year or two.
+- /Wanted Level 2:/ Several months.
+- /Wanted Level 1:/ A month or two.
+- /Wanted Level 0:/ A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
 
 Incarceration is dehumanizing and brutal. The renown of your crew is your only real defense inside. When you serve your time, make an **incarceration roll** using your crew’s Tier as the dice pool.
 

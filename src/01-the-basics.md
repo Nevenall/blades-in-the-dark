@@ -602,12 +602,12 @@ The few bits PCs use in their daily lives are not tracked. If a character wants 
 
 ### Monetary values
 
-* /1 coin: /A full purse of silver pieces. A week’s wages.
-* /2 coin:/ A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
-* /4 coin:/ A satchel full of silver. A month’s wages.
-* /6 coin:/ An exquisite jewel. A heavy burden of silver pieces.
-* /8 coin:/ A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
-* /10 coin:/ Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
+- /1 coin: /A full purse of silver pieces. A week’s wages.
+- /2 coin:/ A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
+- /4 coin:/ A satchel full of silver. A month’s wages.
+- /6 coin:/ An exquisite jewel. A heavy burden of silver pieces.
+- /8 coin:/ A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
+- /10 coin:/ Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
 
 More than 4/coin/ is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4<span class="game-term CharOverride-5"> </span>/coin/ in their lair, by default. If they upgrade to a **vault**, they can expand their stores to <span class="game-term CharOverride-15">8</span> and then 16 /coin/. Any /coin/ beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
 
@@ -615,20 +615,20 @@ One unit of /coin/ in silver pieces or other bulk currency takes up one item slo
 
 #### Coin Use
 
-* Spend 1 /coin/ to get an additional **activity** during **downtime**.
-* Spend 1 /coin/ to increase the result level of a **downtime activity** roll.
-* Spend /coin/ to avoid certain crew **entanglements**.
-* Put /coin/ in your character’s **stash** to improve their lifestyle and circumstances when they retire. See the next page.
-* Spend /coin/ when you advance your crew’s **Tier**.
+- Spend 1 /coin/ to get an additional **activity** during **downtime**.
+- Spend 1 /coin/ to increase the result level of a **downtime activity** roll.
+- Spend /coin/ to avoid certain crew **entanglements**.
+- Put /coin/ in your character’s **stash** to improve their lifestyle and circumstances when they retire. See the next page.
+- Spend /coin/ when you advance your crew’s **Tier**.
 
 ### Stash &amp; Retirement
 
 When you mark your character’s final /trauma/ and they retire, the amount of /coin/ they’ve managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
-* **Stash 0-10: Poor soul.**You end up in the gutter, awash in vice and misery.
-* **Stash 11-20: Meager.** A tiny hovel that you can call your own.
-* **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
-* **Stash 40: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
+- **Stash 0-10: Poor soul.**You end up in the gutter, awash in vice and misery.
+- **Stash 11-20: Meager.** A tiny hovel that you can call your own.
+- **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
+- **Stash 40: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
 
 In addition, each full row of stash (10 /coins/) indicates the **quality level of the character’s lifestyle**, from zero (street life) to four (luxury).
 
@@ -740,7 +740,7 @@ Each player keeps track of the experience points (**xp**) that their character e
 
 During the game session, mark xp:
 
-* When you make a **desperate action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a desperate /Skirmish/ action, you mark xp in /Prowess/*.* When you roll in a **group action** that’s desperate, you also mark xp.
+- When you make a **desperate action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a desperate /Skirmish/ action, you mark xp in /Prowess/*.* When you roll in a **group action** that’s desperate, you also mark xp.
 
 At the end of the session, review the **xp triggers** on your character sheet. For each one, mark 1 xp if it happened at all, or mark 2 xp if it happened a lot during the session. The xp triggers are:
 
@@ -761,10 +761,10 @@ You can also earn xp by **training** during downtime. When you train, mark xp in
 
 At the end of the session, review the crew xp triggers and mark 1 crew xp for each item that occurred during the session. If an item occurred multiple times or in a major way, mark 2 crew xp for it. The crew xp triggers are:
 
-* **Your crew-specific xp trigger**. For example, the Smugglers’ is *“Execute a smuggling operation or acquire new clients or contraband sources.”* If the crew successfully completed an operation from this trigger, mark xp.
-* **Contend with challenges above your current station.** If you tangled with higher Tiers or more dangerous opposition, mark xp for this.
-* **Bolster your crew’s reputation or develop a new one.** Review your crew’s reputation. Did you do anything to promote it? Also mark xp if you developed a new reputation for the crew.
-* **Express the goals, drives, inner conflict, or essential nature of the crew.** This one is very broad! Essentially, did anything happen that highlighted the specific elements that make your crew unique?
+- **Your crew-specific xp trigger**. For example, the Smugglers’ is *“Execute a smuggling operation or acquire new clients or contraband sources.”* If the crew successfully completed an operation from this trigger, mark xp.
+- **Contend with challenges above your current station.** If you tangled with higher Tiers or more dangerous opposition, mark xp for this.
+- **Bolster your crew’s reputation or develop a new one.** Review your crew’s reputation. Did you do anything to promote it? Also mark xp if you developed a new reputation for the crew.
+- **Express the goals, drives, inner conflict, or essential nature of the crew.** This one is very broad! Essentially, did anything happen that highlighted the specific elements that make your crew unique?
 
 
 **When you fill your crew advancement tracker**, clear the marks and take a new **special ability** or mark **two crew upgrade boxes**.

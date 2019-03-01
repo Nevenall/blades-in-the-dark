@@ -21,14 +21,14 @@ Your crew begins with 2 /coin/ in its coffers (the remains of the PCs’ savings
 
 Your crew has just formed and acquired a lair. Given this group of characters and their previous escapades, what initial **reputation** would you have among the factions of the underworld? Choose one from the list at right (or create your own).
 
-* Ambitious
-* Brutal
-* Daring
-* Honorable
-* Professional
-* Savvy
-* Subtle
-* Strange
+- Ambitious
+- Brutal
+- Daring
+- Honorable
+- Professional
+- Savvy
+- Subtle
+- Strange
 
 You earn xp when you bolster your crew’s reputation, so think of this as another cue to indicate what sorts of action you want in the game. Will you be recklessly ambitious, targeting higher-Tier targets? Will you take on daring scores that others deem too risky? Are you interested in the strange and the weird?
 
@@ -38,9 +38,9 @@ Also, talk about where the crew makes its **lair**. You begin at Tier 0, so it�
 
 Your crew is brand-new, but you have chosen some small part of a district as your **hunting grounds**. This is the area that you usually target for your scores, and you know it well. Your hunting grounds don’t have to be in the same district as your lair. The area is small, only three or four city blocks—but it’s still an intrusion on someone. The entire city is divided among larger, stronger factions. The GM will tell you which faction claims the area, then you decide how to deal with them:
 
-* Pay them off. Give them 1 /coin/ in exchange for giving you room to work.
-* Pay the faction 2 /coin/ as a show of respect and gain **+1 status** with them.
-* Keep your money and take **-1 status** with that faction.
+- Pay them off. Give them 1 /coin/ in exchange for giving you room to work.
+- Pay the faction 2 /coin/ as a show of respect and gain **+1 status** with them.
+- Keep your money and take **-1 status** with that faction.
 
 Your hunting grounds are useful for a particular type of criminal operation. Each crew type has a list of different operation types for their hunting grounds. For instance, Assassins have *Accident*, *Disappearance*, *Murder*, or *Ransom* as options. Choose one of these operation types as your preference.
 
@@ -62,8 +62,8 @@ You get to add **two additional upgrades** to your new crew (so you’ll have a 
 
 When you assign your two upgrades, the GM will tell you about two factions that are impacted by your choices:
 
-* One faction helped you get an upgrade. They like you, and you get **+1 status** with them. At your option, spend 1 /coin /to repay their kindness, and take **+2 status** with them instead.
-* One faction was screwed over when you got an upgrade. They don’t like you, and you get **-2 status** with them. At your option, spend 1 /coin /to mollify them, and take **-1 status** with them instead.
+- One faction helped you get an upgrade. They like you, and you get **+1 status** with them. At your option, spend 1 /coin /to repay their kindness, and take **+2 status** with them instead.
+- One faction was screwed over when you got an upgrade. They don’t like you, and you get **-2 status** with them. At your option, spend 1 /coin /to mollify them, and take **-1 status** with them instead.
 
 
 You’ll be able get more upgrades in the future by earning xp
@@ -72,25 +72,25 @@ You’ll be able get more upgrades in the future by earning xp
 
 Take a look at your list of potential contacts on the crew sheet. Choose one contact who is a close friend, long-time ally, or partner in crime. The GM will tell you about two factions that are impacted by your choice:
 
-* One faction is also friendly with this contact, and you get **+1 status** with them.
-* One faction is unfriendly with this contact, and you get **-1 status** with them.
+- One faction is also friendly with this contact, and you get **+1 status** with them.
+- One faction is unfriendly with this contact, and you get **-1 status** with them.
 
 At your option, these factions are even more concerned with this contact and so you take **+2** and **-2 status** instead.
 
 ### Crew upgrade Examples
 
-* /Boat house:// /You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
-* /Carriage House:/ You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
-* /Cohort:/ A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
-* /Hidden Lair:/ Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay /coin/ equal to your Tier to relocate it and hide it once again.
-* /Mastery: /Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
-* /Quality:/ **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. *So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
-* /Quarters:/ Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
-* /Secure Lair:// /Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. *You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder.*
-* /Training: /If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (/Insight/, /Prowess/, /Resolve/, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
+- /Boat house:// /You have a boat, a dock on a waterway, and a small shack to store boating supplies. A second upgrade improves the boat with armor and more cargo capacity.
+- /Carriage House:/ You have a carriage, and draft animals to pull it, and a stable. A second upgrade improves the carriage with armor and larger, swifter steeds.
+- /Cohort:/ A cohort is a gang or a single expert NPC who works for your crew. For all the details on cohorts, see the following pages.
+- /Hidden Lair:/ Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay /coin/ equal to your Tier to relocate it and hide it once again.
+- /Mastery: /Your crew has access to master level training. You may advance your PCs’ action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
+- /Quality:/ **Each upgrade improves the quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. *So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
+- /Quarters:/ Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
+- /Secure Lair:// /Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. *You might roll your crew’s Tier if these measures are ever put to the test, to see how well they thwart an intruder.*
+- /Training: /If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (/Insight/, /Prowess/, /Resolve/, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, page 40.
 *If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the /Insight/ track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train.*
-* /Vault:// /Your lair has a secure vault, increasing your storage capacity for /coin/ to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
-* /Workshop:/ Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
+- /Vault:// /Your lair has a secure vault, increasing your storage capacity for /coin/ to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
+- /Workshop:/ Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
 
 ### Cohorts
 
@@ -100,11 +100,11 @@ A **cohort** is a **gang** or an **expert** who works for your crew. To recruit 
 
 Choose a **gang type** from the list below:
 
-* /Adepts:// /Scholars, tinkerers, occultists, and chemists.
-* /Rooks:/ Con artists, spies, and socialites.
-* /Rovers:// /Sailors, carriage drivers, and deathlands scavengers.
-* /Skulks:/ Scouts, infiltrators, and thieves.
-* /Thugs:/ Killers, brawlers, and roustabouts.
+- /Adepts:// /Scholars, tinkerers, occultists, and chemists.
+- /Rooks:/ Con artists, spies, and socialites.
+- /Rovers:// /Sailors, carriage drivers, and deathlands scavengers.
+- /Skulks:/ Scouts, infiltrators, and thieves.
+- /Thugs:/ Killers, brawlers, and roustabouts.
 
 
 A gang has **scale** and **quality** equal to your current crew Tier. It increases in scale and quality when your crew moves up in Tier.
@@ -125,17 +125,17 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 
 **Edges**
 
-* **Fearsome:**The cohort is terrifying in aspect and reputation.
-* **Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
-* **Loyal:** The cohort can’t be bribed or turned against you.
-* **Tenacious:** The cohort won’t be deterred from a task.
+- **Fearsome:**The cohort is terrifying in aspect and reputation.
+- **Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
+- **Loyal:** The cohort can’t be bribed or turned against you.
+- **Tenacious:** The cohort won’t be deterred from a task.
 
 **Flaws**
 
-* **Principled:** The cohort has an ethic or values that it won’t betray.
-* **Savage:** The cohort is excessively violent and cruel.
-* **Unreliable:** The cohort isn’t always available, due to other obligations, stupefaction from their vices, etc.
-* **Wild:** The cohort is drunken, debauched, and loud-mouthed.
+- **Principled:** The cohort has an ethic or values that it won’t betray.
+- **Savage:** The cohort is excessively violent and cruel.
+- **Unreliable:** The cohort isn’t always available, due to other obligations, stupefaction from their vices, etc.
+- **Wild:** The cohort is drunken, debauched, and loud-mouthed.
 
 
 #### Modifying a cohort
@@ -174,22 +174,22 @@ You begin at **Tier 0**, with **strong hold** and 0 /rep/. You start with 2 /coi
 
 <span class="number">3</span> **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
 
-* Pay them 1 /coin/.
-* Pay them 2 /coin/. Get **+1 status**.
-* Pay nothing. Get **-1 status**.
+- Pay them 1 /coin/.
+- Pay them 2 /coin/. Get **+1 status**.
+- Pay nothing. Get **-1 status**.
 
 <span class="number">4</span> **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
 <span class="number">5</span> **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
 
-* One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 /coin/ for **+2 status** instead.
-* One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 /coin/ for **-1 status** instead.
+- One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 /coin/ for **+2 status** instead.
+- One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 /coin/ for **-1 status** instead.
 
 
 <span class="number">6</span> **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
 
-* One faction is friendly with your contact. Take **+1 status** with them.
-* One faction is unfriendly with your contact. Take **-1 status** with them.
+- One faction is friendly with your contact. Take **+1 status** with them.
+- One faction is unfriendly with your contact. Take **-1 status** with them.
 
 
 At your option, increase the intensity of the factions’ relationship with your contact and take **+2** and **-2 status**, instead.
@@ -205,8 +205,8 @@ You’re professional murderers—death is your business.
 *Add questions to personalize the crew. How is the crew distinguished from other similar crews?*
 
 ### Starting upgrades
-* First upgrade
-* Second upgrade
+- First upgrade
+- Second upgrade
 
 ### Favored Operations
 A list of operation types that the crew may perform. Some possibilities include: murder, ranson, extortion, sabotage, aquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
@@ -221,13 +221,13 @@ Questions can inlclue how you know the friend, what they’ve done for you,  wha
 
 A list of five upgrades specific to the crew. Some examples:
 
-* **Rigging:** You get 2 free load in two of the equipment categories (weapons, implements, supplies, gear, documents, and tools).
-* **Prison Contacts:** Your Tier is effectively +1 higher in prison. *This counts for any Tier-related element in prison, including the incarceration roll.*
-* **Elite Cohorts (specify type):** All of your cohorts with the specified type get **+1d** to quality rolls for related actions.
-* **Hardened:** Each PC gets **+1 /trauma/ box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 /trauma/* back into play if you wish.
-* **Composed:** Each PC gets **+1 stress box**. This costs three upgrades to unlock, not just one.
-* **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
-* **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
+- **Rigging:** You get 2 free load in two of the equipment categories (weapons, implements, supplies, gear, documents, and tools).
+- **Prison Contacts:** Your Tier is effectively +1 higher in prison. *This counts for any Tier-related element in prison, including the incarceration roll.*
+- **Elite Cohorts (specify type):** All of your cohorts with the specified type get **+1d** to quality rolls for related actions.
+- **Hardened:** Each PC gets **+1 /trauma/ box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 /trauma/* back into play if you wish.
+- **Composed:** Each PC gets **+1 stress box**. This costs three upgrades to unlock, not just one.
+- **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
+- **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
 
 #### Make a Claim Map for the Crew. Sample claims include:</span>
 

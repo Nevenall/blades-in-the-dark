@@ -29,9 +29,9 @@ Your character’s **background** describes what they did before they joined the
 
 Your playbook begins with three action dots already placed. You get to add four more dots (so you’ll have seven total). At the start of the game, no action rating may have more than two dots (unless a special ability tells you otherwise). Assign your four dots like this:
 
-* Put one dot in any action that you feel reflects your character’s **heritage**.
-* Put one dot in any action that you feel reflects your character’s **background**.
-* Assign two more dots anywhere you please (max rating is 2, remember).
+- Put one dot in any action that you feel reflects your character’s **heritage**.
+- Put one dot in any action that you feel reflects your character’s **background**.
+- Assign two more dots anywhere you please (max rating is 2, remember).
 
 ### Choose a special ability
 
@@ -49,13 +49,13 @@ Each playbook has a list of NPCs that your character knows. Choose one from the 
 
 Every character is in thrall to some vice or another, which they indulge to deal with stress. Choose a vice from the list, and describe it on the line above with the specific details and the name and location of your **vice purveyor**.
 
-* /Faith: /You’re dedicated to an unseen power, forgotten god, ancestor, etc.
-* /Gambling:/ You crave games of chance, betting on sporting events, etc.
-* /Luxury: /Expensive or ostentatious displays of opulence.
-* /Obligation: /You’re devoted to a family, a cause, an organization, a charity, etc.
-* /Pleasure:/ Gratification from lovers, food, drink, drugs, art, theater, etc.
-* /Stupor: /You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
-* /Weird: /You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
+- /Faith: /You’re dedicated to an unseen power, forgotten god, ancestor, etc.
+- /Gambling:/ You crave games of chance, betting on sporting events, etc.
+- /Luxury: /Expensive or ostentatious displays of opulence.
+- /Obligation: /You’re devoted to a family, a cause, an organization, a charity, etc.
+- /Pleasure:/ Gratification from lovers, food, drink, drugs, art, theater, etc.
+- /Stupor: /You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
+- /Weird: /You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
 
 
 ### Record your name, alias, &amp; look
@@ -92,10 +92,10 @@ That’s it! Your character is ready for play. When you start the first session,
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* /1-3 load:/**Light.** *You’re faster, less conspicuous; you blend in with citizens.*
-* /4/5 load: /**Normal**. *You look like a scoundrel, ready for trouble.*
-* /6 load: /**Heavy.** *You’re slower. You look like an operative on a mission.*
-* /7-9 load: /**Encumbered.** *You’re overburdened and can’t do anything except move very slowly.*
+- /1-3 load:/**Light.** *You’re faster, less conspicuous; you blend in with citizens.*
+- /4/5 load: /**Normal**. *You look like a scoundrel, ready for trouble.*
+- /6 load: /**Heavy.** *You’re slower. You look like an operative on a mission.*
+- /7-9 load: /**Encumbered.** *You’re overburdened and can’t do anything except move very slowly.*
 
 
 Some special abilities (like the Cutter’s /Mule/ ability or Assassin’s Rigging) increase the load limits.

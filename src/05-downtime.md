@@ -7,12 +7,12 @@ order: 05
 
 Between scores, your crew spends time at their liberty, attending to personal needs and side projects. These are called **downtime activities** (see the list below). During a downtime phase, each PC has time for **two downtime activities**. *When you’re at war, each PC has time for only one.*
 
-* Acquire Asset
-* Long-Term Project
-* Recover
-* Reduce Heat
-* Train
-* Indulge Vice
+- Acquire Asset
+- Long-Term Project
+- Recover
+- Reduce Heat
+- Train
+- Indulge Vice
 
 You may choose the same activity more than once. You can only attempt actions that you’re in a position to accomplish. If an activity is contingent on another action, resolve that action first.
 
@@ -30,10 +30,10 @@ For any downtime activity, take **+1d** to the roll if a **friend** or **contact
 
 Gain temporary use of an **asset**:
 
-* One special **item** or set of common items (enough for a gang of your Tier scale).
-* A **cohort** (an expert or gang).
-* A **vehicle**.
-* A **service**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
+- One special **item** or set of common items (enough for a gang of your Tier scale).
+- A **cohort** (an expert or gang).
+- A **vehicle**.
+- A **service**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
 
 “Temporary use” constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
@@ -115,10 +115,10 @@ If your vice roll clears more stress levels than you had marked, you overindulge
 
 When you overindulge, you make a bad call because of your vice—in acquiring it or while under its influence. To bring the effect of this bad decision into the game, select an overindulgence from the list:
 
-* /Attract Trouble./ Select or roll an additional **entanglement**.
-* /Brag/ about your exploits. **+2** /heat/.
-* /Lost./ Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
-* /Tapped./ Your current purveyor cuts you off. Find a new source for your vice.
+- /Attract Trouble./ Select or roll an additional **entanglement**.
+- /Brag/ about your exploits. **+2** /heat/.
+- /Lost./ Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
+- /Tapped./ Your current purveyor cuts you off. Find a new source for your vice.
 
 #### Ignoring your vice
 
@@ -132,12 +132,12 @@ Along with your character’s heritage and background, their vice tells us what 
 
 NPCs and factions also do things when the PCs have downtime. The GM **advances their project clocks** and chooses a downtime maneuver or two for each faction that they’re interested in at the moment. Choose any maneuver that makes sense for that faction to pursue. For example:
 
-* Seize a claim or increase hold, make an enemy vulnerable, or reduce the hold of a vulnerable enemy.
-* Gather information on the PCs (may be opposed by a PC roll) or another subject.
-* Achieve a short-term goal they’re in position to accomplish.
-* Acquire a new asset.
-* Call in a favor from another faction.
-* Employ political pressure or threats to force someone’s hand.
+- Seize a claim or increase hold, make an enemy vulnerable, or reduce the hold of a vulnerable enemy.
+- Gather information on the PCs (may be opposed by a PC roll) or another subject.
+- Achieve a short-term goal they’re in position to accomplish.
+- Acquire a new asset.
+- Call in a favor from another faction.
+- Employ political pressure or threats to force someone’s hand.
 
 **GM:** Choose downtime maneuvers and advance clocks for the factions you’re interested in right now. Don’t worry about the rest. Later, when you turn your attention to a faction you’ve ignored for a while, go ahead and give them several downtime phases and project clock ticks to “catch up” to current events.
 
@@ -246,9 +246,9 @@ You may spend /coin/ 1-for-1 to increase the final quality level result of your 
 
 Adding a feature or additional function to an item is simpler than creating something new. You don’t need to invent a special formula or plan. Make a crafting roll to modify an item (the baseline quality of an item that you modify is equal to your crew’s Tier, as usual).
 
-* A simple, useful modification requires Tier +1 quality. *A rifle that breaks down into two sections to be more easily concealed.*
-* A significant modification requires Tier +2 quality. *Strengthening the barrel and powder load of a gun to fire further.*
-* An arcane, spark-craft, or alchemical modification requires Tier +3 quality. *A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators.*
+- A simple, useful modification requires Tier +1 quality. *A rifle that breaks down into two sections to be more easily concealed.*
+- A significant modification requires Tier +2 quality. *Strengthening the barrel and powder load of a gun to fire further.*
+- An arcane, spark-craft, or alchemical modification requires Tier +3 quality. *A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators.*
 
 Modified items, like special creations, may have **drawbacks**.
 
@@ -256,9 +256,9 @@ Modified items, like special creations, may have **drawbacks**.
 
 A creation or modification may have one or more drawbacks, chosen by the GM.
 
-* /Complex. /You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
-* /Conspicuous. /This creation doesn’t go unnoticed. Take **+1** /heat/ if it’s used any number of times on an operation.
-* /Consumable./ This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
-* /Rare. /This creation requires a rare item or material when it is crafted.
-* /Unreliable. /When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
-* /Volatile. /The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
+- /Complex. /You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
+- /Conspicuous. /This creation doesn’t go unnoticed. Take **+1** /heat/ if it’s used any number of times on an operation.
+- /Consumable./ This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
+- /Rare. /This creation requires a rare item or material when it is crafted.
+- /Unreliable. /When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
+- /Volatile. /The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
