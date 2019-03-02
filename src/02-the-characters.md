@@ -108,7 +108,7 @@ You don’t need to select specific items now.  Review your personal items and t
 
 Medium length description of the character here. Include what kind of activities they normally partake in.
 
-**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
+**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coercion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayhem, tracking, or occult powers.
 
 - todo tables 51
 
@@ -126,9 +126,9 @@ Medium length description of the character here. Include what kind of activities
 
 ### Friends, rivals
 
-A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunte, a pugalist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothocary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a porstitue, a jail-bird, an information broker, a servant, an archivist, or a supernatural entitity.
+A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: A spy, a bounty hunter, a pugilist, a cold killer, an extortionist, a physicker, an assassin, a sentinel, an apothecary, a priestess, a noble, a city clerk, an officer, an inspector, a beggar, a locksmith, a gang leader, a drug dealer, a tavern owner, a prostitute, a jail-bird, an information broker, a servant, an archivist, or a supernatural entity.
 
-Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
+Questions can include how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
 
 ### Special abilities
 
@@ -396,4 +396,4 @@ You may expend your **special armor** to resist a supernatural consequence, or t
 
 Add a list of five distinctive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
 
-Some examples include: Weapons, clothes, arcane impliments, specialized tools, custom gear, capable pets, or supernatural objects.
+Some examples include: Weapons, clothes, arcane implements, specialized tools, custom gear, capable pets, or supernatural objects.

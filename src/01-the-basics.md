@@ -141,7 +141,7 @@ When you {Consort}, you socialize with friends and contacts.
 
 *You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to manipulate your friends with social pressure (but Sway might be better).*
 
-When you {Finesse}, you employ dextrous manipulation or subtle misdirection.
+When you {Finesse}, you employ dexterous manipulation or subtle misdirection.
 
 *You might pick someone’s pocket. You might handle the controls of a vehicle or direct a mount. You might formally duel an opponent with graceful fighting arts. You could try to employ those arts in a chaotic melee (but Skirmishing might be better). You could try to pick a lock (but Tinkering might be better).*
 
@@ -381,7 +381,7 @@ The potency factor considers particular weaknesses, taking extra time or a bigge
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 
-*Thorn is picking the lock to a safehouse run of a gang reknowned for Occult dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock.*
+*Thorn is picking the lock to a safehouse run of a gang renowned for Occult dealings. Her crew is Tier I and she has fine lockpicks—so she’s effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock.*
 
 #### Scale
 
@@ -527,7 +527,7 @@ The fortune roll is a tool the GM can use to disclaim decision making. You use a
 
 **When you need to make a determination about a situation the PCs aren’t directly involved in** and don’t want to simply decide the outcome.
 
-> Two rival gands are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
+> Two rival gangs are fighting. How does that turn out? The GM makes a fortune roll for each of them. One gets a good result but the other gets limited effect. The GM decides that the first gang takes over some of their rivals’ turf but suffer some injuries during the skirmish.
 
 **When an outcome is uncertain**, but no other roll applies to the situation at hand.
 
@@ -581,7 +581,7 @@ You track the investigation project using a progress clock. Once the clock is fi
 - You might {Attune} to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
 - You might {Command} a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
 - You might {Consort} with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
-- You might {Hunt} a courier across the city, to discover who’s receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
+- You might {Hunt} a courier across the city, to discover who’s receiving satchels of coin from a master duelist. *Where does the package end up? How can I find out who signed for the package at City Hall?*
 - You might {Study} ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they’re disabled?*
 - Or you might {Study} a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
 - You might {Survey} a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*

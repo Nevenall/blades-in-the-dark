@@ -205,13 +205,13 @@ You’re professional murderers—death is your business.
 - Second upgrade
 
 ### Favored Operations
-A list of operation types that the crew may perform. Some possibilities include: murder, ranson, extortion, sabotage, aquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
+A list of operation types that the crew may perform. Some possibilities include: murder, ransom, extortion, sabotage, acquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
 
 ### Contacts
 
-A list of five possible contacts for thew crew, along with descriptions of each. Some possibilities include: a gang boss, a deal broker, a noble, a bounty hunter, a merchant, a blacksmith, a physicker, a ward boss, a taver owner, an academic, an occultist, a magistrate, a dillettante, an explorer, a collector, an arms dealer, a drug dealer, an anarchist, or a dock worker.
+A list of five possible contacts for the crew, along with descriptions of each. Some possibilities include: a gang boss, a deal broker, a noble, a bounty hunter, a merchant, a blacksmith, a physicker, a ward boss, a tavern owner, an academic, an occultist, a magistrate, a dilettante, an explorer, a collector, an arms dealer, a drug dealer, an anarchist, or a dock worker.
 
-Questions can inlclue how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
+Questions can include how you know the friend, what they’ve done for you,  what you do for them, and what kind of relationship you have.
 
 ### Crew upgrades
 

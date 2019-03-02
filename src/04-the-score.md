@@ -295,7 +295,7 @@ After payoff and {heat} are determined, the GM generates an entanglement for the
 
 - todo add table p94
 
-Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the *Interrogation* entanglement, you might wait until a PC indulges their vice, then say the costables picked them up when they were distracted by its pleasures.
+Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the *Interrogation* entanglement, you might wait until a PC indulges their vice, then say the constables picked them up when they were distracted by its pleasures.
 
 Entanglements manifest fully before the PCs have a chance to avoid them. When an entanglement comes into play, describe the situation after the entanglement has manifested. The PCs deal with it from that point—they can’t intercept it and defuse it before it happens. The purpose of the mechanic is to abstract a lot of the complex stuff happening in the backgrounds of the characters’ lives in order to generate trouble for them. Entanglements are the cost of doing business in the underworld—a good crew learns to roll with the punches and pick their battles.
 
