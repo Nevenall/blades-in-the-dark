@@ -20,7 +20,7 @@ A PC can make time for more than two activities, at a cost. **Each additional ac
 
 Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are *on the list* are limited.
 
-For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend {coin} after the roll to improve the result level. **Increase the result level by one for each {coin} spent.** So, a **1-3** result becomes a {4} or a {5}, a {4}5{ result becomes a }6{, and a }6{ becomes a }critical/.
+For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend {coin} after the roll to improve the result level. **Increase the result level by one for each {coin} spent.** So, a **1-3** result becomes a **4/5**, a **4/5** result becomes a **6**, and a **6** becomes a {critical}.
 
 **GM:** If a player can’t decide which downtime activity to pick, offer them a long-term project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.
 
@@ -37,7 +37,7 @@ Gain temporary use of an **asset**:
 
 “Temporary use” constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
-To acquire the asset, roll the crew’s Tier<span class="game-term CharOverride-15">.<{span> The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. }1-3:{ Tier -1, }4{5:} Tier, {6:} Tier +1, {critical:} Tier +2. You can spend {coin} to raise the result of this roll beyond {critical} by spending **2** {coin} per additional Tier level added.
+To acquire the asset, roll the crew’s Tier. The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. **1-3** Tier -1, **4/5** Tier, **6** Tier +1, {critical:} Tier +2. You can spend {coin} to raise the result of this roll beyond {critical} by spending **2** {coin} per additional Tier level added.
 
 The GM may set a **minimum quality** level that must be achieved to acquire a particular asset. For example, if you want to get a set of Warden uniforms and masks, you’d need to acquire a Tier IV asset. A lower result won’t do.
 
@@ -51,7 +51,7 @@ If you want to acquire an asset permanently, you can either gain it as a crew up
 
 ## Long-term project
 
-When you work on a long-term project (either a brand new one, or an already existing one), describe what your character does to advance the project clock, and roll one of your actions. Mark segments on the clock according to your result: {1-3:} one segment, {4}5:{ two segments, }6:{ three segments, }critical:/ five segments.
+When you work on a long-term project (either a brand new one, or an already existing one), describe what your character does to advance the project clock, and roll one of your actions. Mark segments on the clock according to your result: **1-3** one segment, **4/5** two segments, **6** three segments, {critical} five segments.
 
 A long-term project can cover a wide variety of activities, like doing research into an arcane ritual, investigating a mystery, establishing someone’s trust, courting a new friend or contact, changing your character’s vice, and so on.
 
@@ -63,13 +63,13 @@ In order to work on a project, you might first have to achieve the means to purs
 
 When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don’t have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide service for the whole crew.
 
-Recovery is like a long-term project. Your healer rolls ({Tinker} for a PC with the {Physicker} special ability or the **quality** level of an NPC) and then you mark a number of segments on your **healing clock**. {1-3:} one segment, {4}5:{ two segments, }6:{ three segments, }critical:/ five segments.
+Recovery is like a long-term project. Your healer rolls ({Tinker} for a PC with the {Physicker} special ability or the **quality** level of an NPC) and then you mark a number of segments on your **healing clock**. **1-3** one segment, **4/5** two segments, **6** three segments, {critical} five segments.
 
 When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they “roll over.”
 
 - todo add table p99
 
-> Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a {6}: three segments on the healing clock. He decides to spend 1 {coin} to improve the result to a {critical} to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”
+> Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a **6**: three segments on the healing clock. He decides to spend 1 {coin} to improve the result to a {critical} to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”
 
 You may heal yourself if you have the {Physicker} special ability, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment—in this case, take 1 stress and roll 0d.
 
@@ -81,11 +81,11 @@ Whenever you suffer new harm, clear any ticks on your healing clock.
 
 Say what your character does to reduce the {heat} level of the crew and make an action roll. Maybe you {Consort} with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you {Command} the fear of the local citizens so they’re afraid to snitch.
 
-Reduce {heat} according to the result: {1-3:} one, {4}5:{ two, }6:{ three, }critical:/ five.
+Reduce {heat} according to the result: **1-3** one, **4/5** two, **6** three, }critical:/ five.
 
 #### Train
 
-When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1**{ }**xp** (2 total). See **Crew Upgrades**, page <a>65</a>. *You can train a given xp track only once per downtime.*
+When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1 xp** (2 total). *You can train a given xp track only once per downtime.*
 
 ## Indulge vice
 
@@ -117,18 +117,18 @@ When you overindulge, you make a bad call because of your vice—in acquiring it
 
 - {Attract Trouble.} Select or roll an additional **entanglement**.
 - {Brag} about your exploits. **+2** {heat}.
-- {Lost.} Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
-- {Tapped.} Your current purveyor cuts you off. Find a new source for your vice.
+- {Lost} Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
+- {Tapped} Your current purveyor cuts you off. Find a new source for your vice.
 
 #### Ignoring your vice
 
 If you do not or cannot indulge your vice during a downtime phase, you take stress equal to your {trauma}. If you don’t have any {trauma}, you’re free to ignore your vice. It doesn’t have a hold over you (yet).
 
-#### Roleplaying &amp; XP
+#### Roleplaying & XP
 
 Along with your character’s heritage and background, their vice tells us what kind of person they are. This obsession impacts their motivations, goals, and behavior. When you ponder what your character might do or say next, you can always consider their vice to help you think of something. As an added benefit, by playing to the nature of your character’s vice, you earn xp at the end of the session.
 
-### NPC &amp; faction downtime
+### NPC & faction downtime
 
 NPCs and factions also do things when the PCs have downtime. The GM **advances their project clocks** and chooses a downtime maneuver or two for each faction that they’re interested in at the moment. Choose any maneuver that makes sense for that faction to pursue. For example:
 
@@ -141,7 +141,7 @@ NPCs and factions also do things when the PCs have downtime. The GM **advances t
 
 **GM:** Choose downtime maneuvers and advance clocks for the factions you’re interested in right now. Don’t worry about the rest. Later, when you turn your attention to a faction you’ve ignored for a while, go ahead and give them several downtime phases and project clock ticks to “catch up” to current events.
 
-If you’re not sure how far to progress a faction’s clock, make a fortune roll using their Tier as the base trait, modified up or down depending on the opposition or circumstances. Tick 1 segment for a 1-3 result, 2 segments for a 4{5 result, 3 segments for a 6 result, or 5 segments for a }critical/ result.
+If you’re not sure how far to progress a faction’s clock, make a fortune roll using their Tier as the base trait, modified up or down depending on the opposition or circumstances. Tick 1 segment for a **1-3** result, 2 segments for a **4/5** result, 3 segments for a **6** result, or 5 segments for a }critical/ result.
 
 When factions do things that are known in the criminal underworld, **tell the players about it** through one of their **friends** or **contacts** or **vice purveyors**. These rumors and bits of gossip can lead to future scores and opportunities for the PCs.
 
@@ -155,7 +155,7 @@ Supernatural entities and energies have a wide variety of effects and power leve
 
 You can use the magnitude of an entity or power as a dice pool for a **fortune roll** to see how much effect it has, if it’s not obvious or certain.
 
-> A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a **1-3**, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a {4-5}, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a {6}, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a {critical}, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
+> A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a **1-3**, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a **4/5**, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a **6**, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a {critical}, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
 
 You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not *always* additive.
 
@@ -182,18 +182,14 @@ A PC with the {Ritual} special ability begins with one known ritual, already lea
 Once the source of a ritual is found, you may undertake a long-term project to learn the ritual. Most rituals will require an 8-segment progress clock to learn. The player and the GM answer questions about the ritual to define what it will do in play and what is required to perform it (see below). The player records these answers in their notes for future reference.
 
 #### Ritual Questions
-<ol>
-	- GM asks: **“What does the ritual do and how is it weird?”** Player answers.
-	- Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually {Attune}). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
-	- GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
-</ol>
+- GM asks: **“What does the ritual do and how is it weird?”** Player answers.
+- Player asks: **“What must I do to perform the ritual, and what is its price?” **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually {Attune}). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+- GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
 
 #### Example Ritual Answers
 
 > Player: “The ritual wards a person so that the ghosts of their victims cannot find them. It’s weird because... as long as the ward is in place, the person sometimes weeps tears of black blood.”
-
 > GM: “Spend a downtime action to prepare a mixture of tobacco, dream smoke, and crematory ash from a victim—which the target then smokes. You take at least 3 stress when you perform the ritual, which will be its quality for a fortune roll when it’s challenged by a spirit—so you might want to take more stress to make it more potent.”
-
 > Player: “Gotcha. My new fear is what will happen if the spirits figure out where the ward came from and turn their vengeance on me, instead.”
 
 ### Performing a Ritual
@@ -219,7 +215,7 @@ During downtime, a PC can {Tinker} with special materials and tools to produce s
 To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to {Study} it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
 
 #### Creation Questions
-- GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability ({Alchemist}<span class="game-term CharOverride-15">, <{span>}Artificer{<span class="game-term CharOverride-15">, <}span>{Strange Methods}), they get bonuses when inventing and crafting certain creation types.
+- GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability ({Alchemist}, {Artificer},{Strange Methods}), they get bonuses when inventing and crafting certain creation types.
 - Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
 - GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
 - Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
@@ -228,7 +224,7 @@ A PC with the {Alchemist}, {Artificer}, or {Strange Methods} special abilities i
 
 Once you’ve invented a formula or design, you can **craft** it by using a downtime activity (see **Crafting**, below). No one else can craft this invention unless they learn your design as a long-term project. If you acquire a formula or design invented by another tinkerer, you may learn to craft it by completing a long-term project.
 
-Common alchemicals (see **Sample Creations** on page 226) and ordinary items don’t require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
+Common alchemicals and ordinary items don’t require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
 
 ### Crafting
 
@@ -256,9 +252,9 @@ Modified items, like special creations, may have **drawbacks**.
 
 A creation or modification may have one or more drawbacks, chosen by the GM.
 
-- {Complex. }You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
-- {Conspicuous. }This creation doesn’t go unnoticed. Take **+1** {heat} if it’s used any number of times on an operation.
-- {Consumable.} This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
-- {Rare. }This creation requires a rare item or material when it is crafted.
-- {Unreliable. }When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
-- {Volatile. }The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
+- {Complex} You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
+- {Conspicuous} This creation doesn’t go unnoticed. Take **+1** {heat} if it’s used any number of times on an operation.
+- {Consumable} This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
+- {Rare} This creation requires a rare item or material when it is crafted.
+- {Unreliable} When you use the item, make a fortune roll (using its **quality**) to see how well it performs.
+- {Volatile} The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.

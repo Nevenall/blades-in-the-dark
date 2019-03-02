@@ -49,15 +49,15 @@ Each playbook has a list of NPCs that your character knows. Choose one from the 
 
 Every character is in thrall to some vice or another, which they indulge to deal with stress. Choose a vice from the list, and describe it on the line above with the specific details and the name and location of your **vice purveyor**.
 
-- {Faith: }You’re dedicated to an unseen power, forgotten god, ancestor, etc.
-- {Gambling:} You crave games of chance, betting on sporting events, etc.
-- {Luxury: }Expensive or ostentatious displays of opulence.
-- {Obligation: }You’re devoted to a family, a cause, an organization, a charity, etc.
-- {Pleasure:} Gratification from lovers, food, drink, drugs, art, theater, etc.
-- {Stupor: }You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
-- {Weird: }You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
+- {Faith}: You’re dedicated to an unseen power, forgotten god, ancestor, etc.
+- {Gambling}: You crave games of chance, betting on sporting events, etc.
+- {Luxury}: Expensive or ostentatious displays of opulence.
+- {Obligation}: You’re devoted to a family, a cause, an organization, a charity, etc.
+- {Pleasure}: Gratification from lovers, food, drink, drugs, art, theater, etc.
+- {Stupor}: You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
+- {Weird}: You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
 
-### Record your name, alias, &amp; look
+### Record your name, alias, & look
 
 Choose a name for your character from the sample list, or create your own. If your character uses an alias or nickname in the underworld, make a note of it. Record a few evocative words that describe your character’s look (samples provided on the next page).
 
@@ -71,30 +71,30 @@ That’s it! Your character is ready for play. When you start the first session,
 
 - todo style dropcaps.
 
-<span class="number">1</span> **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
+{{1}} **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
 
-<span class="number">2</span> **Choose a heritage.** Detail your choice with a note about your family life. *For example, Ore miners, now war refugees.*
+{{2}} **Choose a heritage.** Detail your choice with a note about your family life. *For example, Ore miners, now war refugees.*
 
-<span class="number">3</span> **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
+{{3}} **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
 
-<span class="number">4</span> **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
+{{4}} **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
 
-<span class="number">5</span> **Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+{{5}} **Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
-<span class="number">6</span> **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
+{{6}} **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
 
-<span class="number">7</span> **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
+{{7}} **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
 
-<span class="number">8</span> **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
+{{8}} **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
 
 ### Loadout
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character’s **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-- {1-3 load:}**Light.** *You’re faster, less conspicuous; you blend in with citizens.*
-- {4}5 load: /**Normal**. *You look like a scoundrel, ready for trouble.*
-- {6 load: }**Heavy.** *You’re slower. You look like an operative on a mission.*
-- {7-9 load: }**Encumbered.** *You’re overburdened and can’t do anything except move very slowly.*
+- {1-3 load}: **Light**. *You’re faster, less conspicuous; you blend in with citizens.*
+- {4/5 load}: **Normal**. *You look like a scoundrel, ready for trouble.*
+- {6 load}: **Heavy**. *You’re slower. You look like an operative on a mission.*
+- {7-9 load}: **Encumbered**. *You’re overburdened and can’t do anything except move very slowly.*
 
 Some special abilities (like the Cutter’s {Mule} ability or Assassin’s Rigging) increase the load limits.
 
@@ -116,13 +116,13 @@ Medium length description of the character here. Include what kind of activities
 
 *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
 
-**Example 1.** 4 Action Dots assigned plus a special ability
+**Example 1**. 4 Action Dots assigned plus a special ability
 
-**Example 2.** 4 Action Dots assigned plus a special ability
+**Example 2**. 4 Action Dots assigned plus a special ability
 
-**Example 3.** 4 Action Dots assigned plus a special ability
+**Example 3**. 4 Action Dots assigned plus a special ability
 
-**Example 4.** 4 Action Dots assigned plus a special ability
+**Example 4**. 4 Action Dots assigned plus a special ability
 
 ### Friends, rivals
 
@@ -148,7 +148,7 @@ When you **protect** a teammate, take **+1d** to your resistance roll. When you 
 
 #### Arcane fighter
 
-You may imbue your hands, melee weapons, or tools with spirit energy. You gain **potency** in combat vs. the supernatural..
+You may imbue your hands, melee weapons, or tools with spirit energy. You gain **potency** in combat vs. the supernatural.
 
 > When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
 
@@ -218,7 +218,7 @@ You gain an additional **xp trigger**: *You got payback against someone who harm
 
 #### Alchemist
 
-When you **invent** or **craft** a creation with *alchemical* features, you get **+1 result level** to your roll (a /1-3/ becomes a /4/5/, etc.). You begin with one special formula already known.
+When you **invent** or **craft** a creation with *alchemical* features, you get **+1 result level** to your roll (a **1-3** becomes a **4/5**, etc.). You begin with one special formula already known.
 
 > Follow the Inventing procedure with the GM to define your first special alchemical formula.
 
@@ -228,7 +228,7 @@ During downtime, you get **two ticks** to distribute among any long term project
 
 #### Artificer
 
-When you **invent** or **craft** a creation with *spark-craft* features, you get **+1 result level** to your roll (a /1-3/ becomes a /4/5/, etc.). You begin with one special design already known.
+When you **invent** or **craft** a creation with *spark-craft* features, you get **+1 result level** to your roll (a **1-3** becomes a **4/5**, etc.). You begin with one special design already known.
 
 > Follow the Inventing procedure with the GM to define your first spark-craft design.
 
@@ -238,7 +238,7 @@ You may expend your **special armor** to resist a consequence of fatigue, weakne
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-#### Supernatural ward
+#### Supernatural Ward
 
 When you {Wreck} an area with arcane substances, ruining it for any other use, it becomes anathema or enticing to the supernatural (your choice).
 
@@ -262,7 +262,7 @@ You are not affected by **quality** or **Tier** when you bypass security measure
 
 When you attack from hiding or spring a trap, you get **+1d** to your roll.
 
-> This ability benefits from preparation— so don’t forget you can do that in a flashback.
+> This ability benefits from preparation—so don’t forget you can do that in a flashback.
 
 #### Daredevil
 
@@ -270,7 +270,7 @@ When you roll a **desperate** action, you get **+1d** to your roll if you also t
 
 > This special ability is a bit of a gamble. The bonus die helps you, but if you suffer consequences, they’ll probably be more costly to resist. But hey, you’re a daredevil, so no big deal, right?
 
-#### The devil’s footsteps
+#### The Devil’s Footsteps
 
 You can **push yourself** to do one of the following: *perform a feat of athletics that verges on the superhuman—maneuver to confuse your enemies so they mistakenly attack each other.*
 
@@ -298,7 +298,7 @@ You may expend your **special armor** to resist a consequence from detection or 
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you “resist a consequence” of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don’t take 2 stress. Your special armor is restored at the beginning of downtime.
 
-#### Rook’s gambit
+#### Rook’s Gambit
 
 Take **2 stress** to roll your best action rating while performing a different action. Say how you adapt your skill to this use.
 
