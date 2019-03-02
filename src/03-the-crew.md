@@ -225,7 +225,9 @@ A list of five upgrades specific to the crew. Some examples:
 - **Underground Maps and Passkeys:** You have easy passage through the underground canals, tunnels, and basements of the city.
 - **Camouflage:** Your vehicles are perfectly concealed when at rest. They blend in as part of the environment, or as an uninteresting civilian vehicle (your choice).
 
-#### Make a Claim Map for the Crew. Sample claims include:
+#### Make a Claim Map for the Crew
+
+Sample claims include:
 
 {Turf}: You require one less Rep to advance in tier (max 6).
 

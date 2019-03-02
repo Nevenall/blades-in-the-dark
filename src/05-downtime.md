@@ -83,9 +83,9 @@ Say what your character does to reduce the {heat} level of the crew and make an 
 
 Reduce {heat} according to the result: **1-3** one, **4/5** two, **6** three, }critical:/ five.
 
-#### Train
+## Train
 
-When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1 xp** (2 total). *You can train a given xp track only once per downtime.*
+When you spend time in training, **mark 1 xp** on the xp track for an **attribute** or **playbook advancement**. If you have the appropriate crew Training upgrade unlocked, mark **+1 xp** (2 total). *You can train a given xp track only once per downtime.*
 
 ## Indulge vice
 
@@ -145,7 +145,7 @@ If you’re not sure how far to progress a faction’s clock, make a fortune rol
 
 When factions do things that are known in the criminal underworld, **tell the players about it** through one of their **friends** or **contacts** or **vice purveyors**. These rumors and bits of gossip can lead to future scores and opportunities for the PCs.
 
-### Downtime Activities Summary
+## Downtime Activities Summary
 
 - todo add tables p102
 
@@ -226,7 +226,7 @@ Once you’ve invented a formula or design, you can **craft** it by using a down
 
 Common alchemicals and ordinary items don’t require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
 
-### Crafting
+### Making an Item
 
 - todo add table p109
 
