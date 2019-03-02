@@ -161,7 +161,7 @@ If a cohort is destroyed, it may be replaced. Spend {coin} equal to your Tier +2
 
 ### Crew creation summary
 
-@TODO dropcaps
+- todo dropcaps
 
 <span class="number">1</span>**Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
 

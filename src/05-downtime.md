@@ -20,7 +20,7 @@ A PC can make time for more than two activities, at a cost. **Each additional ac
 
 Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are *on the list* are limited.
 
-For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend {coin} after the roll to improve the result level. **Increase the result level by one for each {coin} spent.** So, a {1-3} result becomes a {4} or a {5}, a {4}5{ result becomes a }6{, and a }6{ becomes a }critical/.
+For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend {coin} after the roll to improve the result level. **Increase the result level by one for each {coin} spent.** So, a **1-3** result becomes a {4} or a {5}, a {4}5{ result becomes a }6{, and a }6{ becomes a }critical/.
 
 **GM:** If a player can’t decide which downtime activity to pick, offer them a long-term project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.
 
@@ -67,7 +67,7 @@ Recovery is like a long-term project. Your healer rolls ({Tinker} for a PC with 
 
 When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they “roll over.”
 
-@TODO add table p99
+- todo add table p99
 
 > Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a {6}: three segments on the healing clock. He decides to spend 1 {coin} to improve the result to a {critical} to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”
 
@@ -93,7 +93,7 @@ Visit your **vice purveyor** to relieve **stress**. See the next section for det
 
 ## Vice
 
-@TODO add table p101
+- todo add table p101
 
 ### Stress Relief
 
@@ -147,7 +147,7 @@ When factions do things that are known in the criminal underworld, **tell the pl
 
 ### Downtime Activities Summary
 
-@TODO add tables p102
+- todo add tables p102
 
 ## Magnitude
 
@@ -155,7 +155,7 @@ Supernatural entities and energies have a wide variety of effects and power leve
 
 You can use the magnitude of an entity or power as a dice pool for a **fortune roll** to see how much effect it has, if it’s not obvious or certain.
 
-> A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a {1-3}, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a {4-5}, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a {6}, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a {critical}, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
+> A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a **1-3**, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a {4-5}, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a {6}, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a {critical}, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
 
 You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not *always* additive.
 
@@ -167,7 +167,7 @@ The magnitude table is provided as a tool to help the GM make judgment calls. It
 
 This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
 
-@TODO add tables from 105
+- todo add tables from 105
 
 ## Rituals
 
@@ -232,7 +232,7 @@ Common alchemicals (see **Sample Creations** on page 226) and ordinary items don
 
 ### Crafting
 
-@TODO add table p109
+- todo add table p109
 
 To craft something, spend one **downtime activity** to make a {Tinker} roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s Tier, modified by the result of the roll (see the results on the next page).
 

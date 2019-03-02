@@ -29,7 +29,7 @@ But you, the players, don’t have to do the nitty-gritty planning. The characte
 
 There are six different plans, each with a missing **detail** you need to provide (see the list below). To “plan an operation,” simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
 
-@TODO Add table p79
+- todo Add table p79
 
 ### The Detail
 
@@ -56,7 +56,7 @@ The engagement roll assumes that the PCs are approaching the target as intellige
 
 Don’t make the engagement roll and then describe the PCs *approaching* the target. It’s the approach that the engagement roll resolves. Cut to the action that results *because of* that initial approach—to the first serious obstacle in their path.
 
-@TODO add table p81
+- todo add table p81
 
 > The first obstacles at the witches’ house are their cunning locks and magical traps. The engagement roll puts us on the roof outside a window, as the PCs attempt to silently and carefully break into the attic.
 
@@ -68,7 +68,7 @@ If the players want to include a special preparation or clever setup, they can d
 
 #### Outcomes
 
-The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A {1-3} means a desperate position. A {4}5{ is a risky position. A }6{ yields a controlled position. And a }critical/ carries the action beyond the initial obstacle, deeper into the action of the score.
+The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A **1-3** means a desperate position. A {4}5{ is a risky position. A }6{ yields a controlled position. And a }critical/ carries the action beyond the initial obstacle, deeper into the action of the score.
 
 No matter how low-Tier or outmatched you are, a desperate position is the worst thing that can result from the plan + detail + engagement process. It’s designed this way so the planning process matters, but it doesn’t call for lots of optimization or nitpicking. Even if you’re reckless and just dive in and take your chances, you can’t get too badly burned. Plus, you might even want those desperate rolls to generate more xp for the PCs, which helps to bootstrap starting characters into advancement.
 
@@ -250,7 +250,7 @@ Add +1 {heat} for a high-profile or well-connected target. Add +1 {heat} if the 
 
 You mark {heat} levels on the {heat} tracker on the crew sheet.
 
-@TODO add table p91
+- todo add table p91
 
 When your {heat} level reaches 9, you gain a {wanted level} and clear your {heat} (any excess {heat} “rolls over,” so if your {heat} was 7 and you took 4 {heat}, you’d reset with 2 {heat} marked).
 
@@ -274,11 +274,11 @@ The severity of the prison sentence depends on your {wanted level}:
 
 Incarceration is dehumanizing and brutal. The renown of your crew is your only real defense inside. When you serve your time, make an **incarceration roll** using your crew’s Tier as the dice pool.
 
-@TODO add table p92
+- todo add table p92
 
 ### Prison claims
 
-@TODO add table p93
+- todo add table p93
 
 #### Allied claim
 
@@ -310,7 +310,7 @@ Your crew didn’t just spring into existence tonight. You have a complex histor
 
 After payoff and {heat} are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current {heat} level. Then roll a number of dice equal to their {wanted level}, and use the result of the roll to select which sort of entanglement manifests. *If {wanted level} is zero, roll two dice and keep the lowest result.*
 
-@TODO add table p94
+- todo add table p94
 
 Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the *Interrogation* entanglement, you might wait until a PC indulges their vice, then say the costables picked them up when they were distracted by its pleasures.
 
@@ -372,4 +372,4 @@ A rogue spirit is drawn to you—perhaps it’s a past victim? Acquire the servi
 
 ### The usual suspects
 
-The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning ({1-3}: **+2 {heat}, 4{5: level 2 harm**), or pay them off with 1 }coin/.
+The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (**1-3**: **+2 {heat}, 4{5: level 2 harm**), or pay them off with 1 }coin/.

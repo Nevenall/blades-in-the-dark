@@ -69,7 +69,7 @@ That’s it! Your character is ready for play. When you start the first session,
 
 ### Character creation summary
 
-@TODO style dropcaps.
+- todo style dropcaps.
 
 <span class="number">1</span> **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
 
@@ -110,7 +110,7 @@ Medium length description of the character here. Include what kind of activities
 
 **Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coersion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayham, tracking, or occult powers.
 
-@TODO tables 51
+- todo tables 51
 
 ### Starting builds
 
@@ -382,7 +382,7 @@ You know the arcane methods to perform ritual sorcery. You can {Study} an occult
 
 #### Strange methods
 
-When you **invent** or **craft** a creation with *arcane* features, get **+1 result level** to your roll (a {1-3} becomes a {4}5/, etc.). You begin with one arcane design already known.
+When you **invent** or **craft** a creation with *arcane* features, get **+1 result level** to your roll (a **1-3** becomes a **4/5**, etc.). You begin with one arcane design already known.
 
 > Follow the Inventing procedure with the GM  to define your first arcane design.
 

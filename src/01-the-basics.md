@@ -86,18 +86,20 @@ The phases are a conceptual model to help you organize the game. They’re not m
 
 There are 12 **actions** in the game that the player characters use to overcome obstacles.
 
-- Attune
-- Command
-- Consort
-- Finesse
-- Hunt
-- Prowl
-- Skirmish
-- Study
-- Survey
-- Sway
-- Tinker
-- Wreck
+::: columns
+- {Attune}
+- {Command}
+- {Consort}
+- {Finesse}
+- {Hunt}
+- {Prowl}
+- {Skirmish}
+- {Study}
+- {Survey}
+- {Sway}
+- {Tinker}
+- {Wreck}
+:::
 
 Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent skill or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at {Command} because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 
@@ -123,9 +125,7 @@ When the enemy has a big advantage, you’ll need to make a resistance roll befo
 
 The GM judges the threat level of the enemies and uses these “preemptive” resistance rolls as needed to reflect the capabilities of especially dangerous foes.
 
-For details on **Resistance Rolls**, see page 28.
-
-@TODO Add table from page 9.
+- todo Add table from page 9.
 
 ### Actions
 
@@ -185,7 +185,7 @@ As you can see, many actions overlap with others. This is by design. As a player
 
 Player characters in *Blades in the Dark* have a special reserve called **stress**. When they suffer a consequence that they don’t want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
-*During a knife fight, Daniel’s character, Cross, gets stabbed in the chest. Daniel rolls his {Prowess} rating to resist, and gets a {2}. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
+*During a knife fight, Daniel’s character, Cross, gets stabbed in the chest. Daniel rolls his {Prowess} rating to resist, and gets a 2. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
 
 *The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm (“Chest Wound”) instead of level 3 harm (“Punctured Lung”).*
 
@@ -220,7 +220,7 @@ When you suffer {trauma}, you’re taken out of action. You’re “left for dea
 
 A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
-@TODO add clock illustration
+- todo add clock illustration
 
 *Sneaking into the constables watch tower? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.*
 
@@ -228,7 +228,7 @@ Generally, the more complex the problem, the more segments in the progress clock
 
 A complex obstacle is a 4-segment clock. A more complicated obstacle is a 6-clock. A daunting obstacle is an 8-segment clock.
 
-When you create a clock, make it about the **obstacle,** not the method. The clocks for an infiltration should be “Interior Patrols” and “The Tower,” not “Sneak Past the Guards” or “Climb the Tower.” The patrols and the tower are the obstacles&#173;—the PCs can attempt to overcome them in a variety of ways.
+When you create a clock, make it about the **obstacle**, not the method. The clocks for an infiltration should be “Interior Patrols” and “The Tower,” not “Sneak Past the Guards” or “Climb the Tower.” The patrols and the tower are the obstacles​—the PCs can attempt to overcome them in a variety of ways.
 
 Complex enemy threats can be broken into several “layers,” each with its own progress clock. For example, the dockside gangs’ HQ might have a “Perimeter Security” clock, an “Interior Guards” clock, and a “Office Security” clock. The crew would have to make their way through all three layers to reach the gang boss’ personal safe and valuables within.
 
@@ -287,7 +287,7 @@ To make an action roll, we go through six steps. In play, they flow together som
 - The GM sets the **position** for the roll.
 - The GM sets the **effect level** for the action.
 - Add **bonus dice**.
-- The player rolls the dice** and we judge the result.
+- **The player rolls the dice** and we judge the result.
 
 ### 1. The Player States Their Goal
 
@@ -341,11 +341,11 @@ If it’s ever needed, the GM has final say over which Devil’s Bargains are va
 
 Once the goal, action rating, position, and effect have been established, add any bonus dice and roll the dice pool to determine the outcome. (See the sets of possible outcomes, by position, on the next page.)
 
-The action roll does a lot of work for you. It tells you how well the character performs as well as how serious the consequences are for them. They might succeed at their action without any consequences (on a {6}), or they might succeed but suffer consequences (on a {4}5{), or it might just all go wrong (on a }1-3/).
+The action roll does a lot of work for you. It tells you how well the character performs as well as how serious the consequences are for them. They might succeed at their action without any consequences (on a **6**), or they might succeed but suffer consequences (on a **4/5**), or it might just all go wrong (on a **1-3**).
 
-On a {1-3}, it’s up to the GM to decide if the PC’s action has any effect or not, or if it even happens at all. Usually, the action just fails completely, but in some circumstances, it might make sense or be more interesting for the action to have some effect even on a {1-3} result.
+On a **1-3**, it’s up to the GM to decide if the PC’s action has any effect or not, or if it even happens at all. Usually, the action just fails completely, but in some circumstances, it might make sense or be more interesting for the action to have some effect even on a **1-3** result.
 
-Each {4}5{ and }1-3/ outcome lists suggested **consequences** for the character. The worse your position, the worse the consequences are. The GM can inflict one or more of these consequences, depending on the circumstances of the action roll. PCs have the ability to avoid or reduce the severity of consequences that they suffer by **resisting** them.
+Each **4/5** and **1-3** outcome lists suggested **consequences** for the character. The worse your position, the worse the consequences are. The GM can inflict one or more of these consequences, depending on the circumstances of the action roll. PCs have the ability to avoid or reduce the severity of consequences that they suffer by **resisting** them.
 
 When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. *Tell us how you vault across to the other rooftop. Tell us what you say to the Inspector to convince her. The GM will tell us how she reacts. When you face the Red Sash duelist, what’s your fighting style like? Etc.*
 
@@ -359,15 +359,15 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 ### Double-duty Rolls
 
-Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a {6}, the PC wins and has their effect. On a {4}5{, it’s a mix—both the PC and the NPC have their effect. On a }1-3/, the NPC wins and has their effect as a consequence on the PC.
+Since NPCs don’t roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a **6**, the PC wins and has their effect. On a **4/5**, it’s a mix—both the PC and the NPC have their effect. On a **1-3**, the NPC wins and has their effect as a consequence on the PC.
 
-@TODO add Action Roll table p21
+- todo add Action Roll table p21
 
 ## Effect
 
-In *Blades in the Dark*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand&#173;&#173;—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
+In *Blades in the Dark*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand—**great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you’re using a **progress clock**.
 
-@TODO add fancy effect levels p23.
+- todo add fancy effect levels p23.
 
 ### Assessing Factors
 
@@ -418,10 +418,10 @@ The ability to set position and effect as independent variables gives you nine c
 
 *For example, if a character is facing off alone against a small enemy gang, the situation might be:*
 
-- *She fights the gang straight up, rushing into their midst, hacking away in a wild* {Skirmish}*. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
+- *She fights the gang straight up, rushing into their midst, hacking away in a wild {Skirmish}. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
 - *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
-- *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate { Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate } Great).*
-- *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled { Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled } Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky { Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky } Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
+- *She doesn’t fight the gang, instead trying to maneuver her way past them and escape. She’s still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can’t easily corral her, then her effect for escaping isn’t reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
+- *The gang isn’t aware of her yet—she’s set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren’t a factor, so her effect isn’t reduced, and she’s not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
 
 ## Consequences and Harm
 
@@ -441,7 +441,7 @@ Or the GM might tick a clock for the complication, instead. Maybe there’s a cl
 
 A **serious complication** is more severe: reinforcements surround and trap you, the room catches fire and falling ceiling beams block the door, your weapon is broken, the crew suffers +2 {heat}, your target escapes out of sight, etc. Fill three ticks on a clock for a serious complication.
 
-**Don’t inflict a complication that negates a successful roll.** If a PC tries to corner an enemy and gets a {4}5/, don’t say that the enemy escapes. The player’s roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them into position and during the scuffle the enemy grabs their gun.
+**Don’t inflict a complication that negates a successful roll.** If a PC tries to corner an enemy and gets a **4/5**, don’t say that the enemy escapes. The player’s roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them into position and during the scuffle the enemy grabs their gun.
 
 ### Lost Opportunity
 
@@ -459,7 +459,7 @@ Your character suffers the penalty indicated at the end of the row if any or all
 
 If you need to mark a harm level, but the row is already filled, the harm moves up to the next row above. So, if you suffered standard harm (level 2) but had no empty spaces in the second row, you’d have to record severe harm (level 3), instead. If you run out of spaces on the top row and need to mark harm there, your character suffers a **catastrophic, permanent consequence** (loss of a limb, sudden death, etc., depending on the circumstances).
 
-@TODO Table from p27
+- todo Table from p27
 
 #### Harm examples
 
@@ -483,9 +483,9 @@ You make the roll using one of your character’s **attributes** ({Insight}, {Pr
 - {Prowess}: Consequences from physical strain or injury.
 - {Resolve}: Consequences from mental strain or willpower.
 
-Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a {4}, you’d suffer 2 stress. If you rolled a {6}, you’d suffer zero stress. If you get a {critical} result, you also **clear 1 stress**.
+Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a **4**, you’d suffer 2 stress. If you rolled a **6**, you’d suffer zero stress. If you get a {critical} result, you also **clear 1 stress**.
 
-> Ian’s character, Silas, is in a desperate {Skirmish} with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, “Gut Stabbed” on Silas’s sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas’s {Prowess} attribute and gets a {5}. Silas takes 1 stress and the harm is reduced to level 2, “Cut to the Ribs.”
+> Ian’s character, Silas, is in a desperate {Skirmish} with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, “Gut Stabbed” on Silas’s sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas’s {Prowess} attribute and gets a **5**. Silas takes 1 stress and the harm is reduced to level 2, “Cut to the Ribs.”
 
 Usually, a resistance roll **reduces the severity** of a consequence. If you’re going to suffer fatal harm, for example, a resistance roll would reduce the harm to severe, instead. Or if you got a complication when you were sneaking into the manor house, and the GM was going to mark three ticks on the “Alert” clock, she’d only mark two (or maybe one) if you resisted the complication.
 
@@ -502,7 +502,7 @@ The GM may also threaten several consequences at once, then the player may choos
 
 Once you decide to resist a consequence and roll, you suffer the stress indicated. You can’t roll first and see how much stress you’ll take, then decide whether or not to resist.
 
-@TODO add table p29
+- todo add table p29
 
 ### Armor
 
@@ -548,11 +548,11 @@ Other examples of fortune rolls:
 
 - The PCs instigate a war between two factions, then sit back and watch the fireworks. How does it turn out? Does either side dominate? Are they both made vulnerable by the conflict? Make a few fortune rolls to find out.
 - A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
-- The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled {Hunt} roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his “toughness” as a trait to see if he can possibly survive the attack. The roll is a {4}5/: the bullet misses his heart, but hits him in the lung—it’s a mortal wound. He’s on death’s door, with only hours to live, unless his gang can get an expert physicker to him in time.
+- The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled {Hunt} roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his “toughness” as a trait to see if he can possibly survive the attack. The roll is a **4/5**: the bullet misses his heart, but hits him in the lung—it’s a mortal wound. He’s on death’s door, with only hours to live, unless his gang can get an expert physicker to him in time.
 - Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew’s {wanted level} counts as a major advantage for the inspectors.
 - The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs’ favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew’s lives. The GM isn’t sure. How cold-hearted is this veteran hunter? She’s stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for “human feelings” to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to {Consort}, {Sway}, or {Command} her to stand down.
 
-@TODO table p31
+- todo table p31
 
 ## Gathering Information
 
@@ -576,7 +576,7 @@ Some questions are too complex to answer immediately with a single gather inform
 
 You track the investigation project using a progress clock. Once the clock is filled, you have the evidence you need to ask several questions about the subject of your investigation as if you had great effect.
 
-### Examples &amp; Questions
+### Examples & Questions
 
 - You might {Attune} to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
 - You might {Command} a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
@@ -589,7 +589,7 @@ You track the investigation project using a progress clock. Once the clock is fi
 - You might {Sway} a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
 - Or you might {Sway} his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
 
-@TODO table p33
+- todo table p33
 
 ## Coin and Stash
 
@@ -601,14 +601,14 @@ The few bits PCs use in their daily lives are not tracked. If a character wants 
 
 ### Monetary values
 
-- {1 coin: }A full purse of silver pieces. A week’s wages.
-- {2 coin:} A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
-- {4 coin:} A satchel full of silver. A month’s wages.
-- {6 coin:} An exquisite jewel. A heavy burden of silver pieces.
-- {8 coin:} A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
-- {10 coin:} Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
+- {1 coin}: A full purse of silver pieces. A week’s wages.
+- {2 coin}: A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
+- {4 coin}: A satchel full of silver. A month’s wages.
+- {6 coin}: An exquisite jewel. A heavy burden of silver pieces.
+- {8 coin}: A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
+- {10 coin}: Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
 
-More than 4{coin} is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4<span class="game-term CharOverride-5"> <{span>}coin{ in their lair, by default. If they upgrade to a **vault**, they can expand their stores to <span class="game-term CharOverride-15">8<}span> and then 16 {coin}. Any {coin} beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
+More than 4 {coin} is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4 {coin} in their lair, by default. If they upgrade to a **vault**, they can expand their stores to 8 and then 16 {coin}. Any {coin} beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
 
 One unit of {coin} in silver pieces or other bulk currency takes up one item slot for your **load** when carried.
 
@@ -620,14 +620,14 @@ One unit of {coin} in silver pieces or other bulk currency takes up one item slo
 - Put {coin} in your character’s **stash** to improve their lifestyle and circumstances when they retire. See the next page.
 - Spend {coin} when you advance your crew’s **Tier**.
 
-### Stash &amp; Retirement
+### Stash & Retirement
 
 When you mark your character’s final {trauma} and they retire, the amount of {coin} they’ve managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
-- **Stash 0-10: Poor soul.**You end up in the gutter, awash in vice and misery.
-- **Stash 11-20: Meager.** A tiny hovel that you can call your own.
-- **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
-- **Stash 40: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
+- **Stash 0-10: Poor soul**. You end up in the gutter, awash in vice and misery.
+- **Stash 11-20: Meager**. A tiny hovel that you can call your own.
+- **Stash 21-39: Modest**. A simple home or apartment, with some small comforts. You might operate a tavern or small business.
+- **Stash 40: Fine**. A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
 
 In addition, each full row of stash (10 {coins}) indicates the **quality level of the character’s lifestyle**, from zero (street life) to four (luxury).
 
@@ -635,7 +635,7 @@ In addition, each full row of stash (10 {coins}) indicates the **quality level o
 
 #### Removing coin from your stash
 
-If you want to pull {coin} out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 {coin} in cash.**
+If you want to pull {coin} out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 {coin} in cash**.
 
 ## The Faction Game
 
@@ -662,11 +662,11 @@ On the faction ladder next to the Tier numbers is a letter indicating the streng
 
 To move up the ladder and develop your crew, you need {rep}. {Rep} is a measure of clout and renown. When you accrue enough {rep}, the other factions take you more seriously and you attract the support needed to develop and grow.
 
-When you complete a score, your crew earns **2 **{rep}. If the target of the score is higher Tier than your crew, you get **+1 {rep} per Tier higher**. If the target of the score is lower Tier, you get **-1 {rep} per Tier lower** (minimum zero).
+When you complete a score, your crew earns **2 {rep}**. If the target of the score is higher Tier than your crew, you get **+1 {rep} per Tier higher**. If the target of the score is lower Tier, you get **-1 {rep} per Tier lower** (minimum zero).
 
 You need **12 {rep}** to fill the {rep} tracker on your crew sheet. When you fill the tracker, do one of the following:
 
-- If your hold is weak, it becomes strong. **Reset your**{rep}**to zero**.
+- If your hold is weak, it becomes strong. **Reset your {rep} to zero**.
 - If your hold is strong, you can pay to increase your crew Tier by one. This costs {coin} equal to your **new Tier x 8**. As long as your {rep} tracker is full, you don’t earn new {rep} (12 is the max). Once you pay and increase your Tier, **reset your {rep} to zero** and **reduce your hold to weak**.
 
 ### Turf
@@ -675,7 +675,7 @@ Another way to contribute to the crew’s development is by acquiring **turf**. 
 
 Turf is marked on your {rep} tracker (see the example below). Each piece of turf you hold reduces the {rep} cost to develop by one. So, if you have 2 turf, you need 10 {rep} to develop. If you have 4 turf, you need 8 {rep} to develop. **You can hold a maximum of 6 turf.** When you develop and reset your {rep}, **you keep the marks from all the turf you hold.**
 
-@TODO table p37
+- todo table p37
 
 Also, when you acquire turf, you expand the scope of your crew’s **hunting grounds**.
 
@@ -700,8 +700,8 @@ When you execute an operation, you gain -1 or -2 status with factions that are h
 #### Faction status levels
 
 - **+3: Allies**. This faction will help you even if it’s not in their best interest to do so. They expect you to do the same for them.
-- **+2: Friendly**.** This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
-- **+1: Helpful**.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
+- **+2: Friendly**. This faction will help you if it doesn’t create serious problems for them. They expect you to do the same.
+- **+1: Helpful**. This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
 - **0: Neutral**
 - **-1: Interfering.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
 - **-2: Hostile.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
@@ -772,4 +772,4 @@ Say how you’ve obtained this new ability or upgrades for the crew. *Where did 
 
 #### Profits
 
-Every time the crew advances, **each PC gets** **s**tash** equal to the crew Tier+2, to represent profits generated by the crew as they’ve been operating.
+Every time the crew advances, **each PC gets stash** equal to the crew Tier+2, to represent profits generated by the crew as they’ve been operating.
