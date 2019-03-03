@@ -150,10 +150,10 @@ When you send a cohort to achieve a goal, roll their **quality** to see how it g
 ### Cohort harm & Healing
 
 Cohorts suffer harm similarly to PCs. A cohort can suffer four levels of harm:
-  - **Weakened.** The cohort has reduced effect.
-  - **Impaired.** The cohort operates with reduced quality (-1d).
-  - **Broken.** The cohort can’t do anything until they recover.
-  - **Dead.** The cohort is destroyed.
+- **Weakened.** The cohort has reduced effect.
+- **Impaired.** The cohort operates with reduced quality (-1d).
+- **Broken.** The cohort can’t do anything until they recover.
+- **Dead.** The cohort is destroyed.
 
 All of your cohorts heal during downtime. If circumstances are amenable for recovery, each cohort removes one level of harm (or two levels of harm instead, if a PC spends a downtime activity helping them recuperate).
 
@@ -161,28 +161,30 @@ If a cohort is destroyed, it may be replaced. Spend {coin} equal to your Tier +2
 
 ### Crew creation summary
 
-- todo dropcaps
-
-{{1}} **Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
+::: div drop-caps-list
+::: div drop-cap-1 
+**Choose a crew type.** The crew type determines the group’s purpose, their special abilities, and how they advance.
 
 You begin at **Tier 0**, with **strong hold** and 0 {rep}. You start with 2 {coin}.
+:::
 
-{{2}} **Choose an initial reputation and lair.** Choose how other underworld factions see you:*Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange.* Look at the map and pick a district in which to place your lair. Describe the lair.
+2 **Choose an initial reputation and lair.** Choose how other underworld factions see you: *Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange.* Look at the map and pick a district in which to place your lair. Describe the lair.
 
-{{3}} **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
+3 **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
 
 - Pay them 1 {coin}.
 - Pay them 2 {coin}. Get **+1 status**.
 - Pay nothing. Get **-1 status**.
 
-{{4}} **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+4 **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
-{{5}} **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
+5 **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
 
 - One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 {coin} for **+2 status** instead.
 - One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 {coin} for **-1 status** instead.
 
-{{6}} **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
+6 **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
+:::
 
 - One faction is friendly with your contact. Take **+1 status** with them.
 - One faction is unfriendly with your contact. Take **-1 status** with them.
