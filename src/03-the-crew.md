@@ -168,22 +168,32 @@ If a cohort is destroyed, it may be replaced. Spend {coin} equal to your Tier +2
 You begin at **Tier 0**, with **strong hold** and 0 {rep}. You start with 2 {coin}.
 :::
 
-2 **Choose an initial reputation and lair.** Choose how other underworld factions see you: *Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange.* Look at the map and pick a district in which to place your lair. Describe the lair.
+::: div drop-cap-2
+**Choose an initial reputation and lair.** Choose how other underworld factions see you: *Ambitious—Brutal—Daring—Honorable—Professional—Savvy—Subtle—Strange.* Look at the map and pick a district in which to place your lair. Describe the lair.
+:::
 
-3 **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
+::: div drop-cap-3
+**Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
 
 - Pay them 1 {coin}.
 - Pay them 2 {coin}. Get **+1 status**.
 - Pay nothing. Get **-1 status**.
+:::
 
-4 **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+::: div drop-cap-4
+**Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+:::
 
-5 **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
+::: div drop-cap-5
+**Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
 
 - One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 {coin} for **+2 status** instead.
 - One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 {coin} for **-1 status** instead.
+:::
 
-6 **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
+::: div dropcap-6
+**Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
+:::
 :::
 
 - One faction is friendly with your contact. Take **+1 status** with them.
@@ -207,7 +217,7 @@ You’re professional murderers—death is your business.
 - Second upgrade
 
 ### Favored Operations
-A list of operation types that the crew may perform. Some possibilities include: murder, ransom, extortion, sabotage, acquisition, consecration, sacrifice, sale, supply, show of force, sociailize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
+A list of operation types that the crew may perform. Some possibilities include: murder, ransom, extortion, sabotage, acquisition, consecration, sacrifice, sale, supply, show of force, socialize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
 
 ### Contacts
 

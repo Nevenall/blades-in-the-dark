@@ -70,21 +70,30 @@ That’s it! Your character is ready for play. When you start the first session,
 ### Character creation summary
 
 ::: div drop-cap-list
-1 **Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
-
-2 **Choose a heritage.** Detail your choice with a note about your family life. *For example, Ore miners, now war refugees.*
-
-3 **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
-
-4 **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
-
-5 **Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
-
-6 **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
-
-7 **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
-
-8 **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
+::: div drop-cap-1
+**Choose a playbook.** Your playbook represents your character’s reputation, their special abilities, and how they advance.
+:::
+::: div drop-cap-2
+**Choose a heritage.** Detail your choice with a note about your family life. *For example, Ore miners, now war refugees.*
+:::
+::: div drop-cap-3
+**Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
+:::
+::: div drop-cap-4
+**Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
+:::
+::: div drop-cap-5
+**Choose a special ability.** They’re in the gray column in the middle of the character sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
+:::
+::: div drop-cap-6
+**Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
+:::
+::: div drop-cap-7
+**Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
+:::
+::: div drop-cap-8
+**Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided on the preceding page.
+:::
 :::
 
 ### Loadout

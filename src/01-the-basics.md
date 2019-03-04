@@ -86,7 +86,7 @@ The phases are a conceptual model to help you organize the game. They’re not m
 
 There are 12 **actions** in the game that the player characters use to overcome obstacles.
 
-::: columns
+::: sidebar right
 - {Attune}
 - {Command}
 - {Consort}
