@@ -29,7 +29,7 @@ const sourceGlob = ['src/**/*.md']
 const assetsGlob = ['src/assets/**']
 const destination = 'html/'
 const destinationGlob = 'html/**'
-const publishTarget = "publish/"
+const publishTarget = "c:/src/svelte-app/src/pages"
 
 var book = null
 
