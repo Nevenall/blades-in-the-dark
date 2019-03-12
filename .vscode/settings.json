@@ -3,9 +3,8 @@
     "en"
   ],
    "spellright.documentTypes": [
-    "latex",
-    "plaintext",
-    "markdown"
-  ],
+      "latex",
+      "plaintext"
+   ],
    "search.usePCRE2": true
 }
