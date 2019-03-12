@@ -217,6 +217,7 @@ You’re professional murderers—death is your business.
 - Second upgrade
 
 ### Favored Operations
+
 A list of operation types that the crew may perform. Some possibilities include: murder, ransom, extortion, sabotage, acquisition, consecration, sacrifice, sale, supply, show of force, socialize, burglary, espionage, robbery, smuggling arms, smuggling contraband, or smuggling passengers.
 
 ### Contacts

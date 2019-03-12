@@ -29,7 +29,7 @@ const markdown = unified()
       open: '{',
       close: '}',
       element: 'span',
-      class: 'term-1'
+      class: 'game-term'
    }, {
       open: '{{',
       close: '}}',
